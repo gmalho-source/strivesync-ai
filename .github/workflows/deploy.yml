@@ -79,24 +79,43 @@ jobs:
           for v in SSH_PRIVATE_KEY SSH_HOST SSH_USER; do
             [ -n "${!v}" ] || { echo "::error::Secret $v is empty or missing"; exit 1; }
           done
-          [ -n "$SSH_PORT" ] || echo "::warning::SSH_PORT not set, using 22"
+          # Strip whitespace/newlines pasted along with the secrets
+          host=$(printf '%s' "$SSH_HOST" | tr -d '[:space:]')
+          port=$(printf '%s' "$SSH_PORT" | tr -d '[:space:]')
+          user=$(printf '%s' "$SSH_USER" | tr -d '[:space:]')
+          port=${port:-22}
+          [ "$host" = "$SSH_HOST" ] || echo "::warning::SSH_HOST had surrounding whitespace (trimmed)"
+          [ "$port" = "$SSH_PORT" ] || echo "::warning::SSH_PORT had surrounding whitespace or was empty"
+          case "$port" in *[!0-9]*) echo "::error::SSH_PORT must be a number only"; exit 1;; esac
+          case "$host" in *@*|*://*|*/*) echo "::error::SSH_HOST must be a bare hostname or IP (no user@, protocol or path)"; exit 1;; esac
+
+          echo "DNS:"; getent hosts "$host" || echo "::error::SSH_HOST does not resolve"
+          echo "TCP probe:"
+          if timeout 10 bash -c "exec 3<>/dev/tcp/$host/$port" 2>/tmp/tcp_err; then
+            echo "port reachable"
+          else
+            echo "port NOT reachable: $(cat /tmp/tcp_err)"
+          fi
+
           install -m 700 -d ~/.ssh
-          printf '%s\n' "$SSH_PRIVATE_KEY" > ~/.ssh/deploy_key
+          printf '%s\n' "$SSH_PRIVATE_KEY" | tr -d '\r' > ~/.ssh/deploy_key
           chmod 600 ~/.ssh/deploy_key
+          ssh-keygen -y -f ~/.ssh/deploy_key > /dev/null \
+            || { echo "::error::SSH_PRIVATE_KEY is not a valid private key (or is passphrase-protected)"; exit 1; }
           if [ -n "$SSH_KNOWN_HOSTS" ]; then
             printf '%s\n' "$SSH_KNOWN_HOSTS" > ~/.ssh/known_hosts
           else
-            ssh-keyscan -T 15 -p "${SSH_PORT:-22}" "$SSH_HOST" > ~/.ssh/known_hosts 2>/dev/null || true
+            ssh-keyscan -T 15 -p "$port" "$host" > ~/.ssh/known_hosts || true
           fi
           [ -s ~/.ssh/known_hosts ] || {
-            echo "::error::No SSH host key from port ${SSH_PORT:-22}. Wrong host/port, SSH disabled, or the server firewall blocks GitHub Actions IPs."
+            echo "::error::No SSH host key received. See DNS/TCP probe above."
             exit 1
           }
           cat > ~/.ssh/config <<EOF
           Host wp
-            HostName $SSH_HOST
-            Port ${SSH_PORT:-22}
-            User $SSH_USER
+            HostName $host
+            Port $port
+            User $user
             IdentityFile ~/.ssh/deploy_key
             IdentitiesOnly yes
             StrictHostKeyChecking yes
