@@ -1,0 +1,152 @@
+name: Deploy to strivesync.ai
+
+# Deploys the code managed by this repo (custom plugin + child theme) to the
+# WordPress server over SSH. Content (pages, posts, SEO) is NOT deployed here;
+# that goes through the WordPress REST API.
+#
+# Required repository secrets:
+#   SSH_HOST         server hostname or IP
+#   SSH_PORT         SSH port (e.g. 22, 2222, 21098)
+#   SSH_USER         SSH user
+#   SSH_PRIVATE_KEY  private key (ed25519) whose public key is in the server's authorized_keys
+#   WP_PATH          absolute path to the WordPress root (folder containing wp-config.php)
+# Optional:
+#   SSH_KNOWN_HOSTS  output of `ssh-keyscan -p <port> <host>`; if absent the host key is scanned at runtime
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "wp-content/**"
+      - ".github/workflows/deploy.yml"
+  pull_request:
+    paths:
+      - "wp-content/**"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run (show what would change, deploy nothing)"
+        type: boolean
+        default: true
+
+concurrency:
+  group: deploy-production
+  cancel-in-progress: false
+
+env:
+  # Directories this repo owns on the server. rsync --delete is scoped to these only.
+  MANAGED_DIRS: >-
+    wp-content/plugins/strivesync-core
+    wp-content/themes/strivesync-child
+  BACKUP_DIR: strivesync-backups
+  BACKUPS_TO_KEEP: "15"
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment: production
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Decide mode
+        id: mode
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            echo "dry_run=true" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "dry_run=${{ inputs.dry_run }}" >> "$GITHUB_OUTPUT"
+          else
+            echo "dry_run=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: PHP syntax check
+        run: |
+          find wp-content -name '*.php' -print0 | xargs -0 -n1 php -l > /dev/null
+
+      - name: Stamp build
+        run: |
+          echo "${GITHUB_SHA}" > wp-content/plugins/strivesync-core/BUILD
+          date -u +%Y-%m-%dT%H:%M:%SZ >> wp-content/plugins/strivesync-core/BUILD
+
+      - name: Configure SSH
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+          SSH_KNOWN_HOSTS: ${{ secrets.SSH_KNOWN_HOSTS }}
+          SSH_HOST: ${{ secrets.SSH_HOST }}
+          SSH_PORT: ${{ secrets.SSH_PORT }}
+          SSH_USER: ${{ secrets.SSH_USER }}
+        run: |
+          install -m 700 -d ~/.ssh
+          printf '%s\n' "$SSH_PRIVATE_KEY" > ~/.ssh/deploy_key
+          chmod 600 ~/.ssh/deploy_key
+          if [ -n "$SSH_KNOWN_HOSTS" ]; then
+            printf '%s\n' "$SSH_KNOWN_HOSTS" > ~/.ssh/known_hosts
+          else
+            ssh-keyscan -p "${SSH_PORT:-22}" "$SSH_HOST" > ~/.ssh/known_hosts 2>/dev/null
+          fi
+          cat > ~/.ssh/config <<EOF
+          Host wp
+            HostName $SSH_HOST
+            Port ${SSH_PORT:-22}
+            User $SSH_USER
+            IdentityFile ~/.ssh/deploy_key
+            IdentitiesOnly yes
+            StrictHostKeyChecking yes
+            ServerAliveInterval 30
+          EOF
+
+      - name: Preflight
+        env:
+          WP_PATH: ${{ secrets.WP_PATH }}
+        run: |
+          ssh wp "test -f '$WP_PATH/wp-config.php'" \
+            || { echo "::error::wp-config.php not found in WP_PATH"; exit 1; }
+          ssh wp "command -v rsync >/dev/null" \
+            || { echo "::error::rsync is not installed on the server"; exit 1; }
+          ssh wp "cd '$WP_PATH' && (command -v wp >/dev/null && wp core version || echo 'wp-cli not available')"
+
+      - name: Backup managed directories
+        if: steps.mode.outputs.dry_run == 'false'
+        env:
+          WP_PATH: ${{ secrets.WP_PATH }}
+        run: |
+          ssh wp bash -s -- "$WP_PATH" "$BACKUP_DIR" "$BACKUPS_TO_KEEP" "$MANAGED_DIRS" <<'REMOTE'
+          set -euo pipefail
+          wp_path="$1"; backup_dir="$HOME/$2"; keep="$3"; dirs="$4"
+          mkdir -p "$backup_dir"
+          existing=""
+          for d in $dirs; do [ -d "$wp_path/$d" ] && existing="$existing $d"; done
+          if [ -n "$existing" ]; then
+            archive="$backup_dir/$(date -u +%Y%m%d-%H%M%S).tar.gz"
+            tar -czf "$archive" -C "$wp_path" $existing
+            echo "Backup: $archive"
+          else
+            echo "Nothing to back up yet (first deploy)."
+          fi
+          ls -1t "$backup_dir"/*.tar.gz 2>/dev/null | tail -n +"$((keep + 1))" | xargs -r rm -f
+          REMOTE
+
+      - name: Sync files
+        env:
+          WP_PATH: ${{ secrets.WP_PATH }}
+          DRY_RUN: ${{ steps.mode.outputs.dry_run }}
+        run: |
+          flags="-rlz --checksum --delete --itemize-changes --exclude=.DS_Store --exclude=.gitkeep"
+          [ "$DRY_RUN" = "true" ] && flags="$flags --dry-run" && echo "DRY RUN: nothing will be written."
+          for d in $MANAGED_DIRS; do
+            echo "::group::$d"
+            ssh wp "mkdir -p '$WP_PATH/$d'"
+            rsync $flags -e ssh "$d/" "wp:$WP_PATH/$d/"
+            echo "::endgroup::"
+          done
+
+      - name: Flush caches
+        if: steps.mode.outputs.dry_run == 'false'
+        env:
+          WP_PATH: ${{ secrets.WP_PATH }}
+        run: |
+          ssh wp "cd '$WP_PATH' && command -v wp >/dev/null && wp cache flush || true"
+
+      - name: Cleanup
+        if: always()
+        run: rm -f ~/.ssh/deploy_key
