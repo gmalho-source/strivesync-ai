@@ -150,7 +150,7 @@ Formulário Fluent Forms, campo "I'm interested in":
 - Atual: Artificial Intelligence · Digital Marketing · Website / eCommerce · Branding
 - Proposto: **AI Agents · Automation & Integrations · AI-Ready Website · Not sure yet**
 
-Atenção: mudar as opções afeta relatórios e integrações que dependam destes valores (CRM, Zapier). Confirma se algum fluxo os usa.
+Confirmado: nenhum fluxo depende dos valores atuais.
 
 ---
 
@@ -177,6 +177,6 @@ Ficam em rascunho, não apagadas, para poderem ser reativadas.
 
 1. Três componentes de AI Systems: **aprovado**, com websites como componente e não como serviço autónomo.
 2. Menu **AI Systems ▾ · About · Contact**: **aprovado** (ajustado para refletir o ponto 1).
-3. Formulário de contacto: por confirmar se há fluxos dependentes dos valores atuais.
+3. Formulário de contacto: **aprovado**, não há fluxos dependentes. Opções passam a AI Agents · Automation & Integrations · AI-Ready Website · Not sure yet (Fluent Forms, form id 3).
 4. Título do site: por confirmar; mantém-se até decisão em contrário.
 5. Agentes em árabe e inglês: **confirmado**, a promessa mantém-se no copy (Home, cartão 1, e AI for Business, Customer Service).
