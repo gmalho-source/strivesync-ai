@@ -179,3 +179,4 @@ Ficam em rascunho, não apagadas, para poderem ser reativadas.
 2. Menu **AI Systems ▾ · About · Contact**: **aprovado** (ajustado para refletir o ponto 1).
 3. Formulário de contacto: por confirmar se há fluxos dependentes dos valores atuais.
 4. Título do site: por confirmar; mantém-se até decisão em contrário.
+5. Agentes em árabe e inglês: **confirmado**, a promessa mantém-se no copy (Home, cartão 1, e AI for Business, Customer Service).
