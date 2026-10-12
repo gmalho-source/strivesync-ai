@@ -1,0 +1,238 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1793"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1793",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1793"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1793"
+      }
+    ],
+    "wp:attached-to": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/posts/1791",
+        "id": 1791,
+        "post_type": "post"
+      }
+    ]
+  },
+  "alt_text": "hand pointing at an atomation for markleting - Article Cover",
+  "author": 1,
+  "caption": {
+    "raw": "AI-Driven Workflow, Automating Data Management Analytics and Business Reports with KPIs, Predictive Insights, and Big Data Integration. Businessman touching Virtual Screen with Decision-Making Tech.",
+    "rendered": "<p>AI-Driven Workflow, Automating Data Management Analytics and Business Reports with KPIs, Predictive Insights, and Big Data Integration. Businessman touching Virtual Screen with Decision-Making Tech.</p>\n"
+  },
+  "class_list": [
+    "post-1793",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "closed",
+  "date": "2026-04-19T15:24:59",
+  "date_gmt": "2026-04-19T15:24:59",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2026/04/Marketing-Automation-artice-cover-ad-Strivesync-AI-web.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"150\" src=\"https://strivesync.ai/wp-content/uploads/2026/04/Marketing-Automation-artice-cover-ad-Strivesync-AI-web-300x150.jpg\" class=\"attachment-medium size-medium\" alt=\"hand pointing at an atomation for markleting - Article Cover\" srcset=\"https://strivesync.ai/wp-content/uploads/2026/04/Marketing-Automation-artice-cover-ad-Strivesync-AI-web-300x150.jpg 300w, https://strivesync.ai/wp-content/uploads/2026/04/Marketing-Automation-artice-cover-ad-Strivesync-AI-web-1024x512.jpg 1024w, https://strivesync.ai/wp-content/uploads/2026/04/Marketing-Automation-artice-cover-ad-Strivesync-AI-web-768x384.jpg 768w, https://strivesync.ai/wp-content/uploads/2026/04/Marketing-Automation-artice-cover-ad-Strivesync-AI-web-1536x768.jpg 1536w, https://strivesync.ai/wp-content/uploads/2026/04/Marketing-Automation-artice-cover-ad-Strivesync-AI-web.jpg 2000w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "Marketing-Automation-artice-cover-ad-Strivesync-AI-web.jpg",
+  "filesize": 650033,
+  "generated_slug": "ai-driven-workflow-automating-data-management-analytics-and-business-reports-with-kpis-predictive-insights-and-big-data-integration-businessman-touching-virtual-screen-with-decision-making-tech",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2026/04/Marketing-Automation-artice-cover-ad-Strivesync-AI-web.jpg",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2026/04/Marketing-Automation-artice-cover-ad-Strivesync-AI-web.jpg"
+  },
+  "id": 1793,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 82,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/artificial-intelligence/marketing-automation-ai/attachment/ai-driven-workflow-automating-data-management-analytics-and-business-reports-with-kpis-predictive-insights-and-big-data-integration-businessman-touching-virtual-screen-with-decision-making-tech/",
+  "media_details": {
+    "file": "2026/04/Marketing-Automation-artice-cover-ad-Strivesync-AI-web.jpg",
+    "filesize": 650033,
+    "height": 1000,
+    "image_meta": {
+      "aperture": "0",
+      "camera": "",
+      "caption": "AI-Driven Workflow, Automating Data Management Analytics and Business Reports with KPIs, Predictive Insights, and Big Data Integration. Businessman touching Virtual Screen with Decision-Making Tech.",
+      "copyright": "Nicolas Herrbach",
+      "created_timestamp": "0",
+      "credit": "Getty Images",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [],
+      "orientation": "1",
+      "shutter_speed": "0",
+      "title": "AI-Driven Workflow, Automating Data Management Analytics and Business Reports with KPIs, Predictive Insights, and Big Data Integration. Businessman touching Virtual Screen with Decision-Making Tech."
+    },
+    "sizes": {
+      "1536x1536": {
+        "file": "Marketing-Automation-artice-cover-ad-Strivesync-AI-web-1536x768.jpg",
+        "filesize": 146310,
+        "height": 768,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/Marketing-Automation-artice-cover-ad-Strivesync-AI-web-1536x768.jpg",
+        "width": 1536
+      },
+      "full": {
+        "file": "Marketing-Automation-artice-cover-ad-Strivesync-AI-web.jpg",
+        "height": 1000,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/Marketing-Automation-artice-cover-ad-Strivesync-AI-web.jpg",
+        "width": 2000
+      },
+      "large": {
+        "file": "Marketing-Automation-artice-cover-ad-Strivesync-AI-web-1024x512.jpg",
+        "filesize": 80780,
+        "height": 512,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/Marketing-Automation-artice-cover-ad-Strivesync-AI-web-1024x512.jpg",
+        "width": 1024
+      },
+      "large_featured": {
+        "file": "Marketing-Automation-artice-cover-ad-Strivesync-AI-web-1870x770.jpg",
+        "filesize": 174121,
+        "height": 770,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/Marketing-Automation-artice-cover-ad-Strivesync-AI-web-1870x770.jpg",
+        "width": 1870
+      },
+      "medium": {
+        "file": "Marketing-Automation-artice-cover-ad-Strivesync-AI-web-300x150.jpg",
+        "filesize": 11001,
+        "height": 150,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/Marketing-Automation-artice-cover-ad-Strivesync-AI-web-300x150.jpg",
+        "width": 300
+      },
+      "medium_featured": {
+        "file": "Marketing-Automation-artice-cover-ad-Strivesync-AI-web-800x800.jpg",
+        "filesize": 100717,
+        "height": 800,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/Marketing-Automation-artice-cover-ad-Strivesync-AI-web-800x800.jpg",
+        "width": 800
+      },
+      "medium_large": {
+        "file": "Marketing-Automation-artice-cover-ad-Strivesync-AI-web-768x384.jpg",
+        "filesize": 51857,
+        "height": 384,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/Marketing-Automation-artice-cover-ad-Strivesync-AI-web-768x384.jpg",
+        "width": 768
+      },
+      "nectar_small_square": {
+        "file": "Marketing-Automation-artice-cover-ad-Strivesync-AI-web-140x140.jpg",
+        "filesize": 6680,
+        "height": 140,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/Marketing-Automation-artice-cover-ad-Strivesync-AI-web-140x140.jpg",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "Marketing-Automation-artice-cover-ad-Strivesync-AI-web-600x403.jpg",
+        "filesize": 50055,
+        "height": 403,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/Marketing-Automation-artice-cover-ad-Strivesync-AI-web-600x403.jpg",
+        "width": 600
+      },
+      "portfolio-widget": {
+        "file": "Marketing-Automation-artice-cover-ad-Strivesync-AI-web-100x100.jpg",
+        "filesize": 4043,
+        "height": 100,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/Marketing-Automation-artice-cover-ad-Strivesync-AI-web-100x100.jpg",
+        "width": 100
+      },
+      "regular_small": {
+        "file": "Marketing-Automation-artice-cover-ad-Strivesync-AI-web-350x350.jpg",
+        "filesize": 28868,
+        "height": 350,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/Marketing-Automation-artice-cover-ad-Strivesync-AI-web-350x350.jpg",
+        "width": 350
+      },
+      "thumbnail": {
+        "file": "Marketing-Automation-artice-cover-ad-Strivesync-AI-web-150x150.jpg",
+        "filesize": 7448,
+        "height": 150,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/Marketing-Automation-artice-cover-ad-Strivesync-AI-web-150x150.jpg",
+        "width": 150
+      }
+    },
+    "width": 2000
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/jpeg",
+  "missing_image_sizes": [],
+  "modified": "2026-04-19T15:25:45",
+  "modified_gmt": "2026-04-19T15:25:45",
+  "permalink_template": "https://strivesync.ai/artificial-intelligence/marketing-automation-ai/%postname%/",
+  "ping_status": "closed",
+  "post": 1791,
+  "slug": "ai-driven-workflow-automating-data-management-analytics-and-business-reports-with-kpis-predictive-insights-and-big-data-integration-businessman-touching-virtual-screen-with-decision-making-tech",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/Marketing-Automation-artice-cover-ad-Strivesync-AI-web.jpg",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "AI-Driven Workflow, Automating Data Management Analytics and Business Reports with KPIs, Predictive Insights, and Big Data Integration. Businessman touching Virtual Screen with Decision-Making Tech.",
+    "rendered": "AI-Driven Workflow, Automating Data Management Analytics and Business Reports with KPIs, Predictive Insights, and Big Data Integration. Businessman touching Virtual Screen with Decision-Making Tech."
+  },
+  "type": "attachment"
+}

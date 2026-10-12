@@ -1,0 +1,238 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1478"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1478",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1478"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1478"
+      }
+    ],
+    "wp:attached-to": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/pages/1466",
+        "id": 1466,
+        "post_type": "page"
+      }
+    ]
+  },
+  "alt_text": "Fundador Strivesync UAE",
+  "author": 1,
+  "caption": {
+    "raw": "",
+    "rendered": ""
+  },
+  "class_list": [
+    "post-1478",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "open",
+  "date": "2026-03-08T22:11:02",
+  "date_gmt": "2026-03-08T22:11:02",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2026/03/Goncalo-Malho-Rodrigues-Dubai-1-web-version.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"300\" src=\"https://strivesync.ai/wp-content/uploads/2026/03/Goncalo-Malho-Rodrigues-Dubai-1-web-version-300x300.jpg\" class=\"attachment-medium size-medium\" alt=\"Fundador Strivesync UAE\" srcset=\"https://strivesync.ai/wp-content/uploads/2026/03/Goncalo-Malho-Rodrigues-Dubai-1-web-version-300x300.jpg 300w, https://strivesync.ai/wp-content/uploads/2026/03/Goncalo-Malho-Rodrigues-Dubai-1-web-version-1024x1024.jpg 1024w, https://strivesync.ai/wp-content/uploads/2026/03/Goncalo-Malho-Rodrigues-Dubai-1-web-version-150x150.jpg 150w, https://strivesync.ai/wp-content/uploads/2026/03/Goncalo-Malho-Rodrigues-Dubai-1-web-version-768x768.jpg 768w, https://strivesync.ai/wp-content/uploads/2026/03/Goncalo-Malho-Rodrigues-Dubai-1-web-version-1536x1536.jpg 1536w, https://strivesync.ai/wp-content/uploads/2026/03/Goncalo-Malho-Rodrigues-Dubai-1-web-version-140x140.jpg 140w, https://strivesync.ai/wp-content/uploads/2026/03/Goncalo-Malho-Rodrigues-Dubai-1-web-version-100x100.jpg 100w, https://strivesync.ai/wp-content/uploads/2026/03/Goncalo-Malho-Rodrigues-Dubai-1-web-version-350x350.jpg 350w, https://strivesync.ai/wp-content/uploads/2026/03/Goncalo-Malho-Rodrigues-Dubai-1-web-version-800x800.jpg 800w, https://strivesync.ai/wp-content/uploads/2026/03/Goncalo-Malho-Rodrigues-Dubai-1-web-version.jpg 2000w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "Goncalo-Malho-Rodrigues-Dubai-1-web-version.jpg",
+  "filesize": 766877,
+  "generated_slug": "goncalo-malho-rodrigues-dubai-1-web-version",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2026/03/Goncalo-Malho-Rodrigues-Dubai-1-web-version.jpg",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2026/03/Goncalo-Malho-Rodrigues-Dubai-1-web-version.jpg"
+  },
+  "id": 1478,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 82,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/about-strivesync/attachment/goncalo-malho-rodrigues-dubai-1-web-version/",
+  "media_details": {
+    "file": "2026/03/Goncalo-Malho-Rodrigues-Dubai-1-web-version.jpg",
+    "filesize": 766877,
+    "height": 2000,
+    "image_meta": {
+      "aperture": "0",
+      "camera": "",
+      "caption": "",
+      "copyright": "",
+      "created_timestamp": "0",
+      "credit": "",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [],
+      "orientation": "0",
+      "shutter_speed": "0",
+      "title": ""
+    },
+    "sizes": {
+      "1536x1536": {
+        "file": "Goncalo-Malho-Rodrigues-Dubai-1-web-version-1536x1536.jpg",
+        "filesize": 227264,
+        "height": 1536,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Goncalo-Malho-Rodrigues-Dubai-1-web-version-1536x1536.jpg",
+        "width": 1536
+      },
+      "full": {
+        "file": "Goncalo-Malho-Rodrigues-Dubai-1-web-version.jpg",
+        "height": 2000,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Goncalo-Malho-Rodrigues-Dubai-1-web-version.jpg",
+        "width": 2000
+      },
+      "large": {
+        "file": "Goncalo-Malho-Rodrigues-Dubai-1-web-version-1024x1024.jpg",
+        "filesize": 115254,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Goncalo-Malho-Rodrigues-Dubai-1-web-version-1024x1024.jpg",
+        "width": 1024
+      },
+      "large_featured": {
+        "file": "Goncalo-Malho-Rodrigues-Dubai-1-web-version-1870x770.jpg",
+        "filesize": 151716,
+        "height": 770,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Goncalo-Malho-Rodrigues-Dubai-1-web-version-1870x770.jpg",
+        "width": 1870
+      },
+      "medium": {
+        "file": "Goncalo-Malho-Rodrigues-Dubai-1-web-version-300x300.jpg",
+        "filesize": 15866,
+        "height": 300,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Goncalo-Malho-Rodrigues-Dubai-1-web-version-300x300.jpg",
+        "width": 300
+      },
+      "medium_featured": {
+        "file": "Goncalo-Malho-Rodrigues-Dubai-1-web-version-800x800.jpg",
+        "filesize": 75785,
+        "height": 800,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Goncalo-Malho-Rodrigues-Dubai-1-web-version-800x800.jpg",
+        "width": 800
+      },
+      "medium_large": {
+        "file": "Goncalo-Malho-Rodrigues-Dubai-1-web-version-768x768.jpg",
+        "filesize": 70709,
+        "height": 768,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Goncalo-Malho-Rodrigues-Dubai-1-web-version-768x768.jpg",
+        "width": 768
+      },
+      "nectar_small_square": {
+        "file": "Goncalo-Malho-Rodrigues-Dubai-1-web-version-140x140.jpg",
+        "filesize": 5206,
+        "height": 140,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Goncalo-Malho-Rodrigues-Dubai-1-web-version-140x140.jpg",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "Goncalo-Malho-Rodrigues-Dubai-1-web-version-600x403.jpg",
+        "filesize": 36840,
+        "height": 403,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Goncalo-Malho-Rodrigues-Dubai-1-web-version-600x403.jpg",
+        "width": 600
+      },
+      "portfolio-widget": {
+        "file": "Goncalo-Malho-Rodrigues-Dubai-1-web-version-100x100.jpg",
+        "filesize": 3376,
+        "height": 100,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Goncalo-Malho-Rodrigues-Dubai-1-web-version-100x100.jpg",
+        "width": 100
+      },
+      "regular_small": {
+        "file": "Goncalo-Malho-Rodrigues-Dubai-1-web-version-350x350.jpg",
+        "filesize": 19982,
+        "height": 350,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Goncalo-Malho-Rodrigues-Dubai-1-web-version-350x350.jpg",
+        "width": 350
+      },
+      "thumbnail": {
+        "file": "Goncalo-Malho-Rodrigues-Dubai-1-web-version-150x150.jpg",
+        "filesize": 5748,
+        "height": 150,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Goncalo-Malho-Rodrigues-Dubai-1-web-version-150x150.jpg",
+        "width": 150
+      }
+    },
+    "width": 2000
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/jpeg",
+  "missing_image_sizes": [],
+  "modified": "2026-03-08T22:11:17",
+  "modified_gmt": "2026-03-08T22:11:17",
+  "permalink_template": "https://strivesync.ai/about-strivesync/%postname%/",
+  "ping_status": "closed",
+  "post": 1466,
+  "slug": "goncalo-malho-rodrigues-dubai-1-web-version",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Goncalo-Malho-Rodrigues-Dubai-1-web-version.jpg",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "Goncalo Malho Rodrigues - Dubai 1 web version",
+    "rendered": "Goncalo Malho Rodrigues &#8211; Dubai 1 web version"
+  },
+  "type": "attachment"
+}

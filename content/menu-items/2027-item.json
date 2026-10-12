@@ -1,0 +1,89 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/nav_menu_item"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/menu-items"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/menu-items/2027",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-menus": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/menu-items/2027"
+      }
+    ],
+    "wp:action-create-menus": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/menu-items/2027"
+      }
+    ],
+    "wp:action-publish": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/menu-items/2027"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/menu-items/2027"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/menus?post=2027",
+        "taxonomy": "nav_menu"
+      }
+    ]
+  },
+  "attr_title": "",
+  "classes": [
+    ""
+  ],
+  "description": "",
+  "id": 2027,
+  "invalid": false,
+  "menu_order": 3,
+  "menus": 56,
+  "meta": {
+    "inline_featured_image": false
+  },
+  "object": "custom",
+  "object_id": 2027,
+  "parent": 2025,
+  "status": "publish",
+  "target": "",
+  "title": {
+    "raw": "Automation & Integrations",
+    "rendered": "Automation &#038; Integrations"
+  },
+  "type": "custom",
+  "type_label": "Custom Link",
+  "url": "https://strivesync.ai/services/artificial-intelligence-for-business/#automation",
+  "xfn": [
+    ""
+  ]
+}

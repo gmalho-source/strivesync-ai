@@ -1,0 +1,222 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1613"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1613",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1613"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1613"
+      }
+    ]
+  },
+  "alt_text": "",
+  "author": 1,
+  "caption": {
+    "raw": "",
+    "rendered": ""
+  },
+  "class_list": [
+    "post-1613",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "open",
+  "date": "2026-04-08T06:59:23",
+  "date_gmt": "2026-04-08T06:59:23",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-mail.png'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"102\" src=\"https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-mail-300x102.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-mail-300x102.png 300w, https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-mail-1024x349.png 1024w, https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-mail-768x261.png 768w, https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-mail-1536x523.png 1536w, https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-mail.png 1586w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "strivesync-logo-mail.png",
+  "filesize": 37618,
+  "generated_slug": "strivesync-logo-mail",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-mail.png",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-mail.png"
+  },
+  "id": 1613,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 82,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/strivesync-logo-mail/",
+  "media_details": {
+    "file": "2026/04/strivesync-logo-mail.png",
+    "filesize": 37618,
+    "height": 540,
+    "image_meta": {
+      "aperture": "0",
+      "camera": "",
+      "caption": "",
+      "copyright": "",
+      "created_timestamp": "0",
+      "credit": "",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [],
+      "orientation": "0",
+      "shutter_speed": "0",
+      "title": ""
+    },
+    "sizes": {
+      "1536x1536": {
+        "file": "strivesync-logo-mail-1536x523.png",
+        "filesize": 56258,
+        "height": 523,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-mail-1536x523.png",
+        "width": 1536
+      },
+      "full": {
+        "file": "strivesync-logo-mail.png",
+        "height": 540,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-mail.png",
+        "width": 1586
+      },
+      "large": {
+        "file": "strivesync-logo-mail-1024x349.png",
+        "filesize": 33056,
+        "height": 349,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-mail-1024x349.png",
+        "width": 1024
+      },
+      "medium": {
+        "file": "strivesync-logo-mail-300x102.png",
+        "filesize": 7305,
+        "height": 102,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-mail-300x102.png",
+        "width": 300
+      },
+      "medium_featured": {
+        "file": "strivesync-logo-mail-800x540.png",
+        "filesize": 21681,
+        "height": 540,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-mail-800x540.png",
+        "width": 800
+      },
+      "medium_large": {
+        "file": "strivesync-logo-mail-768x261.png",
+        "filesize": 22908,
+        "height": 261,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-mail-768x261.png",
+        "width": 768
+      },
+      "nectar_small_square": {
+        "file": "strivesync-logo-mail-140x140.png",
+        "filesize": 3056,
+        "height": 140,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-mail-140x140.png",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "strivesync-logo-mail-600x403.png",
+        "filesize": 19001,
+        "height": 403,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-mail-600x403.png",
+        "width": 600
+      },
+      "portfolio-widget": {
+        "file": "strivesync-logo-mail-100x100.png",
+        "filesize": 2169,
+        "height": 100,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-mail-100x100.png",
+        "width": 100
+      },
+      "regular_small": {
+        "file": "strivesync-logo-mail-350x350.png",
+        "filesize": 9196,
+        "height": 350,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-mail-350x350.png",
+        "width": 350
+      },
+      "thumbnail": {
+        "file": "strivesync-logo-mail-150x150.png",
+        "filesize": 3317,
+        "height": 150,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-mail-150x150.png",
+        "width": 150
+      }
+    },
+    "width": 1586
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/png",
+  "missing_image_sizes": [],
+  "modified": "2026-04-08T06:59:23",
+  "modified_gmt": "2026-04-08T06:59:23",
+  "permalink_template": "https://strivesync.ai/?attachment_id=1613",
+  "ping_status": "closed",
+  "post": null,
+  "slug": "strivesync-logo-mail",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-mail.png",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "strivesync logo mail",
+    "rendered": "strivesync logo mail"
+  },
+  "type": "attachment"
+}

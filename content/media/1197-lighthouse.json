@@ -1,0 +1,294 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1197"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1197",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1197"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1197"
+      }
+    ],
+    "wp:attached-to": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/pages/10",
+        "id": 10,
+        "post_type": "page"
+      }
+    ]
+  },
+  "alt_text": "",
+  "author": 1,
+  "caption": {
+    "raw": "",
+    "rendered": ""
+  },
+  "class_list": [
+    "post-1197",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "open",
+  "date": "2025-10-20T02:15:45",
+  "date_gmt": "2025-10-20T02:15:45",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2025/10/lighthouse.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"201\" height=\"300\" src=\"https://strivesync.ai/wp-content/uploads/2025/10/lighthouse-201x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://strivesync.ai/wp-content/uploads/2025/10/lighthouse-201x300.jpg 201w, https://strivesync.ai/wp-content/uploads/2025/10/lighthouse-685x1024.jpg 685w, https://strivesync.ai/wp-content/uploads/2025/10/lighthouse-768x1148.jpg 768w, https://strivesync.ai/wp-content/uploads/2025/10/lighthouse.jpg 800w\" sizes=\"auto, (max-width: 201px) 100vw, 201px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "lighthouse.jpg",
+  "filesize": 322894,
+  "generated_slug": "lighthouse",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2025/10/lighthouse.jpg",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2025/10/lighthouse.jpg"
+  },
+  "id": 1197,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 82,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/strivesync/attachment/lighthouse/",
+  "media_details": {
+    "file": "2025/10/lighthouse.jpg",
+    "filesize": 322894,
+    "height": 1196,
+    "image_meta": {
+      "aperture": "0",
+      "camera": "",
+      "caption": "",
+      "copyright": "",
+      "created_timestamp": "0",
+      "credit": "",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [],
+      "orientation": "0",
+      "shutter_speed": "0",
+      "title": ""
+    },
+    "sizes": {
+      "full": {
+        "file": "lighthouse.jpg",
+        "height": 1196,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/lighthouse.jpg",
+        "width": 800
+      },
+      "large": {
+        "file": "lighthouse-685x1024.jpg",
+        "filesize": 83355,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/lighthouse-685x1024.jpg",
+        "width": 685
+      },
+      "large_featured": {
+        "file": "lighthouse-800x770.jpg",
+        "filesize": 91035,
+        "height": 770,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/lighthouse-800x770.jpg",
+        "width": 800
+      },
+      "medium": {
+        "file": "lighthouse-201x300.jpg",
+        "filesize": 7799,
+        "height": 300,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/lighthouse-201x300.jpg",
+        "width": 201
+      },
+      "medium_featured": {
+        "file": "lighthouse-800x800.jpg",
+        "filesize": 93589,
+        "height": 800,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/lighthouse-800x800.jpg",
+        "width": 800
+      },
+      "medium_large": {
+        "file": "lighthouse-768x1148.jpg",
+        "filesize": 104896,
+        "height": 1148,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/lighthouse-768x1148.jpg",
+        "width": 768
+      },
+      "nectar_small_square": {
+        "file": "lighthouse-140x140.jpg",
+        "filesize": 3094,
+        "height": 140,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/lighthouse-140x140.jpg",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "lighthouse-600x403.jpg",
+        "filesize": 31530,
+        "height": 403,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/lighthouse-600x403.jpg",
+        "width": 600
+      },
+      "portfolio-thumb_large": {
+        "file": "lighthouse-800x604.jpg",
+        "filesize": 74334,
+        "height": 604,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/lighthouse-800x604.jpg",
+        "width": 800
+      },
+      "portfolio-thumb_small": {
+        "file": "lighthouse-400x269.jpg",
+        "filesize": 14454,
+        "height": 269,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/lighthouse-400x269.jpg",
+        "width": 400
+      },
+      "portfolio-widget": {
+        "file": "lighthouse-100x100.jpg",
+        "filesize": 2120,
+        "height": 100,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/lighthouse-100x100.jpg",
+        "width": 100
+      },
+      "regular": {
+        "file": "lighthouse-500x500.jpg",
+        "filesize": 29894,
+        "height": 500,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/lighthouse-500x500.jpg",
+        "width": 500
+      },
+      "regular_small": {
+        "file": "lighthouse-350x350.jpg",
+        "filesize": 14347,
+        "height": 350,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/lighthouse-350x350.jpg",
+        "width": 350
+      },
+      "tall": {
+        "file": "lighthouse-500x1000.jpg",
+        "filesize": 62107,
+        "height": 1000,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/lighthouse-500x1000.jpg",
+        "width": 500
+      },
+      "thumbnail": {
+        "file": "lighthouse-150x150.jpg",
+        "filesize": 3336,
+        "height": 150,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/lighthouse-150x150.jpg",
+        "width": 150
+      },
+      "wide": {
+        "file": "lighthouse-800x500.jpg",
+        "filesize": 63313,
+        "height": 500,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/lighthouse-800x500.jpg",
+        "width": 800
+      },
+      "wide_photography": {
+        "file": "lighthouse-800x600.jpg",
+        "filesize": 73590,
+        "height": 600,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/lighthouse-800x600.jpg",
+        "width": 800
+      },
+      "wide_small": {
+        "file": "lighthouse-670x335.jpg",
+        "filesize": 30881,
+        "height": 335,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/lighthouse-670x335.jpg",
+        "width": 670
+      },
+      "wide_tall": {
+        "file": "lighthouse-800x1000.jpg",
+        "filesize": 117433,
+        "height": 1000,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/lighthouse-800x1000.jpg",
+        "width": 800
+      }
+    },
+    "width": 800
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/jpeg",
+  "missing_image_sizes": [],
+  "modified": "2025-10-20T02:15:45",
+  "modified_gmt": "2025-10-20T02:15:45",
+  "permalink_template": "https://strivesync.ai/strivesync/%postname%/",
+  "ping_status": "closed",
+  "post": 10,
+  "slug": "lighthouse",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/lighthouse.jpg",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "lighthouse",
+    "rendered": "lighthouse"
+  },
+  "type": "attachment"
+}

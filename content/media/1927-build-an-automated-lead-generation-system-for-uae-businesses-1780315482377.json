@@ -1,0 +1,223 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1927"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1927",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1927"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1927"
+      }
+    ]
+  },
+  "alt_text": "",
+  "author": 1,
+  "caption": {
+    "raw": "",
+    "rendered": ""
+  },
+  "class_list": [
+    "post-1927",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "",
+  "date": "2026-06-11T20:00:48",
+  "date_gmt": "2026-06-11T20:00:48",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2026/06/build-an-automated-lead-generation-system-for-uae-businesses-1780315482377.png'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"200\" src=\"https://strivesync.ai/wp-content/uploads/2026/06/build-an-automated-lead-generation-system-for-uae-businesses-1780315482377-300x200.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://strivesync.ai/wp-content/uploads/2026/06/build-an-automated-lead-generation-system-for-uae-businesses-1780315482377-300x200.png 300w, https://strivesync.ai/wp-content/uploads/2026/06/build-an-automated-lead-generation-system-for-uae-businesses-1780315482377-1024x683.png 1024w, https://strivesync.ai/wp-content/uploads/2026/06/build-an-automated-lead-generation-system-for-uae-businesses-1780315482377-768x512.png 768w, https://strivesync.ai/wp-content/uploads/2026/06/build-an-automated-lead-generation-system-for-uae-businesses-1780315482377.png 1536w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "build-an-automated-lead-generation-system-for-uae-businesses-1780315482377.png",
+  "filesize": 2467413,
+  "generated_slug": "build-an-automated-lead-generation-system-for-uae-businesses-1780315482377",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2026/06/build-an-automated-lead-generation-system-for-uae-businesses-1780315482377.png",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2026/06/build-an-automated-lead-generation-system-for-uae-businesses-1780315482377.png"
+  },
+  "id": 1927,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 82,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/build-an-automated-lead-generation-system-for-uae-businesses-1780315482377/",
+  "media_details": {
+    "file": "2026/06/build-an-automated-lead-generation-system-for-uae-businesses-1780315482377.png",
+    "filesize": 2467413,
+    "height": 1024,
+    "image_meta": {
+      "alt": "",
+      "aperture": "0",
+      "camera": "",
+      "caption": "",
+      "copyright": "",
+      "created_timestamp": "0",
+      "credit": "",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [],
+      "orientation": "0",
+      "shutter_speed": "0",
+      "title": ""
+    },
+    "sizes": {
+      "full": {
+        "file": "build-an-automated-lead-generation-system-for-uae-businesses-1780315482377.png",
+        "height": 1024,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/build-an-automated-lead-generation-system-for-uae-businesses-1780315482377.png",
+        "width": 1536
+      },
+      "large": {
+        "file": "build-an-automated-lead-generation-system-for-uae-businesses-1780315482377-1024x683.png",
+        "filesize": 1193473,
+        "height": 683,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/build-an-automated-lead-generation-system-for-uae-businesses-1780315482377-1024x683.png",
+        "width": 1024
+      },
+      "large_featured": {
+        "file": "build-an-automated-lead-generation-system-for-uae-businesses-1780315482377-1536x770.png",
+        "filesize": 2018322,
+        "height": 770,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/build-an-automated-lead-generation-system-for-uae-businesses-1780315482377-1536x770.png",
+        "width": 1536
+      },
+      "medium": {
+        "file": "build-an-automated-lead-generation-system-for-uae-businesses-1780315482377-300x200.png",
+        "filesize": 117026,
+        "height": 200,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/build-an-automated-lead-generation-system-for-uae-businesses-1780315482377-300x200.png",
+        "width": 300
+      },
+      "medium_featured": {
+        "file": "build-an-automated-lead-generation-system-for-uae-businesses-1780315482377-800x800.png",
+        "filesize": 999196,
+        "height": 800,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/build-an-automated-lead-generation-system-for-uae-businesses-1780315482377-800x800.png",
+        "width": 800
+      },
+      "medium_large": {
+        "file": "build-an-automated-lead-generation-system-for-uae-businesses-1780315482377-768x512.png",
+        "filesize": 721614,
+        "height": 512,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/build-an-automated-lead-generation-system-for-uae-businesses-1780315482377-768x512.png",
+        "width": 768
+      },
+      "nectar_small_square": {
+        "file": "build-an-automated-lead-generation-system-for-uae-businesses-1780315482377-140x140.png",
+        "filesize": 39698,
+        "height": 140,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/build-an-automated-lead-generation-system-for-uae-businesses-1780315482377-140x140.png",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "build-an-automated-lead-generation-system-for-uae-businesses-1780315482377-600x403.png",
+        "filesize": 438436,
+        "height": 403,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/build-an-automated-lead-generation-system-for-uae-businesses-1780315482377-600x403.png",
+        "width": 600
+      },
+      "portfolio-widget": {
+        "file": "build-an-automated-lead-generation-system-for-uae-businesses-1780315482377-100x100.png",
+        "filesize": 21750,
+        "height": 100,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/build-an-automated-lead-generation-system-for-uae-businesses-1780315482377-100x100.png",
+        "width": 100
+      },
+      "regular_small": {
+        "file": "build-an-automated-lead-generation-system-for-uae-businesses-1780315482377-350x350.png",
+        "filesize": 214479,
+        "height": 350,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/build-an-automated-lead-generation-system-for-uae-businesses-1780315482377-350x350.png",
+        "width": 350
+      },
+      "thumbnail": {
+        "file": "build-an-automated-lead-generation-system-for-uae-businesses-1780315482377-150x150.png",
+        "filesize": 44976,
+        "height": 150,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/build-an-automated-lead-generation-system-for-uae-businesses-1780315482377-150x150.png",
+        "width": 150
+      }
+    },
+    "width": 1536
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/png",
+  "missing_image_sizes": [],
+  "modified": "2026-06-11T20:00:48",
+  "modified_gmt": "2026-06-11T20:00:48",
+  "permalink_template": "https://strivesync.ai/?attachment_id=1927",
+  "ping_status": "closed",
+  "post": null,
+  "slug": "build-an-automated-lead-generation-system-for-uae-businesses-1780315482377",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/build-an-automated-lead-generation-system-for-uae-businesses-1780315482377.png",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "build-an-automated-lead-generation-system-for-uae-businesses-1780315482377",
+    "rendered": "build-an-automated-lead-generation-system-for-uae-businesses-1780315482377"
+  },
+  "type": "attachment"
+}

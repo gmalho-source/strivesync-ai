@@ -1,0 +1,294 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1398"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1398",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1398"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1398"
+      }
+    ],
+    "wp:attached-to": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/pages/10",
+        "id": 10,
+        "post_type": "page"
+      }
+    ]
+  },
+  "alt_text": "",
+  "author": 1,
+  "caption": {
+    "raw": "",
+    "rendered": ""
+  },
+  "class_list": [
+    "post-1398",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "open",
+  "date": "2025-10-29T14:30:08",
+  "date_gmt": "2025-10-29T14:30:08",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2025/10/working.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"300\" src=\"https://strivesync.ai/wp-content/uploads/2025/10/working-300x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://strivesync.ai/wp-content/uploads/2025/10/working-300x300.jpg 300w, https://strivesync.ai/wp-content/uploads/2025/10/working-1024x1024.jpg 1024w, https://strivesync.ai/wp-content/uploads/2025/10/working-150x150.jpg 150w, https://strivesync.ai/wp-content/uploads/2025/10/working-768x768.jpg 768w, https://strivesync.ai/wp-content/uploads/2025/10/working-140x140.jpg 140w, https://strivesync.ai/wp-content/uploads/2025/10/working-100x100.jpg 100w, https://strivesync.ai/wp-content/uploads/2025/10/working-500x500.jpg 500w, https://strivesync.ai/wp-content/uploads/2025/10/working-350x350.jpg 350w, https://strivesync.ai/wp-content/uploads/2025/10/working-1000x1000.jpg 1000w, https://strivesync.ai/wp-content/uploads/2025/10/working-800x800.jpg 800w, https://strivesync.ai/wp-content/uploads/2025/10/working.jpg 1400w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "working.jpg",
+  "filesize": 667159,
+  "generated_slug": "working",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2025/10/working.jpg",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2025/10/working.jpg"
+  },
+  "id": 1398,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 82,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/strivesync/attachment/working/",
+  "media_details": {
+    "file": "2025/10/working.jpg",
+    "filesize": 667159,
+    "height": 1400,
+    "image_meta": {
+      "aperture": "0",
+      "camera": "",
+      "caption": "",
+      "copyright": "",
+      "created_timestamp": "0",
+      "credit": "",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [],
+      "orientation": "0",
+      "shutter_speed": "0",
+      "title": ""
+    },
+    "sizes": {
+      "full": {
+        "file": "working.jpg",
+        "height": 1400,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/working.jpg",
+        "width": 1400
+      },
+      "large": {
+        "file": "working-1024x1024.jpg",
+        "filesize": 205359,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/working-1024x1024.jpg",
+        "width": 1024
+      },
+      "large_featured": {
+        "file": "working-1400x770.jpg",
+        "filesize": 252759,
+        "height": 770,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/working-1400x770.jpg",
+        "width": 1400
+      },
+      "medium": {
+        "file": "working-300x300.jpg",
+        "filesize": 23245,
+        "height": 300,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/working-300x300.jpg",
+        "width": 300
+      },
+      "medium_featured": {
+        "file": "working-800x800.jpg",
+        "filesize": 131673,
+        "height": 800,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/working-800x800.jpg",
+        "width": 800
+      },
+      "medium_large": {
+        "file": "working-768x768.jpg",
+        "filesize": 122308,
+        "height": 768,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/working-768x768.jpg",
+        "width": 768
+      },
+      "nectar_small_square": {
+        "file": "working-140x140.jpg",
+        "filesize": 6552,
+        "height": 140,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/working-140x140.jpg",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "working-600x403.jpg",
+        "filesize": 59430,
+        "height": 403,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/working-600x403.jpg",
+        "width": 600
+      },
+      "portfolio-thumb_large": {
+        "file": "working-900x604.jpg",
+        "filesize": 121571,
+        "height": 604,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/working-900x604.jpg",
+        "width": 900
+      },
+      "portfolio-thumb_small": {
+        "file": "working-400x269.jpg",
+        "filesize": 29032,
+        "height": 269,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/working-400x269.jpg",
+        "width": 400
+      },
+      "portfolio-widget": {
+        "file": "working-100x100.jpg",
+        "filesize": 4039,
+        "height": 100,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/working-100x100.jpg",
+        "width": 100
+      },
+      "regular": {
+        "file": "working-500x500.jpg",
+        "filesize": 57013,
+        "height": 500,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/working-500x500.jpg",
+        "width": 500
+      },
+      "regular_small": {
+        "file": "working-350x350.jpg",
+        "filesize": 30433,
+        "height": 350,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/working-350x350.jpg",
+        "width": 350
+      },
+      "tall": {
+        "file": "working-500x1000.jpg",
+        "filesize": 104618,
+        "height": 1000,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/working-500x1000.jpg",
+        "width": 500
+      },
+      "thumbnail": {
+        "file": "working-150x150.jpg",
+        "filesize": 7358,
+        "height": 150,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/working-150x150.jpg",
+        "width": 150
+      },
+      "wide": {
+        "file": "working-1000x500.jpg",
+        "filesize": 116080,
+        "height": 500,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/working-1000x500.jpg",
+        "width": 1000
+      },
+      "wide_photography": {
+        "file": "working-900x600.jpg",
+        "filesize": 120674,
+        "height": 600,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/working-900x600.jpg",
+        "width": 900
+      },
+      "wide_small": {
+        "file": "working-670x335.jpg",
+        "filesize": 56723,
+        "height": 335,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/working-670x335.jpg",
+        "width": 670
+      },
+      "wide_tall": {
+        "file": "working-1000x1000.jpg",
+        "filesize": 198017,
+        "height": 1000,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/working-1000x1000.jpg",
+        "width": 1000
+      }
+    },
+    "width": 1400
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/jpeg",
+  "missing_image_sizes": [],
+  "modified": "2025-10-29T14:30:08",
+  "modified_gmt": "2025-10-29T14:30:08",
+  "permalink_template": "https://strivesync.ai/strivesync/%postname%/",
+  "ping_status": "closed",
+  "post": 10,
+  "slug": "working",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/working.jpg",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "working",
+    "rendered": "working"
+  },
+  "type": "attachment"
+}

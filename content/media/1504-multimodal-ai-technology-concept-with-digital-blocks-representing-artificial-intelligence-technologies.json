@@ -1,0 +1,246 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1504"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1504",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1504"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1504"
+      }
+    ],
+    "wp:attached-to": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/pages/10",
+        "id": 10,
+        "post_type": "page"
+      }
+    ]
+  },
+  "alt_text": "AI workflow",
+  "author": 1,
+  "caption": {
+    "raw": "",
+    "rendered": ""
+  },
+  "class_list": [
+    "post-1504",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "open",
+  "date": "2026-03-16T21:11:11",
+  "date_gmt": "2026-03-16T21:11:11",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2026/03/AI-workflow-by-Strivesync.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"200\" src=\"https://strivesync.ai/wp-content/uploads/2026/03/AI-workflow-by-Strivesync-300x200.jpg\" class=\"attachment-medium size-medium\" alt=\"AI workflow\" srcset=\"https://strivesync.ai/wp-content/uploads/2026/03/AI-workflow-by-Strivesync-300x200.jpg 300w, https://strivesync.ai/wp-content/uploads/2026/03/AI-workflow-by-Strivesync-1024x683.jpg 1024w, https://strivesync.ai/wp-content/uploads/2026/03/AI-workflow-by-Strivesync-768x512.jpg 768w, https://strivesync.ai/wp-content/uploads/2026/03/AI-workflow-by-Strivesync-1536x1024.jpg 1536w, https://strivesync.ai/wp-content/uploads/2026/03/AI-workflow-by-Strivesync-2048x1366.jpg 2048w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "AI-workflow-by-Strivesync.jpg",
+  "filesize": 906768,
+  "generated_slug": "multimodal-ai-technology-concept-with-digital-blocks-representing-artificial-intelligence-technologies",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2026/03/AI-workflow-by-Strivesync.jpg",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2026/03/AI-workflow-by-Strivesync.jpg"
+  },
+  "id": 1504,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 82,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/strivesync/attachment/multimodal-ai-technology-concept-with-digital-blocks-representing-artificial-intelligence-technologies/",
+  "media_details": {
+    "file": "2026/03/AI-workflow-by-Strivesync.jpg",
+    "filesize": 906768,
+    "height": 1414,
+    "image_meta": {
+      "aperture": "2.8",
+      "camera": "Canon EOS R5",
+      "caption": "Multimodal AI Technology Concept with Digital Blocks Representing Artificial Intelligence Technologies. A futuristic digital illustration shows an AI icon surrounded by neon connected blocks and circuits, suggesting artificial intelligence, data networks, and advanced technology. Bright colors and soft glow create a modern tech mood.",
+      "copyright": "",
+      "created_timestamp": "1766080969",
+      "credit": "Getty Images",
+      "focal_length": "100",
+      "iso": "100",
+      "keywords": [],
+      "orientation": "1",
+      "shutter_speed": "0.4",
+      "title": "Multimodal AI Technology Concept with Digital Blocks Representing Artificial Intelligence Technologies"
+    },
+    "sizes": {
+      "1536x1536": {
+        "file": "AI-workflow-by-Strivesync-1536x1024.jpg",
+        "filesize": 131516,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/AI-workflow-by-Strivesync-1536x1024.jpg",
+        "width": 1536
+      },
+      "2048x2048": {
+        "file": "AI-workflow-by-Strivesync-2048x1366.jpg",
+        "filesize": 227558,
+        "height": 1366,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/AI-workflow-by-Strivesync-2048x1366.jpg",
+        "width": 2048
+      },
+      "full": {
+        "file": "AI-workflow-by-Strivesync.jpg",
+        "height": 1414,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/AI-workflow-by-Strivesync.jpg",
+        "width": 2120
+      },
+      "large": {
+        "file": "AI-workflow-by-Strivesync-1024x683.jpg",
+        "filesize": 67258,
+        "height": 683,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/AI-workflow-by-Strivesync-1024x683.jpg",
+        "width": 1024
+      },
+      "large_featured": {
+        "file": "AI-workflow-by-Strivesync-1870x770.jpg",
+        "filesize": 135930,
+        "height": 770,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/AI-workflow-by-Strivesync-1870x770.jpg",
+        "width": 1870
+      },
+      "medium": {
+        "file": "AI-workflow-by-Strivesync-300x200.jpg",
+        "filesize": 11023,
+        "height": 200,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/AI-workflow-by-Strivesync-300x200.jpg",
+        "width": 300
+      },
+      "medium_featured": {
+        "file": "AI-workflow-by-Strivesync-800x800.jpg",
+        "filesize": 59444,
+        "height": 800,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/AI-workflow-by-Strivesync-800x800.jpg",
+        "width": 800
+      },
+      "medium_large": {
+        "file": "AI-workflow-by-Strivesync-768x512.jpg",
+        "filesize": 43244,
+        "height": 512,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/AI-workflow-by-Strivesync-768x512.jpg",
+        "width": 768
+      },
+      "nectar_small_square": {
+        "file": "AI-workflow-by-Strivesync-140x140.jpg",
+        "filesize": 4941,
+        "height": 140,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/AI-workflow-by-Strivesync-140x140.jpg",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "AI-workflow-by-Strivesync-600x403.jpg",
+        "filesize": 30774,
+        "height": 403,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/AI-workflow-by-Strivesync-600x403.jpg",
+        "width": 600
+      },
+      "portfolio-widget": {
+        "file": "AI-workflow-by-Strivesync-100x100.jpg",
+        "filesize": 3181,
+        "height": 100,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/AI-workflow-by-Strivesync-100x100.jpg",
+        "width": 100
+      },
+      "regular_small": {
+        "file": "AI-workflow-by-Strivesync-350x350.jpg",
+        "filesize": 17611,
+        "height": 350,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/AI-workflow-by-Strivesync-350x350.jpg",
+        "width": 350
+      },
+      "thumbnail": {
+        "file": "AI-workflow-by-Strivesync-150x150.jpg",
+        "filesize": 5391,
+        "height": 150,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/AI-workflow-by-Strivesync-150x150.jpg",
+        "width": 150
+      }
+    },
+    "width": 2120
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/jpeg",
+  "missing_image_sizes": [],
+  "modified": "2026-03-16T21:11:26",
+  "modified_gmt": "2026-03-16T21:11:26",
+  "permalink_template": "https://strivesync.ai/strivesync/%postname%/",
+  "ping_status": "closed",
+  "post": 10,
+  "slug": "multimodal-ai-technology-concept-with-digital-blocks-representing-artificial-intelligence-technologies",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/AI-workflow-by-Strivesync.jpg",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "Multimodal AI Technology Concept with Digital Blocks Representing Artificial Intelligence Technologies",
+    "rendered": "Multimodal AI Technology Concept with Digital Blocks Representing Artificial Intelligence Technologies"
+  },
+  "type": "attachment"
+}

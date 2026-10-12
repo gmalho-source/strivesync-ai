@@ -1,0 +1,190 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1455"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1455",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1455"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1455"
+      }
+    ]
+  },
+  "alt_text": "favicon Strivesync",
+  "author": 1,
+  "caption": {
+    "raw": "",
+    "rendered": ""
+  },
+  "class_list": [
+    "post-1455",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "open",
+  "date": "2026-03-02T21:27:18",
+  "date_gmt": "2026-03-02T21:27:18",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2026/03/strivesync-symbol-green.png'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"300\" src=\"https://strivesync.ai/wp-content/uploads/2026/03/strivesync-symbol-green-300x300.png\" class=\"attachment-medium size-medium\" alt=\"favicon Strivesync\" srcset=\"https://strivesync.ai/wp-content/uploads/2026/03/strivesync-symbol-green-300x300.png 300w, https://strivesync.ai/wp-content/uploads/2026/03/strivesync-symbol-green-150x150.png 150w, https://strivesync.ai/wp-content/uploads/2026/03/strivesync-symbol-green-140x140.png 140w, https://strivesync.ai/wp-content/uploads/2026/03/strivesync-symbol-green-100x100.png 100w, https://strivesync.ai/wp-content/uploads/2026/03/strivesync-symbol-green-350x350.png 350w, https://strivesync.ai/wp-content/uploads/2026/03/strivesync-symbol-green.png 540w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "strivesync-symbol-green.png",
+  "filesize": 20100,
+  "generated_slug": "strivesync-favicon-2",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-symbol-green.png",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-symbol-green.png"
+  },
+  "id": 1455,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 82,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/strivesync-symbol-green/",
+  "media_details": {
+    "file": "2026/03/strivesync-symbol-green.png",
+    "filesize": 20100,
+    "height": 540,
+    "image_meta": {
+      "aperture": "0",
+      "camera": "",
+      "caption": "",
+      "copyright": "",
+      "created_timestamp": "0",
+      "credit": "",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [],
+      "orientation": "0",
+      "shutter_speed": "0",
+      "title": ""
+    },
+    "sizes": {
+      "full": {
+        "file": "strivesync-symbol-green.png",
+        "height": 540,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-symbol-green.png",
+        "width": 540
+      },
+      "medium": {
+        "file": "strivesync-symbol-green-300x300.png",
+        "filesize": 16852,
+        "height": 300,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-symbol-green-300x300.png",
+        "width": 300
+      },
+      "nectar_small_square": {
+        "file": "strivesync-symbol-green-140x140.png",
+        "filesize": 6791,
+        "height": 140,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-symbol-green-140x140.png",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "strivesync-symbol-green-540x403.png",
+        "filesize": 24540,
+        "height": 403,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-symbol-green-540x403.png",
+        "width": 540
+      },
+      "portfolio-widget": {
+        "file": "strivesync-symbol-green-100x100.png",
+        "filesize": 4696,
+        "height": 100,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-symbol-green-100x100.png",
+        "width": 100
+      },
+      "regular_small": {
+        "file": "strivesync-symbol-green-350x350.png",
+        "filesize": 20590,
+        "height": 350,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-symbol-green-350x350.png",
+        "width": 350
+      },
+      "thumbnail": {
+        "file": "strivesync-symbol-green-150x150.png",
+        "filesize": 7320,
+        "height": 150,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-symbol-green-150x150.png",
+        "width": 150
+      }
+    },
+    "width": 540
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/png",
+  "missing_image_sizes": [],
+  "modified": "2026-03-02T21:27:33",
+  "modified_gmt": "2026-03-02T21:27:33",
+  "permalink_template": "https://strivesync.ai/?attachment_id=1455",
+  "ping_status": "closed",
+  "post": null,
+  "slug": "strivesync-symbol-green",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-symbol-green.png",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "strivesync favicon",
+    "rendered": "strivesync favicon"
+  },
+  "type": "attachment"
+}

@@ -1,0 +1,238 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1534"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1534",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1534"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1534"
+      }
+    ],
+    "wp:attached-to": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/pages/1258",
+        "id": 1258,
+        "post_type": "page"
+      }
+    ]
+  },
+  "alt_text": "",
+  "author": 1,
+  "caption": {
+    "raw": "Confident mature businesswoman wearing beige jacket on business trip, holding cellphone to ear and smiling cheerfully at camera, standing in city center with modern buildings in background",
+    "rendered": "<p>Confident mature businesswoman wearing beige jacket on business trip, holding cellphone to ear and smiling cheerfully at camera, standing in city center with modern buildings in background</p>\n"
+  },
+  "class_list": [
+    "post-1534",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "open",
+  "date": "2026-03-23T20:17:10",
+  "date_gmt": "2026-03-23T20:17:10",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2026/03/Contacts-Strivesync.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"200\" src=\"https://strivesync.ai/wp-content/uploads/2026/03/Contacts-Strivesync-300x200.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://strivesync.ai/wp-content/uploads/2026/03/Contacts-Strivesync-300x200.jpg 300w, https://strivesync.ai/wp-content/uploads/2026/03/Contacts-Strivesync-1024x681.jpg 1024w, https://strivesync.ai/wp-content/uploads/2026/03/Contacts-Strivesync-768x511.jpg 768w, https://strivesync.ai/wp-content/uploads/2026/03/Contacts-Strivesync-1536x1022.jpg 1536w, https://strivesync.ai/wp-content/uploads/2026/03/Contacts-Strivesync.jpg 2000w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "Contacts-Strivesync.jpg",
+  "filesize": 453463,
+  "generated_slug": "close-up-of-cheerful-businesswoman-listening-to-cellphone-smiling-at-camera-in-city-center",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2026/03/Contacts-Strivesync.jpg",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2026/03/Contacts-Strivesync.jpg"
+  },
+  "id": 1534,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 82,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/contact/attachment/close-up-of-cheerful-businesswoman-listening-to-cellphone-smiling-at-camera-in-city-center/",
+  "media_details": {
+    "file": "2026/03/Contacts-Strivesync.jpg",
+    "filesize": 453463,
+    "height": 1331,
+    "image_meta": {
+      "aperture": "0",
+      "camera": "",
+      "caption": "Confident mature businesswoman wearing beige jacket on business trip, holding cellphone to ear and smiling cheerfully at camera, standing in city center with modern buildings in background",
+      "copyright": "",
+      "created_timestamp": "0",
+      "credit": "Getty Images",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [],
+      "orientation": "1",
+      "shutter_speed": "0",
+      "title": "Close-up of cheerful businesswoman listening to cellphone, smiling at camera in city center"
+    },
+    "sizes": {
+      "1536x1536": {
+        "file": "Contacts-Strivesync-1536x1022.jpg",
+        "filesize": 124416,
+        "height": 1022,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Contacts-Strivesync-1536x1022.jpg",
+        "width": 1536
+      },
+      "full": {
+        "file": "Contacts-Strivesync.jpg",
+        "height": 1331,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Contacts-Strivesync.jpg",
+        "width": 2000
+      },
+      "large": {
+        "file": "Contacts-Strivesync-1024x681.jpg",
+        "filesize": 67296,
+        "height": 681,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Contacts-Strivesync-1024x681.jpg",
+        "width": 1024
+      },
+      "large_featured": {
+        "file": "Contacts-Strivesync-1870x770.jpg",
+        "filesize": 117629,
+        "height": 770,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Contacts-Strivesync-1870x770.jpg",
+        "width": 1870
+      },
+      "medium": {
+        "file": "Contacts-Strivesync-300x200.jpg",
+        "filesize": 11751,
+        "height": 200,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Contacts-Strivesync-300x200.jpg",
+        "width": 300
+      },
+      "medium_featured": {
+        "file": "Contacts-Strivesync-800x800.jpg",
+        "filesize": 60498,
+        "height": 800,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Contacts-Strivesync-800x800.jpg",
+        "width": 800
+      },
+      "medium_large": {
+        "file": "Contacts-Strivesync-768x511.jpg",
+        "filesize": 43842,
+        "height": 511,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Contacts-Strivesync-768x511.jpg",
+        "width": 768
+      },
+      "nectar_small_square": {
+        "file": "Contacts-Strivesync-140x140.jpg",
+        "filesize": 5174,
+        "height": 140,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Contacts-Strivesync-140x140.jpg",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "Contacts-Strivesync-600x403.jpg",
+        "filesize": 31265,
+        "height": 403,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Contacts-Strivesync-600x403.jpg",
+        "width": 600
+      },
+      "portfolio-widget": {
+        "file": "Contacts-Strivesync-100x100.jpg",
+        "filesize": 3457,
+        "height": 100,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Contacts-Strivesync-100x100.jpg",
+        "width": 100
+      },
+      "regular_small": {
+        "file": "Contacts-Strivesync-350x350.jpg",
+        "filesize": 17821,
+        "height": 350,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Contacts-Strivesync-350x350.jpg",
+        "width": 350
+      },
+      "thumbnail": {
+        "file": "Contacts-Strivesync-150x150.jpg",
+        "filesize": 5558,
+        "height": 150,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Contacts-Strivesync-150x150.jpg",
+        "width": 150
+      }
+    },
+    "width": 2000
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/jpeg",
+  "missing_image_sizes": [],
+  "modified": "2026-03-23T20:17:10",
+  "modified_gmt": "2026-03-23T20:17:10",
+  "permalink_template": "https://strivesync.ai/contact/%postname%/",
+  "ping_status": "closed",
+  "post": 1258,
+  "slug": "close-up-of-cheerful-businesswoman-listening-to-cellphone-smiling-at-camera-in-city-center",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Contacts-Strivesync.jpg",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "Close-up of cheerful businesswoman listening to cellphone, smiling at camera in city center",
+    "rendered": "Close-up of cheerful businesswoman listening to cellphone, smiling at camera in city center"
+  },
+  "type": "attachment"
+}

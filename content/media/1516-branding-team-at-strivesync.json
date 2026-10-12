@@ -1,0 +1,222 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1516"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1516",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1516"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1516"
+      }
+    ],
+    "wp:attached-to": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/pages/10",
+        "id": 10,
+        "post_type": "page"
+      }
+    ]
+  },
+  "alt_text": "agency team working on branding",
+  "author": 1,
+  "caption": {
+    "raw": "",
+    "rendered": ""
+  },
+  "class_list": [
+    "post-1516",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "open",
+  "date": "2026-03-22T18:44:49",
+  "date_gmt": "2026-03-22T18:44:49",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2026/03/Branding-team-at-strivesync.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"164\" src=\"https://strivesync.ai/wp-content/uploads/2026/03/Branding-team-at-strivesync-300x164.jpg\" class=\"attachment-medium size-medium\" alt=\"agency team working on branding\" srcset=\"https://strivesync.ai/wp-content/uploads/2026/03/Branding-team-at-strivesync-300x164.jpg 300w, https://strivesync.ai/wp-content/uploads/2026/03/Branding-team-at-strivesync-1024x559.jpg 1024w, https://strivesync.ai/wp-content/uploads/2026/03/Branding-team-at-strivesync-768x419.jpg 768w, https://strivesync.ai/wp-content/uploads/2026/03/Branding-team-at-strivesync.jpg 1408w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "Branding-team-at-strivesync.jpg",
+  "filesize": 806323,
+  "generated_slug": "branding-team-at-strivesync",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2026/03/Branding-team-at-strivesync.jpg",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2026/03/Branding-team-at-strivesync.jpg"
+  },
+  "id": 1516,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 82,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/strivesync/attachment/branding-team-at-strivesync/",
+  "media_details": {
+    "file": "2026/03/Branding-team-at-strivesync.jpg",
+    "filesize": 806323,
+    "height": 768,
+    "image_meta": {
+      "aperture": "0",
+      "camera": "",
+      "caption": "",
+      "copyright": "",
+      "created_timestamp": "0",
+      "credit": "",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [],
+      "orientation": "1",
+      "shutter_speed": "0",
+      "title": ""
+    },
+    "sizes": {
+      "full": {
+        "file": "Branding-team-at-strivesync.jpg",
+        "height": 768,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Branding-team-at-strivesync.jpg",
+        "width": 1408
+      },
+      "large": {
+        "file": "Branding-team-at-strivesync-1024x559.jpg",
+        "filesize": 110198,
+        "height": 559,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Branding-team-at-strivesync-1024x559.jpg",
+        "width": 1024
+      },
+      "medium": {
+        "file": "Branding-team-at-strivesync-300x164.jpg",
+        "filesize": 16484,
+        "height": 164,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Branding-team-at-strivesync-300x164.jpg",
+        "width": 300
+      },
+      "medium_featured": {
+        "file": "Branding-team-at-strivesync-800x768.jpg",
+        "filesize": 116751,
+        "height": 768,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Branding-team-at-strivesync-800x768.jpg",
+        "width": 800
+      },
+      "medium_large": {
+        "file": "Branding-team-at-strivesync-768x419.jpg",
+        "filesize": 72084,
+        "height": 419,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Branding-team-at-strivesync-768x419.jpg",
+        "width": 768
+      },
+      "nectar_small_square": {
+        "file": "Branding-team-at-strivesync-140x140.jpg",
+        "filesize": 7792,
+        "height": 140,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Branding-team-at-strivesync-140x140.jpg",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "Branding-team-at-strivesync-600x403.jpg",
+        "filesize": 56976,
+        "height": 403,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Branding-team-at-strivesync-600x403.jpg",
+        "width": 600
+      },
+      "portfolio-widget": {
+        "file": "Branding-team-at-strivesync-100x100.jpg",
+        "filesize": 4751,
+        "height": 100,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Branding-team-at-strivesync-100x100.jpg",
+        "width": 100
+      },
+      "regular_small": {
+        "file": "Branding-team-at-strivesync-350x350.jpg",
+        "filesize": 32664,
+        "height": 350,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Branding-team-at-strivesync-350x350.jpg",
+        "width": 350
+      },
+      "thumbnail": {
+        "file": "Branding-team-at-strivesync-150x150.jpg",
+        "filesize": 8647,
+        "height": 150,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Branding-team-at-strivesync-150x150.jpg",
+        "width": 150
+      }
+    },
+    "width": 1408
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/jpeg",
+  "missing_image_sizes": [],
+  "modified": "2026-03-22T18:49:57",
+  "modified_gmt": "2026-03-22T18:49:57",
+  "permalink_template": "https://strivesync.ai/strivesync/%postname%/",
+  "ping_status": "closed",
+  "post": 10,
+  "slug": "branding-team-at-strivesync",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Branding-team-at-strivesync.jpg",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "Branding team at strivesync",
+    "rendered": "Branding team at strivesync"
+  },
+  "type": "attachment"
+}

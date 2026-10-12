@@ -1,0 +1,302 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1229"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1229",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1229"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1229"
+      }
+    ],
+    "wp:attached-to": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/pages/10",
+        "id": 10,
+        "post_type": "page"
+      }
+    ]
+  },
+  "alt_text": "",
+  "author": 1,
+  "caption": {
+    "raw": "",
+    "rendered": ""
+  },
+  "class_list": [
+    "post-1229",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "open",
+  "date": "2025-10-21T21:08:38",
+  "date_gmt": "2025-10-21T21:08:38",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2025/10/planning-sessions.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"261\" height=\"300\" src=\"https://strivesync.ai/wp-content/uploads/2025/10/planning-sessions-261x300.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://strivesync.ai/wp-content/uploads/2025/10/planning-sessions-261x300.jpg 261w, https://strivesync.ai/wp-content/uploads/2025/10/planning-sessions-890x1024.jpg 890w, https://strivesync.ai/wp-content/uploads/2025/10/planning-sessions-768x884.jpg 768w, https://strivesync.ai/wp-content/uploads/2025/10/planning-sessions-1335x1536.jpg 1335w, https://strivesync.ai/wp-content/uploads/2025/10/planning-sessions.jpg 1400w\" sizes=\"auto, (max-width: 261px) 100vw, 261px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "planning-sessions.jpg",
+  "filesize": 464779,
+  "generated_slug": "planning-sessions",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2025/10/planning-sessions.jpg",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2025/10/planning-sessions.jpg"
+  },
+  "id": 1229,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 82,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/strivesync/attachment/planning-sessions/",
+  "media_details": {
+    "file": "2025/10/planning-sessions.jpg",
+    "filesize": 464779,
+    "height": 1611,
+    "image_meta": {
+      "aperture": "0",
+      "camera": "",
+      "caption": "",
+      "copyright": "",
+      "created_timestamp": "0",
+      "credit": "",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [],
+      "orientation": "0",
+      "shutter_speed": "0",
+      "title": ""
+    },
+    "sizes": {
+      "1536x1536": {
+        "file": "planning-sessions-1335x1536.jpg",
+        "filesize": 205879,
+        "height": 1536,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/planning-sessions-1335x1536.jpg",
+        "width": 1335
+      },
+      "full": {
+        "file": "planning-sessions.jpg",
+        "height": 1611,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/planning-sessions.jpg",
+        "width": 1400
+      },
+      "large": {
+        "file": "planning-sessions-890x1024.jpg",
+        "filesize": 86652,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/planning-sessions-890x1024.jpg",
+        "width": 890
+      },
+      "large_featured": {
+        "file": "planning-sessions-1400x770.jpg",
+        "filesize": 118289,
+        "height": 770,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/planning-sessions-1400x770.jpg",
+        "width": 1400
+      },
+      "medium": {
+        "file": "planning-sessions-261x300.jpg",
+        "filesize": 11437,
+        "height": 300,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/planning-sessions-261x300.jpg",
+        "width": 261
+      },
+      "medium_featured": {
+        "file": "planning-sessions-800x800.jpg",
+        "filesize": 63189,
+        "height": 800,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/planning-sessions-800x800.jpg",
+        "width": 800
+      },
+      "medium_large": {
+        "file": "planning-sessions-768x884.jpg",
+        "filesize": 64667,
+        "height": 884,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/planning-sessions-768x884.jpg",
+        "width": 768
+      },
+      "nectar_small_square": {
+        "file": "planning-sessions-140x140.jpg",
+        "filesize": 4625,
+        "height": 140,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/planning-sessions-140x140.jpg",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "planning-sessions-600x403.jpg",
+        "filesize": 25473,
+        "height": 403,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/planning-sessions-600x403.jpg",
+        "width": 600
+      },
+      "portfolio-thumb_large": {
+        "file": "planning-sessions-900x604.jpg",
+        "filesize": 52840,
+        "height": 604,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/planning-sessions-900x604.jpg",
+        "width": 900
+      },
+      "portfolio-thumb_small": {
+        "file": "planning-sessions-400x269.jpg",
+        "filesize": 13074,
+        "height": 269,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/planning-sessions-400x269.jpg",
+        "width": 400
+      },
+      "portfolio-widget": {
+        "file": "planning-sessions-100x100.jpg",
+        "filesize": 3184,
+        "height": 100,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/planning-sessions-100x100.jpg",
+        "width": 100
+      },
+      "regular": {
+        "file": "planning-sessions-500x500.jpg",
+        "filesize": 27608,
+        "height": 500,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/planning-sessions-500x500.jpg",
+        "width": 500
+      },
+      "regular_small": {
+        "file": "planning-sessions-350x350.jpg",
+        "filesize": 15841,
+        "height": 350,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/planning-sessions-350x350.jpg",
+        "width": 350
+      },
+      "tall": {
+        "file": "planning-sessions-500x1000.jpg",
+        "filesize": 53918,
+        "height": 1000,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/planning-sessions-500x1000.jpg",
+        "width": 500
+      },
+      "thumbnail": {
+        "file": "planning-sessions-150x150.jpg",
+        "filesize": 5023,
+        "height": 150,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/planning-sessions-150x150.jpg",
+        "width": 150
+      },
+      "wide": {
+        "file": "planning-sessions-1000x500.jpg",
+        "filesize": 45508,
+        "height": 500,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/planning-sessions-1000x500.jpg",
+        "width": 1000
+      },
+      "wide_photography": {
+        "file": "planning-sessions-900x600.jpg",
+        "filesize": 52434,
+        "height": 600,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/planning-sessions-900x600.jpg",
+        "width": 900
+      },
+      "wide_small": {
+        "file": "planning-sessions-670x335.jpg",
+        "filesize": 21449,
+        "height": 335,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/planning-sessions-670x335.jpg",
+        "width": 670
+      },
+      "wide_tall": {
+        "file": "planning-sessions-1000x1000.jpg",
+        "filesize": 98877,
+        "height": 1000,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/planning-sessions-1000x1000.jpg",
+        "width": 1000
+      }
+    },
+    "width": 1400
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/jpeg",
+  "missing_image_sizes": [],
+  "modified": "2025-10-21T21:08:38",
+  "modified_gmt": "2025-10-21T21:08:38",
+  "permalink_template": "https://strivesync.ai/strivesync/%postname%/",
+  "ping_status": "closed",
+  "post": 10,
+  "slug": "planning-sessions",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/planning-sessions.jpg",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "planning-sessions",
+    "rendered": "planning-sessions"
+  },
+  "type": "attachment"
+}

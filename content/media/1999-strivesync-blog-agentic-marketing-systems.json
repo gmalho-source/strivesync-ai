@@ -1,0 +1,239 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1999"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1999",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1999"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1999"
+      }
+    ],
+    "wp:attached-to": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/posts/1996",
+        "id": 1996,
+        "post_type": "post"
+      }
+    ]
+  },
+  "alt_text": "woman sited in her office watching laptop screen with a view to Dubai Financial Center",
+  "author": 1,
+  "caption": {
+    "raw": "",
+    "rendered": ""
+  },
+  "class_list": [
+    "post-1999",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "closed",
+  "date": "2026-09-12T12:12:53",
+  "date_gmt": "2026-09-12T12:12:53",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2026/09/strivesync-blog-agentic-marketing-systems.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"169\" src=\"https://strivesync.ai/wp-content/uploads/2026/09/strivesync-blog-agentic-marketing-systems-300x169.jpg\" class=\"attachment-medium size-medium\" alt=\"woman sited in her office watching laptop screen with a view to Dubai Financial Center\" srcset=\"https://strivesync.ai/wp-content/uploads/2026/09/strivesync-blog-agentic-marketing-systems-300x169.jpg 300w, https://strivesync.ai/wp-content/uploads/2026/09/strivesync-blog-agentic-marketing-systems-1024x576.jpg 1024w, https://strivesync.ai/wp-content/uploads/2026/09/strivesync-blog-agentic-marketing-systems-768x432.jpg 768w, https://strivesync.ai/wp-content/uploads/2026/09/strivesync-blog-agentic-marketing-systems-1536x864.jpg 1536w, https://strivesync.ai/wp-content/uploads/2026/09/strivesync-blog-agentic-marketing-systems.jpg 1672w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "strivesync-blog-agentic-marketing-systems.jpg",
+  "filesize": 390603,
+  "generated_slug": "strivesync-blog-agentic-marketing-systems",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2026/09/strivesync-blog-agentic-marketing-systems.jpg",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2026/09/strivesync-blog-agentic-marketing-systems.jpg"
+  },
+  "id": 1999,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 82,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/artificial-intelligence/agentic-marketing-systems-why-dubai-is-becoming-the-global-capital-of-ai-driven-marketing/attachment/strivesync-blog-agentic-marketing-systems/",
+  "media_details": {
+    "file": "2026/09/strivesync-blog-agentic-marketing-systems.jpg",
+    "filesize": 390603,
+    "height": 941,
+    "image_meta": {
+      "alt": "",
+      "aperture": "0",
+      "camera": "",
+      "caption": "",
+      "copyright": "",
+      "created_timestamp": "0",
+      "credit": "",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [],
+      "orientation": "0",
+      "shutter_speed": "0",
+      "title": ""
+    },
+    "sizes": {
+      "1536x1536": {
+        "file": "strivesync-blog-agentic-marketing-systems-1536x864.jpg",
+        "filesize": 151144,
+        "height": 864,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/09/strivesync-blog-agentic-marketing-systems-1536x864.jpg",
+        "width": 1536
+      },
+      "full": {
+        "file": "strivesync-blog-agentic-marketing-systems.jpg",
+        "height": 941,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/09/strivesync-blog-agentic-marketing-systems.jpg",
+        "width": 1672
+      },
+      "large": {
+        "file": "strivesync-blog-agentic-marketing-systems-1024x576.jpg",
+        "filesize": 84272,
+        "height": 576,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/09/strivesync-blog-agentic-marketing-systems-1024x576.jpg",
+        "width": 1024
+      },
+      "large_featured": {
+        "file": "strivesync-blog-agentic-marketing-systems-1672x770.jpg",
+        "filesize": 157723,
+        "height": 770,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/09/strivesync-blog-agentic-marketing-systems-1672x770.jpg",
+        "width": 1672
+      },
+      "medium": {
+        "file": "strivesync-blog-agentic-marketing-systems-300x169.jpg",
+        "filesize": 13581,
+        "height": 169,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/09/strivesync-blog-agentic-marketing-systems-300x169.jpg",
+        "width": 300
+      },
+      "medium_featured": {
+        "file": "strivesync-blog-agentic-marketing-systems-800x800.jpg",
+        "filesize": 79443,
+        "height": 800,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/09/strivesync-blog-agentic-marketing-systems-800x800.jpg",
+        "width": 800
+      },
+      "medium_large": {
+        "file": "strivesync-blog-agentic-marketing-systems-768x432.jpg",
+        "filesize": 55400,
+        "height": 432,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/09/strivesync-blog-agentic-marketing-systems-768x432.jpg",
+        "width": 768
+      },
+      "nectar_small_square": {
+        "file": "strivesync-blog-agentic-marketing-systems-140x140.jpg",
+        "filesize": 6370,
+        "height": 140,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/09/strivesync-blog-agentic-marketing-systems-140x140.jpg",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "strivesync-blog-agentic-marketing-systems-600x403.jpg",
+        "filesize": 43414,
+        "height": 403,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/09/strivesync-blog-agentic-marketing-systems-600x403.jpg",
+        "width": 600
+      },
+      "portfolio-widget": {
+        "file": "strivesync-blog-agentic-marketing-systems-100x100.jpg",
+        "filesize": 4014,
+        "height": 100,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/09/strivesync-blog-agentic-marketing-systems-100x100.jpg",
+        "width": 100
+      },
+      "regular_small": {
+        "file": "strivesync-blog-agentic-marketing-systems-350x350.jpg",
+        "filesize": 23923,
+        "height": 350,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/09/strivesync-blog-agentic-marketing-systems-350x350.jpg",
+        "width": 350
+      },
+      "thumbnail": {
+        "file": "strivesync-blog-agentic-marketing-systems-150x150.jpg",
+        "filesize": 6964,
+        "height": 150,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/09/strivesync-blog-agentic-marketing-systems-150x150.jpg",
+        "width": 150
+      }
+    },
+    "width": 1672
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/jpeg",
+  "missing_image_sizes": [],
+  "modified": "2026-09-12T12:13:46",
+  "modified_gmt": "2026-09-12T12:13:46",
+  "permalink_template": "https://strivesync.ai/artificial-intelligence/agentic-marketing-systems-why-dubai-is-becoming-the-global-capital-of-ai-driven-marketing/%postname%/",
+  "ping_status": "closed",
+  "post": 1996,
+  "slug": "strivesync-blog-agentic-marketing-systems",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2026/09/strivesync-blog-agentic-marketing-systems.jpg",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "strivesync blog - agentic marketing systems",
+    "rendered": "strivesync blog &#8211; agentic marketing systems"
+  },
+  "type": "attachment"
+}

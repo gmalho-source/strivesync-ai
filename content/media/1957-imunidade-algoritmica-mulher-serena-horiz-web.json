@@ -1,0 +1,239 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1957"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1957",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1957"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1957"
+      }
+    ],
+    "wp:attached-to": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/posts/1949",
+        "id": 1949,
+        "post_type": "post"
+      }
+    ]
+  },
+  "alt_text": "",
+  "author": 1,
+  "caption": {
+    "raw": "",
+    "rendered": ""
+  },
+  "class_list": [
+    "post-1957",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "",
+  "date": "2026-07-10T14:19:58",
+  "date_gmt": "2026-07-10T14:19:58",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-mulher-serena-horIZ-web.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"169\" src=\"https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-mulher-serena-horIZ-web-300x169.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-mulher-serena-horIZ-web-300x169.jpg 300w, https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-mulher-serena-horIZ-web-1024x576.jpg 1024w, https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-mulher-serena-horIZ-web-768x432.jpg 768w, https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-mulher-serena-horIZ-web-1536x864.jpg 1536w, https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-mulher-serena-horIZ-web.jpg 1672w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "Imunidade-Algoritmica-mulher-serena-horIZ-web.jpg",
+  "filesize": 526515,
+  "generated_slug": "imunidade-algoritmica-mulher-serena-horiz-web",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-mulher-serena-horIZ-web.jpg",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-mulher-serena-horIZ-web.jpg"
+  },
+  "id": 1957,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 82,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/brand-strategy/algorithmic-immunity-why-ai-recommends-brands-that-earned-it/attachment/imunidade-algoritmica-mulher-serena-horiz-web/",
+  "media_details": {
+    "file": "2026/07/Imunidade-Algoritmica-mulher-serena-horIZ-web.jpg",
+    "filesize": 526515,
+    "height": 941,
+    "image_meta": {
+      "alt": "",
+      "aperture": "0",
+      "camera": "",
+      "caption": "",
+      "copyright": "",
+      "created_timestamp": "0",
+      "credit": "",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [],
+      "orientation": "0",
+      "shutter_speed": "0",
+      "title": ""
+    },
+    "sizes": {
+      "1536x1536": {
+        "file": "Imunidade-Algoritmica-mulher-serena-horIZ-web-1536x864.jpg",
+        "filesize": 193432,
+        "height": 864,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-mulher-serena-horIZ-web-1536x864.jpg",
+        "width": 1536
+      },
+      "full": {
+        "file": "Imunidade-Algoritmica-mulher-serena-horIZ-web.jpg",
+        "height": 941,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-mulher-serena-horIZ-web.jpg",
+        "width": 1672
+      },
+      "large": {
+        "file": "Imunidade-Algoritmica-mulher-serena-horIZ-web-1024x576.jpg",
+        "filesize": 103749,
+        "height": 576,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-mulher-serena-horIZ-web-1024x576.jpg",
+        "width": 1024
+      },
+      "large_featured": {
+        "file": "Imunidade-Algoritmica-mulher-serena-horIZ-web-1672x770.jpg",
+        "filesize": 209720,
+        "height": 770,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-mulher-serena-horIZ-web-1672x770.jpg",
+        "width": 1672
+      },
+      "medium": {
+        "file": "Imunidade-Algoritmica-mulher-serena-horIZ-web-300x169.jpg",
+        "filesize": 13623,
+        "height": 169,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-mulher-serena-horIZ-web-300x169.jpg",
+        "width": 300
+      },
+      "medium_featured": {
+        "file": "Imunidade-Algoritmica-mulher-serena-horIZ-web-800x800.jpg",
+        "filesize": 101220,
+        "height": 800,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-mulher-serena-horIZ-web-800x800.jpg",
+        "width": 800
+      },
+      "medium_large": {
+        "file": "Imunidade-Algoritmica-mulher-serena-horIZ-web-768x432.jpg",
+        "filesize": 65029,
+        "height": 432,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-mulher-serena-horIZ-web-768x432.jpg",
+        "width": 768
+      },
+      "nectar_small_square": {
+        "file": "Imunidade-Algoritmica-mulher-serena-horIZ-web-140x140.jpg",
+        "filesize": 6205,
+        "height": 140,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-mulher-serena-horIZ-web-140x140.jpg",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "Imunidade-Algoritmica-mulher-serena-horIZ-web-600x403.jpg",
+        "filesize": 48808,
+        "height": 403,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-mulher-serena-horIZ-web-600x403.jpg",
+        "width": 600
+      },
+      "portfolio-widget": {
+        "file": "Imunidade-Algoritmica-mulher-serena-horIZ-web-100x100.jpg",
+        "filesize": 3827,
+        "height": 100,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-mulher-serena-horIZ-web-100x100.jpg",
+        "width": 100
+      },
+      "regular_small": {
+        "file": "Imunidade-Algoritmica-mulher-serena-horIZ-web-350x350.jpg",
+        "filesize": 27374,
+        "height": 350,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-mulher-serena-horIZ-web-350x350.jpg",
+        "width": 350
+      },
+      "thumbnail": {
+        "file": "Imunidade-Algoritmica-mulher-serena-horIZ-web-150x150.jpg",
+        "filesize": 6824,
+        "height": 150,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-mulher-serena-horIZ-web-150x150.jpg",
+        "width": 150
+      }
+    },
+    "width": 1672
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/jpeg",
+  "missing_image_sizes": [],
+  "modified": "2026-07-10T14:19:58",
+  "modified_gmt": "2026-07-10T14:19:58",
+  "permalink_template": "https://strivesync.ai/brand-strategy/algorithmic-immunity-why-ai-recommends-brands-that-earned-it/%postname%/",
+  "ping_status": "closed",
+  "post": 1949,
+  "slug": "imunidade-algoritmica-mulher-serena-horiz-web",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-mulher-serena-horIZ-web.jpg",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "Imunidade Algoritmica - mulher serena horIZ web",
+    "rendered": "Imunidade Algoritmica &#8211; mulher serena horIZ web"
+  },
+  "type": "attachment"
+}

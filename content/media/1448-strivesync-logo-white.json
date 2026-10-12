@@ -1,0 +1,223 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1448"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1448",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1448"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1448"
+      }
+    ]
+  },
+  "alt_text": "Strivesync logo",
+  "author": 1,
+  "caption": {
+    "raw": "",
+    "rendered": ""
+  },
+  "class_list": [
+    "post-1448",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "open",
+  "date": "2026-03-02T19:34:33",
+  "date_gmt": "2026-03-02T19:34:33",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2026/03/strivesync-logo-white.svg'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"102\" src=\"https://strivesync.ai/wp-content/uploads/2026/03/strivesync-logo-white.svg\" class=\"attachment-medium size-medium\" alt=\"Strivesync logo\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "strivesync-logo-white.svg",
+  "filesize": 24857,
+  "generated_slug": "strivesync-ai-powered-marketing-sales",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-logo-white.svg",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-logo-white.svg"
+  },
+  "id": 1448,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 82,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/strivesync-logo-white/",
+  "media_details": {
+    "file": "/2026/03/strivesync-logo-white.svg",
+    "height": 1080,
+    "sizes": {
+      "1536x1536": {
+        "crop": false,
+        "file": "strivesync-logo-white.svg",
+        "height": 0,
+        "mime_type": "image/svg+xml",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-logo-white.svg",
+        "width": false
+      },
+      "2048x2048": {
+        "crop": false,
+        "file": "strivesync-logo-white.svg",
+        "height": 0,
+        "mime_type": "image/svg+xml",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-logo-white.svg",
+        "width": false
+      },
+      "full": {
+        "file": "strivesync-logo-white.svg",
+        "height": 1080,
+        "mime_type": "image/svg+xml",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-logo-white.svg",
+        "width": 3171
+      },
+      "large": {
+        "crop": false,
+        "file": "strivesync-logo-white.svg",
+        "height": 348,
+        "mime_type": "image/svg+xml",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-logo-white.svg",
+        "width": "1024"
+      },
+      "large_featured": {
+        "crop": false,
+        "file": "strivesync-logo-white.svg",
+        "height": 0,
+        "mime_type": "image/svg+xml",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-logo-white.svg",
+        "width": false
+      },
+      "medium": {
+        "crop": false,
+        "file": "strivesync-logo-white.svg",
+        "height": 102,
+        "mime_type": "image/svg+xml",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-logo-white.svg",
+        "width": "300"
+      },
+      "medium_featured": {
+        "crop": false,
+        "file": "strivesync-logo-white.svg",
+        "height": 0,
+        "mime_type": "image/svg+xml",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-logo-white.svg",
+        "width": false
+      },
+      "medium_large": {
+        "crop": false,
+        "file": "strivesync-logo-white.svg",
+        "height": 261,
+        "mime_type": "image/svg+xml",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-logo-white.svg",
+        "width": "768"
+      },
+      "nectar_small_square": {
+        "crop": false,
+        "file": "strivesync-logo-white.svg",
+        "height": 0,
+        "mime_type": "image/svg+xml",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-logo-white.svg",
+        "width": false
+      },
+      "portfolio-thumb": {
+        "crop": false,
+        "file": "strivesync-logo-white.svg",
+        "height": 0,
+        "mime_type": "image/svg+xml",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-logo-white.svg",
+        "width": false
+      },
+      "portfolio-widget": {
+        "crop": false,
+        "file": "strivesync-logo-white.svg",
+        "height": 0,
+        "mime_type": "image/svg+xml",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-logo-white.svg",
+        "width": false
+      },
+      "regular_small": {
+        "crop": false,
+        "file": "strivesync-logo-white.svg",
+        "height": 0,
+        "mime_type": "image/svg+xml",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-logo-white.svg",
+        "width": false
+      },
+      "thumbnail": {
+        "crop": false,
+        "file": "strivesync-logo-white.svg",
+        "height": 51,
+        "mime_type": "image/svg+xml",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-logo-white.svg",
+        "width": "150"
+      }
+    },
+    "width": 3171
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/svg+xml",
+  "missing_image_sizes": [],
+  "modified": "2026-03-02T19:34:54",
+  "modified_gmt": "2026-03-02T19:34:54",
+  "permalink_template": "https://strivesync.ai/?attachment_id=1448",
+  "ping_status": "closed",
+  "post": null,
+  "slug": "strivesync-logo-white",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-logo-white.svg",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "strivesync AI Powered Marketing & Sales",
+    "rendered": "strivesync AI Powered Marketing &#038; Sales"
+  },
+  "type": "attachment"
+}

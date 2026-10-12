@@ -1,0 +1,239 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1618"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1618",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1618"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1618"
+      }
+    ]
+  },
+  "alt_text": "",
+  "author": 1,
+  "caption": {
+    "raw": "",
+    "rendered": ""
+  },
+  "class_list": [
+    "post-1618",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "open",
+  "date": "2026-04-09T10:22:25",
+  "date_gmt": "2026-04-09T10:22:25",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-hor-green-scaled.png'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"102\" src=\"https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-hor-green-300x102.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-hor-green-300x102.png 300w, https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-hor-green-1024x349.png 1024w, https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-hor-green-768x262.png 768w, https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-hor-green-1536x523.png 1536w, https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-hor-green-2048x698.png 2048w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "strivesync-logo-hor-green.png",
+  "filesize": 87076,
+  "generated_slug": "strivesync-logo-hor-green",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-hor-green.png",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-hor-green.png"
+  },
+  "id": 1618,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 82,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/strivesync-logo-hor-green/",
+  "media_details": {
+    "file": "2026/04/strivesync-logo-hor-green-scaled.png",
+    "filesize": 87076,
+    "height": 872,
+    "image_meta": {
+      "aperture": "0",
+      "camera": "",
+      "caption": "",
+      "copyright": "",
+      "created_timestamp": "0",
+      "credit": "",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [],
+      "orientation": "0",
+      "shutter_speed": "0",
+      "title": ""
+    },
+    "original_image": "strivesync-logo-hor-green.png",
+    "sizes": {
+      "1536x1536": {
+        "file": "strivesync-logo-hor-green-1536x523.png",
+        "filesize": 45021,
+        "height": 523,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-hor-green-1536x523.png",
+        "width": 1536
+      },
+      "2048x2048": {
+        "file": "strivesync-logo-hor-green-2048x698.png",
+        "filesize": 65124,
+        "height": 698,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-hor-green-2048x698.png",
+        "width": 2048
+      },
+      "full": {
+        "file": "strivesync-logo-hor-green-scaled.png",
+        "height": 872,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-hor-green-scaled.png",
+        "width": 2560
+      },
+      "large": {
+        "file": "strivesync-logo-hor-green-1024x349.png",
+        "filesize": 27083,
+        "height": 349,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-hor-green-1024x349.png",
+        "width": 1024
+      },
+      "large_featured": {
+        "file": "strivesync-logo-hor-green-1870x770.png",
+        "filesize": 64222,
+        "height": 770,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-hor-green-1870x770.png",
+        "width": 1870
+      },
+      "medium": {
+        "file": "strivesync-logo-hor-green-300x102.png",
+        "filesize": 6289,
+        "height": 102,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-hor-green-300x102.png",
+        "width": 300
+      },
+      "medium_featured": {
+        "file": "strivesync-logo-hor-green-800x800.png",
+        "filesize": 21804,
+        "height": 800,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-hor-green-800x800.png",
+        "width": 800
+      },
+      "medium_large": {
+        "file": "strivesync-logo-hor-green-768x262.png",
+        "filesize": 18699,
+        "height": 262,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-hor-green-768x262.png",
+        "width": 768
+      },
+      "nectar_small_square": {
+        "file": "strivesync-logo-hor-green-140x140.png",
+        "filesize": 2695,
+        "height": 140,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-hor-green-140x140.png",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "strivesync-logo-hor-green-600x403.png",
+        "filesize": 15215,
+        "height": 403,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-hor-green-600x403.png",
+        "width": 600
+      },
+      "portfolio-widget": {
+        "file": "strivesync-logo-hor-green-100x100.png",
+        "filesize": 1967,
+        "height": 100,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-hor-green-100x100.png",
+        "width": 100
+      },
+      "regular_small": {
+        "file": "strivesync-logo-hor-green-350x350.png",
+        "filesize": 7400,
+        "height": 350,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-hor-green-350x350.png",
+        "width": 350
+      },
+      "thumbnail": {
+        "file": "strivesync-logo-hor-green-150x150.png",
+        "filesize": 2880,
+        "height": 150,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-hor-green-150x150.png",
+        "width": 150
+      }
+    },
+    "width": 2560
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/png",
+  "missing_image_sizes": [],
+  "modified": "2026-04-09T10:22:25",
+  "modified_gmt": "2026-04-09T10:22:25",
+  "permalink_template": "https://strivesync.ai/?attachment_id=1618",
+  "ping_status": "closed",
+  "post": null,
+  "slug": "strivesync-logo-hor-green",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/strivesync-logo-hor-green-scaled.png",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "strivesync logo - hor green",
+    "rendered": "strivesync logo &#8211; hor green"
+  },
+  "type": "attachment"
+}

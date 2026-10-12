@@ -1,0 +1,246 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1906"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1906",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1906"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1906"
+      }
+    ],
+    "wp:attached-to": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/posts/1896",
+        "id": 1896,
+        "post_type": "post"
+      }
+    ]
+  },
+  "alt_text": "",
+  "author": 1,
+  "caption": {
+    "raw": "",
+    "rendered": ""
+  },
+  "class_list": [
+    "post-1906",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "",
+  "date": "2026-05-15T21:54:50",
+  "date_gmt": "2026-05-15T21:54:50",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2026/05/04_sequence_timeline.png'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"195\" src=\"https://strivesync.ai/wp-content/uploads/2026/05/04_sequence_timeline-300x195.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://strivesync.ai/wp-content/uploads/2026/05/04_sequence_timeline-300x195.png 300w, https://strivesync.ai/wp-content/uploads/2026/05/04_sequence_timeline-1024x667.png 1024w, https://strivesync.ai/wp-content/uploads/2026/05/04_sequence_timeline-768x500.png 768w, https://strivesync.ai/wp-content/uploads/2026/05/04_sequence_timeline-1536x1000.png 1536w, https://strivesync.ai/wp-content/uploads/2026/05/04_sequence_timeline-2048x1333.png 2048w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "04_sequence_timeline.png",
+  "filesize": 168342,
+  "generated_slug": "04_sequence_timeline",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2026/05/04_sequence_timeline.png",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2026/05/04_sequence_timeline.png"
+  },
+  "id": 1906,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 82,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/artificial-intelligence/how-to-use-ai-agents-to-automate-sales-and-follow-up/attachment/04_sequence_timeline/",
+  "media_details": {
+    "file": "2026/05/04_sequence_timeline.png",
+    "filesize": 168342,
+    "height": 1511,
+    "image_meta": {
+      "aperture": "0",
+      "camera": "",
+      "caption": "",
+      "copyright": "",
+      "created_timestamp": "0",
+      "credit": "",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [],
+      "orientation": "0",
+      "shutter_speed": "0",
+      "title": ""
+    },
+    "sizes": {
+      "1536x1536": {
+        "file": "04_sequence_timeline-1536x1000.png",
+        "filesize": 142700,
+        "height": 1000,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/04_sequence_timeline-1536x1000.png",
+        "width": 1536
+      },
+      "2048x2048": {
+        "file": "04_sequence_timeline-2048x1333.png",
+        "filesize": 211414,
+        "height": 1333,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/04_sequence_timeline-2048x1333.png",
+        "width": 2048
+      },
+      "full": {
+        "file": "04_sequence_timeline.png",
+        "height": 1511,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/04_sequence_timeline.png",
+        "width": 2321
+      },
+      "large": {
+        "file": "04_sequence_timeline-1024x667.png",
+        "filesize": 84196,
+        "height": 667,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/04_sequence_timeline-1024x667.png",
+        "width": 1024
+      },
+      "large_featured": {
+        "file": "04_sequence_timeline-1870x770.png",
+        "filesize": 92978,
+        "height": 770,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/04_sequence_timeline-1870x770.png",
+        "width": 1870
+      },
+      "medium": {
+        "file": "04_sequence_timeline-300x195.png",
+        "filesize": 14459,
+        "height": 195,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/04_sequence_timeline-300x195.png",
+        "width": 300
+      },
+      "medium_featured": {
+        "file": "04_sequence_timeline-800x800.png",
+        "filesize": 88001,
+        "height": 800,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/04_sequence_timeline-800x800.png",
+        "width": 800
+      },
+      "medium_large": {
+        "file": "04_sequence_timeline-768x500.png",
+        "filesize": 56526,
+        "height": 500,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/04_sequence_timeline-768x500.png",
+        "width": 768
+      },
+      "nectar_small_square": {
+        "file": "04_sequence_timeline-140x140.png",
+        "filesize": 7302,
+        "height": 140,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/04_sequence_timeline-140x140.png",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "04_sequence_timeline-600x403.png",
+        "filesize": 41324,
+        "height": 403,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/04_sequence_timeline-600x403.png",
+        "width": 600
+      },
+      "portfolio-widget": {
+        "file": "04_sequence_timeline-100x100.png",
+        "filesize": 4640,
+        "height": 100,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/04_sequence_timeline-100x100.png",
+        "width": 100
+      },
+      "regular_small": {
+        "file": "04_sequence_timeline-350x350.png",
+        "filesize": 28222,
+        "height": 350,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/04_sequence_timeline-350x350.png",
+        "width": 350
+      },
+      "thumbnail": {
+        "file": "04_sequence_timeline-150x150.png",
+        "filesize": 8073,
+        "height": 150,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/04_sequence_timeline-150x150.png",
+        "width": 150
+      }
+    },
+    "width": 2321
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/png",
+  "missing_image_sizes": [],
+  "modified": "2026-05-15T21:54:50",
+  "modified_gmt": "2026-05-15T21:54:50",
+  "permalink_template": "https://strivesync.ai/artificial-intelligence/how-to-use-ai-agents-to-automate-sales-and-follow-up/%postname%/",
+  "ping_status": "closed",
+  "post": 1896,
+  "slug": "04_sequence_timeline",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/04_sequence_timeline.png",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "04_sequence_timeline",
+    "rendered": "04_sequence_timeline"
+  },
+  "type": "attachment"
+}

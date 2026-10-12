@@ -1,0 +1,226 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1718"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1718",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1718"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1718"
+      }
+    ],
+    "wp:attached-to": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/posts/1717",
+        "id": 1717,
+        "post_type": "post"
+      }
+    ]
+  },
+  "alt_text": "",
+  "author": 1,
+  "caption": {
+    "raw": "Conceptual diagram showcasing AI practical uses for small businesses, spotlighting operational efficiency, data insights, optimized sales, and marketing strategies.",
+    "rendered": "<p>Conceptual diagram showcasing AI practical uses for small businesses, spotlighting operational efficiency, data insights, optimized sales, and marketing strategies.</p>\n"
+  },
+  "class_list": [
+    "post-1718",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "open",
+  "date": "2026-04-11T22:41:45",
+  "date_gmt": "2026-04-11T22:41:45",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2026/04/AI-for-SMB-in-UAE.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"169\" src=\"https://strivesync.ai/wp-content/uploads/2026/04/AI-for-SMB-in-UAE-300x169.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://strivesync.ai/wp-content/uploads/2026/04/AI-for-SMB-in-UAE-300x169.jpg 300w, https://strivesync.ai/wp-content/uploads/2026/04/AI-for-SMB-in-UAE-1024x576.jpg 1024w, https://strivesync.ai/wp-content/uploads/2026/04/AI-for-SMB-in-UAE-768x432.jpg 768w, https://strivesync.ai/wp-content/uploads/2026/04/AI-for-SMB-in-UAE.jpg 1365w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "AI-for-SMB-in-UAE.jpg",
+  "filesize": 582701,
+  "generated_slug": "conceptual-diagram-showcasing-ai-practical-uses-for-small-businesses",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2026/04/AI-for-SMB-in-UAE.jpg",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2026/04/AI-for-SMB-in-UAE.jpg"
+  },
+  "id": 1718,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 82,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/artificial-intelligence/how-ai-agents-are-helping-small-businesses-grow-faster/attachment/conceptual-diagram-showcasing-ai-practical-uses-for-small-businesses/",
+  "media_details": {
+    "file": "2026/04/AI-for-SMB-in-UAE.jpg",
+    "filesize": 582701,
+    "height": 768,
+    "image_meta": {
+      "aperture": "0",
+      "camera": "",
+      "caption": "Conceptual diagram showcasing AI practical uses for small businesses, spotlighting operational efficiency, data insights, optimized sales, and marketing strategies.",
+      "copyright": "",
+      "created_timestamp": "0",
+      "credit": "Getty Images",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [
+        "tools",
+        "enterprise",
+        "sales"
+      ],
+      "orientation": "1",
+      "shutter_speed": "0",
+      "title": "Conceptual diagram showcasing AI practical uses for small businesses."
+    },
+    "sizes": {
+      "full": {
+        "file": "AI-for-SMB-in-UAE.jpg",
+        "height": 768,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/AI-for-SMB-in-UAE.jpg",
+        "width": 1365
+      },
+      "large": {
+        "file": "AI-for-SMB-in-UAE-1024x576.jpg",
+        "filesize": 75819,
+        "height": 576,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/AI-for-SMB-in-UAE-1024x576.jpg",
+        "width": 1024
+      },
+      "medium": {
+        "file": "AI-for-SMB-in-UAE-300x169.jpg",
+        "filesize": 12712,
+        "height": 169,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/AI-for-SMB-in-UAE-300x169.jpg",
+        "width": 300
+      },
+      "medium_featured": {
+        "file": "AI-for-SMB-in-UAE-800x768.jpg",
+        "filesize": 82745,
+        "height": 768,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/AI-for-SMB-in-UAE-800x768.jpg",
+        "width": 800
+      },
+      "medium_large": {
+        "file": "AI-for-SMB-in-UAE-768x432.jpg",
+        "filesize": 49889,
+        "height": 432,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/AI-for-SMB-in-UAE-768x432.jpg",
+        "width": 768
+      },
+      "nectar_small_square": {
+        "file": "AI-for-SMB-in-UAE-140x140.jpg",
+        "filesize": 6217,
+        "height": 140,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/AI-for-SMB-in-UAE-140x140.jpg",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "AI-for-SMB-in-UAE-600x403.jpg",
+        "filesize": 40725,
+        "height": 403,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/AI-for-SMB-in-UAE-600x403.jpg",
+        "width": 600
+      },
+      "portfolio-widget": {
+        "file": "AI-for-SMB-in-UAE-100x100.jpg",
+        "filesize": 3876,
+        "height": 100,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/AI-for-SMB-in-UAE-100x100.jpg",
+        "width": 100
+      },
+      "regular_small": {
+        "file": "AI-for-SMB-in-UAE-350x350.jpg",
+        "filesize": 23999,
+        "height": 350,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/AI-for-SMB-in-UAE-350x350.jpg",
+        "width": 350
+      },
+      "thumbnail": {
+        "file": "AI-for-SMB-in-UAE-150x150.jpg",
+        "filesize": 6920,
+        "height": 150,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/AI-for-SMB-in-UAE-150x150.jpg",
+        "width": 150
+      }
+    },
+    "width": 1365
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/jpeg",
+  "missing_image_sizes": [],
+  "modified": "2026-04-11T22:41:45",
+  "modified_gmt": "2026-04-11T22:41:45",
+  "permalink_template": "https://strivesync.ai/artificial-intelligence/how-ai-agents-are-helping-small-businesses-grow-faster/%postname%/",
+  "ping_status": "closed",
+  "post": 1717,
+  "slug": "conceptual-diagram-showcasing-ai-practical-uses-for-small-businesses",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/AI-for-SMB-in-UAE.jpg",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "Conceptual diagram showcasing AI practical uses for small businesses.",
+    "rendered": "Conceptual diagram showcasing AI practical uses for small businesses."
+  },
+  "type": "attachment"
+}

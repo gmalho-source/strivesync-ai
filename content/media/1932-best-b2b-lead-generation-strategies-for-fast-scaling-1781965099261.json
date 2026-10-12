@@ -1,0 +1,231 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1932"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1932",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1932"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1932"
+      }
+    ],
+    "wp:attached-to": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/posts/1931",
+        "id": 1931,
+        "post_type": "post"
+      }
+    ]
+  },
+  "alt_text": "A long line of business people getting inside a building",
+  "author": 1,
+  "caption": {
+    "raw": "",
+    "rendered": ""
+  },
+  "class_list": [
+    "post-1932",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "closed",
+  "date": "2026-06-20T14:23:48",
+  "date_gmt": "2026-06-20T14:23:48",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2026/06/best-b2b-lead-generation-strategies-for-fast-scaling-1781965099261.webp'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"200\" src=\"https://strivesync.ai/wp-content/uploads/2026/06/best-b2b-lead-generation-strategies-for-fast-scaling-1781965099261-300x200.webp\" class=\"attachment-medium size-medium\" alt=\"A long line of business people getting inside a building\" srcset=\"https://strivesync.ai/wp-content/uploads/2026/06/best-b2b-lead-generation-strategies-for-fast-scaling-1781965099261-300x200.webp 300w, https://strivesync.ai/wp-content/uploads/2026/06/best-b2b-lead-generation-strategies-for-fast-scaling-1781965099261-1024x683.webp 1024w, https://strivesync.ai/wp-content/uploads/2026/06/best-b2b-lead-generation-strategies-for-fast-scaling-1781965099261-768x512.webp 768w, https://strivesync.ai/wp-content/uploads/2026/06/best-b2b-lead-generation-strategies-for-fast-scaling-1781965099261.webp 1536w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "best-b2b-lead-generation-strategies-for-fast-scaling-1781965099261.webp",
+  "filesize": 189532,
+  "generated_slug": "best-b2b-lead-generation-strategies-for-fast-scaling-1781965099261",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2026/06/best-b2b-lead-generation-strategies-for-fast-scaling-1781965099261.webp",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2026/06/best-b2b-lead-generation-strategies-for-fast-scaling-1781965099261.webp"
+  },
+  "id": 1932,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 86,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/artificial-intelligence/best-b2b-lead-generation-strategies-for-fast-scaling/attachment/best-b2b-lead-generation-strategies-for-fast-scaling-1781965099261/",
+  "media_details": {
+    "file": "2026/06/best-b2b-lead-generation-strategies-for-fast-scaling-1781965099261.webp",
+    "filesize": 189532,
+    "height": 1024,
+    "image_meta": {
+      "alt": "",
+      "aperture": "0",
+      "camera": "",
+      "caption": "",
+      "copyright": "",
+      "created_timestamp": "0",
+      "credit": "",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [],
+      "orientation": "0",
+      "shutter_speed": "0",
+      "title": ""
+    },
+    "sizes": {
+      "full": {
+        "file": "best-b2b-lead-generation-strategies-for-fast-scaling-1781965099261.webp",
+        "height": 1024,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/best-b2b-lead-generation-strategies-for-fast-scaling-1781965099261.webp",
+        "width": 1536
+      },
+      "large": {
+        "file": "best-b2b-lead-generation-strategies-for-fast-scaling-1781965099261-1024x683.webp",
+        "filesize": 105518,
+        "height": 683,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/best-b2b-lead-generation-strategies-for-fast-scaling-1781965099261-1024x683.webp",
+        "width": 1024
+      },
+      "large_featured": {
+        "file": "best-b2b-lead-generation-strategies-for-fast-scaling-1781965099261-1536x770.webp",
+        "filesize": 157750,
+        "height": 770,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/best-b2b-lead-generation-strategies-for-fast-scaling-1781965099261-1536x770.webp",
+        "width": 1536
+      },
+      "medium": {
+        "file": "best-b2b-lead-generation-strategies-for-fast-scaling-1781965099261-300x200.webp",
+        "filesize": 17128,
+        "height": 200,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/best-b2b-lead-generation-strategies-for-fast-scaling-1781965099261-300x200.webp",
+        "width": 300
+      },
+      "medium_featured": {
+        "file": "best-b2b-lead-generation-strategies-for-fast-scaling-1781965099261-800x800.webp",
+        "filesize": 90392,
+        "height": 800,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/best-b2b-lead-generation-strategies-for-fast-scaling-1781965099261-800x800.webp",
+        "width": 800
+      },
+      "medium_large": {
+        "file": "best-b2b-lead-generation-strategies-for-fast-scaling-1781965099261-768x512.webp",
+        "filesize": 73178,
+        "height": 512,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/best-b2b-lead-generation-strategies-for-fast-scaling-1781965099261-768x512.webp",
+        "width": 768
+      },
+      "nectar_small_square": {
+        "file": "best-b2b-lead-generation-strategies-for-fast-scaling-1781965099261-140x140.webp",
+        "filesize": 7002,
+        "height": 140,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/best-b2b-lead-generation-strategies-for-fast-scaling-1781965099261-140x140.webp",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "best-b2b-lead-generation-strategies-for-fast-scaling-1781965099261-600x403.webp",
+        "filesize": 49688,
+        "height": 403,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/best-b2b-lead-generation-strategies-for-fast-scaling-1781965099261-600x403.webp",
+        "width": 600
+      },
+      "portfolio-widget": {
+        "file": "best-b2b-lead-generation-strategies-for-fast-scaling-1781965099261-100x100.webp",
+        "filesize": 4160,
+        "height": 100,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/best-b2b-lead-generation-strategies-for-fast-scaling-1781965099261-100x100.webp",
+        "width": 100
+      },
+      "regular_small": {
+        "file": "best-b2b-lead-generation-strategies-for-fast-scaling-1781965099261-350x350.webp",
+        "filesize": 28800,
+        "height": 350,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/best-b2b-lead-generation-strategies-for-fast-scaling-1781965099261-350x350.webp",
+        "width": 350
+      },
+      "thumbnail": {
+        "file": "best-b2b-lead-generation-strategies-for-fast-scaling-1781965099261-150x150.webp",
+        "filesize": 7974,
+        "height": 150,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/best-b2b-lead-generation-strategies-for-fast-scaling-1781965099261-150x150.webp",
+        "width": 150
+      }
+    },
+    "width": 1536
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/webp",
+  "missing_image_sizes": [],
+  "modified": "2026-06-20T14:24:20",
+  "modified_gmt": "2026-06-20T14:24:20",
+  "permalink_template": "https://strivesync.ai/artificial-intelligence/best-b2b-lead-generation-strategies-for-fast-scaling/%postname%/",
+  "ping_status": "closed",
+  "post": 1931,
+  "slug": "best-b2b-lead-generation-strategies-for-fast-scaling-1781965099261",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/best-b2b-lead-generation-strategies-for-fast-scaling-1781965099261.webp",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "best-b2b-lead-generation-strategies-for-fast-scaling-1781965099261",
+    "rendered": "best-b2b-lead-generation-strategies-for-fast-scaling-1781965099261"
+  },
+  "type": "attachment"
+}

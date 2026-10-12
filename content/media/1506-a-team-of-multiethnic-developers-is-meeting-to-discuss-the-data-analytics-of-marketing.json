@@ -1,0 +1,246 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1506"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1506",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1506"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1506"
+      }
+    ],
+    "wp:attached-to": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/pages/10",
+        "id": 10,
+        "post_type": "page"
+      }
+    ]
+  },
+  "alt_text": "Two coleagues working on digital marketing",
+  "author": 1,
+  "caption": {
+    "raw": "",
+    "rendered": ""
+  },
+  "class_list": [
+    "post-1506",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "open",
+  "date": "2026-03-16T21:15:34",
+  "date_gmt": "2026-03-16T21:15:34",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2026/03/Digital-Marketing-Team-Strivesync.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"169\" src=\"https://strivesync.ai/wp-content/uploads/2026/03/Digital-Marketing-Team-Strivesync-300x169.jpg\" class=\"attachment-medium size-medium\" alt=\"Two coleagues working on digital marketing\" srcset=\"https://strivesync.ai/wp-content/uploads/2026/03/Digital-Marketing-Team-Strivesync-300x169.jpg 300w, https://strivesync.ai/wp-content/uploads/2026/03/Digital-Marketing-Team-Strivesync-1024x576.jpg 1024w, https://strivesync.ai/wp-content/uploads/2026/03/Digital-Marketing-Team-Strivesync-768x432.jpg 768w, https://strivesync.ai/wp-content/uploads/2026/03/Digital-Marketing-Team-Strivesync-1536x864.jpg 1536w, https://strivesync.ai/wp-content/uploads/2026/03/Digital-Marketing-Team-Strivesync-2048x1152.jpg 2048w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "Digital-Marketing-Team-Strivesync.jpg",
+  "filesize": 1074518,
+  "generated_slug": "a-team-of-multiethnic-developers-is-meeting-to-discuss-the-data-analytics-of-marketing",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2026/03/Digital-Marketing-Team-Strivesync.jpg",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2026/03/Digital-Marketing-Team-Strivesync.jpg"
+  },
+  "id": 1506,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 82,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/strivesync/attachment/a-team-of-multiethnic-developers-is-meeting-to-discuss-the-data-analytics-of-marketing/",
+  "media_details": {
+    "file": "2026/03/Digital-Marketing-Team-Strivesync.jpg",
+    "filesize": 1074518,
+    "height": 1299,
+    "image_meta": {
+      "aperture": "0",
+      "camera": "",
+      "caption": "A team of multiethnic developers is meeting to discuss the data analytics of marketing.",
+      "copyright": "",
+      "created_timestamp": "0",
+      "credit": "Getty Images",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [],
+      "orientation": "0",
+      "shutter_speed": "0",
+      "title": "A team of multiethnic developers is meeting to discuss the data analytics of marketing."
+    },
+    "sizes": {
+      "1536x1536": {
+        "file": "Digital-Marketing-Team-Strivesync-1536x864.jpg",
+        "filesize": 130332,
+        "height": 864,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Digital-Marketing-Team-Strivesync-1536x864.jpg",
+        "width": 1536
+      },
+      "2048x2048": {
+        "file": "Digital-Marketing-Team-Strivesync-2048x1152.jpg",
+        "filesize": 202550,
+        "height": 1152,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Digital-Marketing-Team-Strivesync-2048x1152.jpg",
+        "width": 2048
+      },
+      "full": {
+        "file": "Digital-Marketing-Team-Strivesync.jpg",
+        "height": 1299,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Digital-Marketing-Team-Strivesync.jpg",
+        "width": 2309
+      },
+      "large": {
+        "file": "Digital-Marketing-Team-Strivesync-1024x576.jpg",
+        "filesize": 72639,
+        "height": 576,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Digital-Marketing-Team-Strivesync-1024x576.jpg",
+        "width": 1024
+      },
+      "large_featured": {
+        "file": "Digital-Marketing-Team-Strivesync-1870x770.jpg",
+        "filesize": 132654,
+        "height": 770,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Digital-Marketing-Team-Strivesync-1870x770.jpg",
+        "width": 1870
+      },
+      "medium": {
+        "file": "Digital-Marketing-Team-Strivesync-300x169.jpg",
+        "filesize": 13113,
+        "height": 169,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Digital-Marketing-Team-Strivesync-300x169.jpg",
+        "width": 300
+      },
+      "medium_featured": {
+        "file": "Digital-Marketing-Team-Strivesync-800x800.jpg",
+        "filesize": 71544,
+        "height": 800,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Digital-Marketing-Team-Strivesync-800x800.jpg",
+        "width": 800
+      },
+      "medium_large": {
+        "file": "Digital-Marketing-Team-Strivesync-768x432.jpg",
+        "filesize": 48658,
+        "height": 432,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Digital-Marketing-Team-Strivesync-768x432.jpg",
+        "width": 768
+      },
+      "nectar_small_square": {
+        "file": "Digital-Marketing-Team-Strivesync-140x140.jpg",
+        "filesize": 6414,
+        "height": 140,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Digital-Marketing-Team-Strivesync-140x140.jpg",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "Digital-Marketing-Team-Strivesync-600x403.jpg",
+        "filesize": 38468,
+        "height": 403,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Digital-Marketing-Team-Strivesync-600x403.jpg",
+        "width": 600
+      },
+      "portfolio-widget": {
+        "file": "Digital-Marketing-Team-Strivesync-100x100.jpg",
+        "filesize": 4146,
+        "height": 100,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Digital-Marketing-Team-Strivesync-100x100.jpg",
+        "width": 100
+      },
+      "regular_small": {
+        "file": "Digital-Marketing-Team-Strivesync-350x350.jpg",
+        "filesize": 22443,
+        "height": 350,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Digital-Marketing-Team-Strivesync-350x350.jpg",
+        "width": 350
+      },
+      "thumbnail": {
+        "file": "Digital-Marketing-Team-Strivesync-150x150.jpg",
+        "filesize": 7042,
+        "height": 150,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Digital-Marketing-Team-Strivesync-150x150.jpg",
+        "width": 150
+      }
+    },
+    "width": 2309
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/jpeg",
+  "missing_image_sizes": [],
+  "modified": "2026-03-16T21:15:56",
+  "modified_gmt": "2026-03-16T21:15:56",
+  "permalink_template": "https://strivesync.ai/strivesync/%postname%/",
+  "ping_status": "closed",
+  "post": 10,
+  "slug": "a-team-of-multiethnic-developers-is-meeting-to-discuss-the-data-analytics-of-marketing",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Digital-Marketing-Team-Strivesync.jpg",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "A team of multiethnic developers is meeting to discuss the data analytics of marketing.",
+    "rendered": "A team of multiethnic developers is meeting to discuss the data analytics of marketing."
+  },
+  "type": "attachment"
+}

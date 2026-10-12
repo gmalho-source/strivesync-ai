@@ -1,0 +1,239 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1962"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1962",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1962"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1962"
+      }
+    ],
+    "wp:attached-to": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/posts/1949",
+        "id": 1949,
+        "post_type": "post"
+      }
+    ]
+  },
+  "alt_text": "",
+  "author": 1,
+  "caption": {
+    "raw": "",
+    "rendered": ""
+  },
+  "class_list": [
+    "post-1962",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "",
+  "date": "2026-07-10T15:39:00",
+  "date_gmt": "2026-07-10T15:39:00",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2026/07/algorithmic-immunity-infographic-03-the-two-layers.png'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"169\" src=\"https://strivesync.ai/wp-content/uploads/2026/07/algorithmic-immunity-infographic-03-the-two-layers-300x169.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://strivesync.ai/wp-content/uploads/2026/07/algorithmic-immunity-infographic-03-the-two-layers-300x169.png 300w, https://strivesync.ai/wp-content/uploads/2026/07/algorithmic-immunity-infographic-03-the-two-layers-1024x576.png 1024w, https://strivesync.ai/wp-content/uploads/2026/07/algorithmic-immunity-infographic-03-the-two-layers-768x432.png 768w, https://strivesync.ai/wp-content/uploads/2026/07/algorithmic-immunity-infographic-03-the-two-layers-1536x864.png 1536w, https://strivesync.ai/wp-content/uploads/2026/07/algorithmic-immunity-infographic-03-the-two-layers.png 1920w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "algorithmic-immunity-infographic-03-the-two-layers.png",
+  "filesize": 599341,
+  "generated_slug": "algorithmic-immunity-infographic-03-the-two-layers",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2026/07/algorithmic-immunity-infographic-03-the-two-layers.png",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2026/07/algorithmic-immunity-infographic-03-the-two-layers.png"
+  },
+  "id": 1962,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 82,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/brand-strategy/algorithmic-immunity-why-ai-recommends-brands-that-earned-it/attachment/algorithmic-immunity-infographic-03-the-two-layers/",
+  "media_details": {
+    "file": "2026/07/algorithmic-immunity-infographic-03-the-two-layers.png",
+    "filesize": 599341,
+    "height": 1080,
+    "image_meta": {
+      "alt": "",
+      "aperture": "0",
+      "camera": "",
+      "caption": "",
+      "copyright": "",
+      "created_timestamp": "0",
+      "credit": "",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [],
+      "orientation": "0",
+      "shutter_speed": "0",
+      "title": ""
+    },
+    "sizes": {
+      "1536x1536": {
+        "file": "algorithmic-immunity-infographic-03-the-two-layers-1536x864.png",
+        "filesize": 605688,
+        "height": 864,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/algorithmic-immunity-infographic-03-the-two-layers-1536x864.png",
+        "width": 1536
+      },
+      "full": {
+        "file": "algorithmic-immunity-infographic-03-the-two-layers.png",
+        "height": 1080,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/algorithmic-immunity-infographic-03-the-two-layers.png",
+        "width": 1920
+      },
+      "large": {
+        "file": "algorithmic-immunity-infographic-03-the-two-layers-1024x576.png",
+        "filesize": 218319,
+        "height": 576,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/algorithmic-immunity-infographic-03-the-two-layers-1024x576.png",
+        "width": 1024
+      },
+      "large_featured": {
+        "file": "algorithmic-immunity-infographic-03-the-two-layers-1870x770.png",
+        "filesize": 671592,
+        "height": 770,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/algorithmic-immunity-infographic-03-the-two-layers-1870x770.png",
+        "width": 1870
+      },
+      "medium": {
+        "file": "algorithmic-immunity-infographic-03-the-two-layers-300x169.png",
+        "filesize": 23860,
+        "height": 169,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/algorithmic-immunity-infographic-03-the-two-layers-300x169.png",
+        "width": 300
+      },
+      "medium_featured": {
+        "file": "algorithmic-immunity-infographic-03-the-two-layers-800x800.png",
+        "filesize": 273936,
+        "height": 800,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/algorithmic-immunity-infographic-03-the-two-layers-800x800.png",
+        "width": 800
+      },
+      "medium_large": {
+        "file": "algorithmic-immunity-infographic-03-the-two-layers-768x432.png",
+        "filesize": 148403,
+        "height": 432,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/algorithmic-immunity-infographic-03-the-two-layers-768x432.png",
+        "width": 768
+      },
+      "nectar_small_square": {
+        "file": "algorithmic-immunity-infographic-03-the-two-layers-140x140.png",
+        "filesize": 10357,
+        "height": 140,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/algorithmic-immunity-infographic-03-the-two-layers-140x140.png",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "algorithmic-immunity-infographic-03-the-two-layers-600x403.png",
+        "filesize": 105870,
+        "height": 403,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/algorithmic-immunity-infographic-03-the-two-layers-600x403.png",
+        "width": 600
+      },
+      "portfolio-widget": {
+        "file": "algorithmic-immunity-infographic-03-the-two-layers-100x100.png",
+        "filesize": 6572,
+        "height": 100,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/algorithmic-immunity-infographic-03-the-two-layers-100x100.png",
+        "width": 100
+      },
+      "regular_small": {
+        "file": "algorithmic-immunity-infographic-03-the-two-layers-350x350.png",
+        "filesize": 57663,
+        "height": 350,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/algorithmic-immunity-infographic-03-the-two-layers-350x350.png",
+        "width": 350
+      },
+      "thumbnail": {
+        "file": "algorithmic-immunity-infographic-03-the-two-layers-150x150.png",
+        "filesize": 11867,
+        "height": 150,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/algorithmic-immunity-infographic-03-the-two-layers-150x150.png",
+        "width": 150
+      }
+    },
+    "width": 1920
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/png",
+  "missing_image_sizes": [],
+  "modified": "2026-07-10T15:39:00",
+  "modified_gmt": "2026-07-10T15:39:00",
+  "permalink_template": "https://strivesync.ai/brand-strategy/algorithmic-immunity-why-ai-recommends-brands-that-earned-it/%postname%/",
+  "ping_status": "closed",
+  "post": 1949,
+  "slug": "algorithmic-immunity-infographic-03-the-two-layers",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/algorithmic-immunity-infographic-03-the-two-layers.png",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "algorithmic-immunity-infographic-03-the-two-layers",
+    "rendered": "algorithmic-immunity-infographic-03-the-two-layers"
+  },
+  "type": "attachment"
+}

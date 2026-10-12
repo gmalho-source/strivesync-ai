@@ -1,0 +1,310 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=569"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/569",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/569"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/569"
+      }
+    ],
+    "wp:attached-to": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/pages/10",
+        "id": 10,
+        "post_type": "page"
+      }
+    ]
+  },
+  "alt_text": "",
+  "author": 1,
+  "caption": {
+    "raw": "",
+    "rendered": ""
+  },
+  "class_list": [
+    "post-569",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "open",
+  "date": "2025-08-19T00:23:56",
+  "date_gmt": "2025-08-19T00:23:56",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2025/08/zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1.webp'><img loading=\"lazy\" decoding=\"async\" width=\"200\" height=\"300\" src=\"https://strivesync.ai/wp-content/uploads/2025/08/zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-200x300.webp\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://strivesync.ai/wp-content/uploads/2025/08/zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-200x300.webp 200w, https://strivesync.ai/wp-content/uploads/2025/08/zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-683x1024.webp 683w, https://strivesync.ai/wp-content/uploads/2025/08/zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-768x1152.webp 768w, https://strivesync.ai/wp-content/uploads/2025/08/zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-1024x1536.webp 1024w, https://strivesync.ai/wp-content/uploads/2025/08/zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-1366x2048.webp 1366w, https://strivesync.ai/wp-content/uploads/2025/08/zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1.webp 1707w\" sizes=\"auto, (max-width: 200px) 100vw, 200px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1.webp",
+  "filesize": 304580,
+  "generated_slug": "zeelool-glasses-kjy7mmifcnu-unsplash",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2025/08/zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1.webp",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2025/08/zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1.webp"
+  },
+  "id": 569,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 86,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/strivesync/attachment/zeelool-glasses-kjy7mmifcnu-unsplash/",
+  "media_details": {
+    "file": "2025/08/zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1.webp",
+    "filesize": 304580,
+    "height": 2560,
+    "image_meta": {
+      "aperture": "0",
+      "camera": "",
+      "caption": "",
+      "copyright": "",
+      "created_timestamp": "0",
+      "credit": "",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [],
+      "orientation": "0",
+      "shutter_speed": "0",
+      "title": ""
+    },
+    "sizes": {
+      "1536x1536": {
+        "file": "zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-1024x1536.webp",
+        "filesize": 100560,
+        "height": 1536,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/08/zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-1024x1536.webp",
+        "width": 1024
+      },
+      "2048x2048": {
+        "file": "zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-1366x2048.webp",
+        "filesize": 164294,
+        "height": 2048,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/08/zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-1366x2048.webp",
+        "width": 1366
+      },
+      "full": {
+        "file": "zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1.webp",
+        "height": 2560,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/08/zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1.webp",
+        "width": 1707
+      },
+      "large": {
+        "file": "zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-683x1024.webp",
+        "filesize": 49286,
+        "height": 1024,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/08/zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-683x1024.webp",
+        "width": 683
+      },
+      "large_featured": {
+        "file": "zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-1707x770.webp",
+        "filesize": 94760,
+        "height": 770,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/08/zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-1707x770.webp",
+        "width": 1707
+      },
+      "medium": {
+        "file": "zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-200x300.webp",
+        "filesize": 6004,
+        "height": 300,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/08/zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-200x300.webp",
+        "width": 200
+      },
+      "medium_featured": {
+        "file": "zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-800x800.webp",
+        "filesize": 51542,
+        "height": 800,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/08/zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-800x800.webp",
+        "width": 800
+      },
+      "medium_large": {
+        "file": "zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-768x1152.webp",
+        "filesize": 58326,
+        "height": 1152,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/08/zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-768x1152.webp",
+        "width": 768
+      },
+      "nectar_small_square": {
+        "file": "zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-140x140.webp",
+        "filesize": 3112,
+        "height": 140,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/08/zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-140x140.webp",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-600x403.webp",
+        "filesize": 20088,
+        "height": 403,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/08/zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-600x403.webp",
+        "width": 600
+      },
+      "portfolio-thumb_large": {
+        "file": "zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-900x604.webp",
+        "filesize": 42736,
+        "height": 604,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/08/zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-900x604.webp",
+        "width": 900
+      },
+      "portfolio-thumb_small": {
+        "file": "zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-400x269.webp",
+        "filesize": 9736,
+        "height": 269,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/08/zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-400x269.webp",
+        "width": 400
+      },
+      "portfolio-widget": {
+        "file": "zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-100x100.webp",
+        "filesize": 1972,
+        "height": 100,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/08/zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-100x100.webp",
+        "width": 100
+      },
+      "regular": {
+        "file": "zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-500x500.webp",
+        "filesize": 20906,
+        "height": 500,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/08/zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-500x500.webp",
+        "width": 500
+      },
+      "regular_small": {
+        "file": "zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-350x350.webp",
+        "filesize": 11224,
+        "height": 350,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/08/zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-350x350.webp",
+        "width": 350
+      },
+      "tall": {
+        "file": "zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-500x1000.webp",
+        "filesize": 43524,
+        "height": 1000,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/08/zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-500x1000.webp",
+        "width": 500
+      },
+      "thumbnail": {
+        "file": "zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-150x150.webp",
+        "filesize": 3364,
+        "height": 150,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/08/zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-150x150.webp",
+        "width": 150
+      },
+      "wide": {
+        "file": "zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-1000x500.webp",
+        "filesize": 35510,
+        "height": 500,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/08/zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-1000x500.webp",
+        "width": 1000
+      },
+      "wide_photography": {
+        "file": "zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-900x600.webp",
+        "filesize": 40264,
+        "height": 600,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/08/zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-900x600.webp",
+        "width": 900
+      },
+      "wide_small": {
+        "file": "zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-670x335.webp",
+        "filesize": 17706,
+        "height": 335,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/08/zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-670x335.webp",
+        "width": 670
+      },
+      "wide_tall": {
+        "file": "zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-1000x1000.webp",
+        "filesize": 74840,
+        "height": 1000,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/08/zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1-1000x1000.webp",
+        "width": 1000
+      }
+    },
+    "width": 1707
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/webp",
+  "missing_image_sizes": [],
+  "modified": "2025-08-19T00:23:56",
+  "modified_gmt": "2025-08-19T00:23:56",
+  "permalink_template": "https://strivesync.ai/strivesync/%postname%/",
+  "ping_status": "closed",
+  "post": 10,
+  "slug": "zeelool-glasses-kjy7mmifcnu-unsplash",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2025/08/zeelool-glasses-kJy7MMIfcNU-unsplash-scaled-1.webp",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "zeelool-glasses-kJy7MMIfcNU-unsplash",
+    "rendered": "zeelool-glasses-kJy7MMIfcNU-unsplash"
+  },
+  "type": "attachment"
+}

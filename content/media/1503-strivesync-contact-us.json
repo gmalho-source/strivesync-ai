@@ -1,0 +1,230 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1503"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1503",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1503"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1503"
+      }
+    ],
+    "wp:attached-to": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/pages/10",
+        "id": 10,
+        "post_type": "page"
+      }
+    ]
+  },
+  "alt_text": "Lady looking with a smile",
+  "author": 1,
+  "caption": {
+    "raw": "",
+    "rendered": ""
+  },
+  "class_list": [
+    "post-1503",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "open",
+  "date": "2026-03-16T20:56:51",
+  "date_gmt": "2026-03-16T20:56:51",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2026/03/strivesync-contact-us.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"300\" src=\"https://strivesync.ai/wp-content/uploads/2026/03/strivesync-contact-us-300x300.jpg\" class=\"attachment-medium size-medium\" alt=\"Lady looking with a smile\" srcset=\"https://strivesync.ai/wp-content/uploads/2026/03/strivesync-contact-us-300x300.jpg 300w, https://strivesync.ai/wp-content/uploads/2026/03/strivesync-contact-us-1024x1024.jpg 1024w, https://strivesync.ai/wp-content/uploads/2026/03/strivesync-contact-us-150x150.jpg 150w, https://strivesync.ai/wp-content/uploads/2026/03/strivesync-contact-us-768x768.jpg 768w, https://strivesync.ai/wp-content/uploads/2026/03/strivesync-contact-us-140x140.jpg 140w, https://strivesync.ai/wp-content/uploads/2026/03/strivesync-contact-us-100x100.jpg 100w, https://strivesync.ai/wp-content/uploads/2026/03/strivesync-contact-us-350x350.jpg 350w, https://strivesync.ai/wp-content/uploads/2026/03/strivesync-contact-us-800x800.jpg 800w, https://strivesync.ai/wp-content/uploads/2026/03/strivesync-contact-us.jpg 1080w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "strivesync-contact-us.jpg",
+  "filesize": 140925,
+  "generated_slug": "strivesync-contact-us",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-contact-us.jpg",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-contact-us.jpg"
+  },
+  "id": 1503,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 82,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/strivesync/attachment/strivesync-contact-us/",
+  "media_details": {
+    "file": "2026/03/strivesync-contact-us.jpg",
+    "filesize": 140925,
+    "height": 1080,
+    "image_meta": {
+      "aperture": "0",
+      "camera": "",
+      "caption": "",
+      "copyright": "",
+      "created_timestamp": "0",
+      "credit": "",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [],
+      "orientation": "1",
+      "shutter_speed": "0",
+      "title": ""
+    },
+    "sizes": {
+      "full": {
+        "file": "strivesync-contact-us.jpg",
+        "height": 1080,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-contact-us.jpg",
+        "width": 1080
+      },
+      "large": {
+        "file": "strivesync-contact-us-1024x1024.jpg",
+        "filesize": 62667,
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-contact-us-1024x1024.jpg",
+        "width": 1024
+      },
+      "large_featured": {
+        "file": "strivesync-contact-us-1080x770.jpg",
+        "filesize": 55727,
+        "height": 770,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-contact-us-1080x770.jpg",
+        "width": 1080
+      },
+      "medium": {
+        "file": "strivesync-contact-us-300x300.jpg",
+        "filesize": 9965,
+        "height": 300,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-contact-us-300x300.jpg",
+        "width": 300
+      },
+      "medium_featured": {
+        "file": "strivesync-contact-us-800x800.jpg",
+        "filesize": 42370,
+        "height": 800,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-contact-us-800x800.jpg",
+        "width": 800
+      },
+      "medium_large": {
+        "file": "strivesync-contact-us-768x768.jpg",
+        "filesize": 39766,
+        "height": 768,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-contact-us-768x768.jpg",
+        "width": 768
+      },
+      "nectar_small_square": {
+        "file": "strivesync-contact-us-140x140.jpg",
+        "filesize": 3902,
+        "height": 140,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-contact-us-140x140.jpg",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "strivesync-contact-us-600x403.jpg",
+        "filesize": 20178,
+        "height": 403,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-contact-us-600x403.jpg",
+        "width": 600
+      },
+      "portfolio-widget": {
+        "file": "strivesync-contact-us-100x100.jpg",
+        "filesize": 2676,
+        "height": 100,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-contact-us-100x100.jpg",
+        "width": 100
+      },
+      "regular_small": {
+        "file": "strivesync-contact-us-350x350.jpg",
+        "filesize": 12311,
+        "height": 350,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-contact-us-350x350.jpg",
+        "width": 350
+      },
+      "thumbnail": {
+        "file": "strivesync-contact-us-150x150.jpg",
+        "filesize": 4163,
+        "height": 150,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-contact-us-150x150.jpg",
+        "width": 150
+      }
+    },
+    "width": 1080
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/jpeg",
+  "missing_image_sizes": [],
+  "modified": "2026-03-16T20:57:05",
+  "modified_gmt": "2026-03-16T20:57:05",
+  "permalink_template": "https://strivesync.ai/strivesync/%postname%/",
+  "ping_status": "closed",
+  "post": 10,
+  "slug": "strivesync-contact-us",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/strivesync-contact-us.jpg",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "strivesync-contact-us",
+    "rendered": "strivesync-contact-us"
+  },
+  "type": "attachment"
+}

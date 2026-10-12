@@ -1,0 +1,230 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1783"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1783",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1783"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1783"
+      }
+    ]
+  },
+  "alt_text": "Cover article Strivesync AI Powered Marketing",
+  "author": 1,
+  "caption": {
+    "raw": "",
+    "rendered": ""
+  },
+  "class_list": [
+    "post-1783",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "closed",
+  "date": "2026-04-14T18:25:15",
+  "date_gmt": "2026-04-14T18:25:15",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2026/04/Strivesync-AI-Powered-Marketing-article-cover-cover.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"169\" src=\"https://strivesync.ai/wp-content/uploads/2026/04/Strivesync-AI-Powered-Marketing-article-cover-cover-300x169.jpg\" class=\"attachment-medium size-medium\" alt=\"Cover article Strivesync AI Powered Marketing\" srcset=\"https://strivesync.ai/wp-content/uploads/2026/04/Strivesync-AI-Powered-Marketing-article-cover-cover-300x169.jpg 300w, https://strivesync.ai/wp-content/uploads/2026/04/Strivesync-AI-Powered-Marketing-article-cover-cover-1024x576.jpg 1024w, https://strivesync.ai/wp-content/uploads/2026/04/Strivesync-AI-Powered-Marketing-article-cover-cover-768x432.jpg 768w, https://strivesync.ai/wp-content/uploads/2026/04/Strivesync-AI-Powered-Marketing-article-cover-cover-1536x864.jpg 1536w, https://strivesync.ai/wp-content/uploads/2026/04/Strivesync-AI-Powered-Marketing-article-cover-cover.jpg 1920w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "Strivesync-AI-Powered-Marketing-article-cover-cover.jpg",
+  "filesize": 624647,
+  "generated_slug": "strivesync-ai-powered-marketing-article-cover-cover",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2026/04/Strivesync-AI-Powered-Marketing-article-cover-cover.jpg",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2026/04/Strivesync-AI-Powered-Marketing-article-cover-cover.jpg"
+  },
+  "id": 1783,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 82,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/strivesync-ai-powered-marketing-article-cover-cover/",
+  "media_details": {
+    "file": "2026/04/Strivesync-AI-Powered-Marketing-article-cover-cover.jpg",
+    "filesize": 624647,
+    "height": 1080,
+    "image_meta": {
+      "aperture": "0",
+      "camera": "",
+      "caption": "",
+      "copyright": "",
+      "created_timestamp": "0",
+      "credit": "",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [],
+      "orientation": "1",
+      "shutter_speed": "0",
+      "title": ""
+    },
+    "sizes": {
+      "1536x1536": {
+        "file": "Strivesync-AI-Powered-Marketing-article-cover-cover-1536x864.jpg",
+        "filesize": 216747,
+        "height": 864,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/Strivesync-AI-Powered-Marketing-article-cover-cover-1536x864.jpg",
+        "width": 1536
+      },
+      "full": {
+        "file": "Strivesync-AI-Powered-Marketing-article-cover-cover.jpg",
+        "height": 1080,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/Strivesync-AI-Powered-Marketing-article-cover-cover.jpg",
+        "width": 1920
+      },
+      "large": {
+        "file": "Strivesync-AI-Powered-Marketing-article-cover-cover-1024x576.jpg",
+        "filesize": 117022,
+        "height": 576,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/Strivesync-AI-Powered-Marketing-article-cover-cover-1024x576.jpg",
+        "width": 1024
+      },
+      "large_featured": {
+        "file": "Strivesync-AI-Powered-Marketing-article-cover-cover-1870x770.jpg",
+        "filesize": 250345,
+        "height": 770,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/Strivesync-AI-Powered-Marketing-article-cover-cover-1870x770.jpg",
+        "width": 1870
+      },
+      "medium": {
+        "file": "Strivesync-AI-Powered-Marketing-article-cover-cover-300x169.jpg",
+        "filesize": 16022,
+        "height": 169,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/Strivesync-AI-Powered-Marketing-article-cover-cover-300x169.jpg",
+        "width": 300
+      },
+      "medium_featured": {
+        "file": "Strivesync-AI-Powered-Marketing-article-cover-cover-800x800.jpg",
+        "filesize": 125056,
+        "height": 800,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/Strivesync-AI-Powered-Marketing-article-cover-cover-800x800.jpg",
+        "width": 800
+      },
+      "medium_large": {
+        "file": "Strivesync-AI-Powered-Marketing-article-cover-cover-768x432.jpg",
+        "filesize": 75360,
+        "height": 432,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/Strivesync-AI-Powered-Marketing-article-cover-cover-768x432.jpg",
+        "width": 768
+      },
+      "nectar_small_square": {
+        "file": "Strivesync-AI-Powered-Marketing-article-cover-cover-140x140.jpg",
+        "filesize": 7097,
+        "height": 140,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/Strivesync-AI-Powered-Marketing-article-cover-cover-140x140.jpg",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "Strivesync-AI-Powered-Marketing-article-cover-cover-600x403.jpg",
+        "filesize": 59454,
+        "height": 403,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/Strivesync-AI-Powered-Marketing-article-cover-cover-600x403.jpg",
+        "width": 600
+      },
+      "portfolio-widget": {
+        "file": "Strivesync-AI-Powered-Marketing-article-cover-cover-100x100.jpg",
+        "filesize": 4259,
+        "height": 100,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/Strivesync-AI-Powered-Marketing-article-cover-cover-100x100.jpg",
+        "width": 100
+      },
+      "regular_small": {
+        "file": "Strivesync-AI-Powered-Marketing-article-cover-cover-350x350.jpg",
+        "filesize": 32428,
+        "height": 350,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/Strivesync-AI-Powered-Marketing-article-cover-cover-350x350.jpg",
+        "width": 350
+      },
+      "thumbnail": {
+        "file": "Strivesync-AI-Powered-Marketing-article-cover-cover-150x150.jpg",
+        "filesize": 7821,
+        "height": 150,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/Strivesync-AI-Powered-Marketing-article-cover-cover-150x150.jpg",
+        "width": 150
+      }
+    },
+    "width": 1920
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/jpeg",
+  "missing_image_sizes": [],
+  "modified": "2026-04-14T18:25:33",
+  "modified_gmt": "2026-04-14T18:25:33",
+  "permalink_template": "https://strivesync.ai/?attachment_id=1783",
+  "ping_status": "closed",
+  "post": null,
+  "slug": "strivesync-ai-powered-marketing-article-cover-cover",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/Strivesync-AI-Powered-Marketing-article-cover-cover.jpg",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "Strivesync AI Powered Marketing - article cover - cover",
+    "rendered": "Strivesync AI Powered Marketing &#8211; article cover &#8211; cover"
+  },
+  "type": "attachment"
+}

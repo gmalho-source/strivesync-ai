@@ -1,0 +1,247 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1939"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1939",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1939"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1939"
+      }
+    ],
+    "wp:attached-to": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/posts/1931",
+        "id": 1931,
+        "post_type": "post"
+      }
+    ]
+  },
+  "alt_text": "",
+  "author": 1,
+  "caption": {
+    "raw": "",
+    "rendered": ""
+  },
+  "class_list": [
+    "post-1939",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "",
+  "date": "2026-06-20T16:10:00",
+  "date_gmt": "2026-06-20T16:10:00",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2026/06/01_two_modes.png'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"179\" src=\"https://strivesync.ai/wp-content/uploads/2026/06/01_two_modes-300x179.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://strivesync.ai/wp-content/uploads/2026/06/01_two_modes-300x179.png 300w, https://strivesync.ai/wp-content/uploads/2026/06/01_two_modes-1024x611.png 1024w, https://strivesync.ai/wp-content/uploads/2026/06/01_two_modes-768x458.png 768w, https://strivesync.ai/wp-content/uploads/2026/06/01_two_modes-1536x917.png 1536w, https://strivesync.ai/wp-content/uploads/2026/06/01_two_modes-2048x1222.png 2048w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "01_two_modes.png",
+  "filesize": 220195,
+  "generated_slug": "01_two_modes",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2026/06/01_two_modes.png",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2026/06/01_two_modes.png"
+  },
+  "id": 1939,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 82,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/artificial-intelligence/best-b2b-lead-generation-strategies-for-fast-scaling/attachment/01_two_modes/",
+  "media_details": {
+    "file": "2026/06/01_two_modes.png",
+    "filesize": 220195,
+    "height": 1385,
+    "image_meta": {
+      "alt": "",
+      "aperture": "0",
+      "camera": "",
+      "caption": "",
+      "copyright": "",
+      "created_timestamp": "0",
+      "credit": "",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [],
+      "orientation": "0",
+      "shutter_speed": "0",
+      "title": ""
+    },
+    "sizes": {
+      "1536x1536": {
+        "file": "01_two_modes-1536x917.png",
+        "filesize": 189561,
+        "height": 917,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/01_two_modes-1536x917.png",
+        "width": 1536
+      },
+      "2048x2048": {
+        "file": "01_two_modes-2048x1222.png",
+        "filesize": 279077,
+        "height": 1222,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/01_two_modes-2048x1222.png",
+        "width": 2048
+      },
+      "full": {
+        "file": "01_two_modes.png",
+        "height": 1385,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/01_two_modes.png",
+        "width": 2321
+      },
+      "large": {
+        "file": "01_two_modes-1024x611.png",
+        "filesize": 110466,
+        "height": 611,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/01_two_modes-1024x611.png",
+        "width": 1024
+      },
+      "large_featured": {
+        "file": "01_two_modes-1870x770.png",
+        "filesize": 171923,
+        "height": 770,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/01_two_modes-1870x770.png",
+        "width": 1870
+      },
+      "medium": {
+        "file": "01_two_modes-300x179.png",
+        "filesize": 18582,
+        "height": 179,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/01_two_modes-300x179.png",
+        "width": 300
+      },
+      "medium_featured": {
+        "file": "01_two_modes-800x800.png",
+        "filesize": 125637,
+        "height": 800,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/01_two_modes-800x800.png",
+        "width": 800
+      },
+      "medium_large": {
+        "file": "01_two_modes-768x458.png",
+        "filesize": 73816,
+        "height": 458,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/01_two_modes-768x458.png",
+        "width": 768
+      },
+      "nectar_small_square": {
+        "file": "01_two_modes-140x140.png",
+        "filesize": 9811,
+        "height": 140,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/01_two_modes-140x140.png",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "01_two_modes-600x403.png",
+        "filesize": 59616,
+        "height": 403,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/01_two_modes-600x403.png",
+        "width": 600
+      },
+      "portfolio-widget": {
+        "file": "01_two_modes-100x100.png",
+        "filesize": 5724,
+        "height": 100,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/01_two_modes-100x100.png",
+        "width": 100
+      },
+      "regular_small": {
+        "file": "01_two_modes-350x350.png",
+        "filesize": 39258,
+        "height": 350,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/01_two_modes-350x350.png",
+        "width": 350
+      },
+      "thumbnail": {
+        "file": "01_two_modes-150x150.png",
+        "filesize": 10762,
+        "height": 150,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/01_two_modes-150x150.png",
+        "width": 150
+      }
+    },
+    "width": 2321
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/png",
+  "missing_image_sizes": [],
+  "modified": "2026-06-20T16:10:00",
+  "modified_gmt": "2026-06-20T16:10:00",
+  "permalink_template": "https://strivesync.ai/artificial-intelligence/best-b2b-lead-generation-strategies-for-fast-scaling/%postname%/",
+  "ping_status": "closed",
+  "post": 1931,
+  "slug": "01_two_modes",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/01_two_modes.png",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "01_two_modes",
+    "rendered": "01_two_modes"
+  },
+  "type": "attachment"
+}

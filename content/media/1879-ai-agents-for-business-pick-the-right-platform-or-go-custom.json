@@ -1,0 +1,222 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1879"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1879",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1879"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1879"
+      }
+    ]
+  },
+  "alt_text": "",
+  "author": 1,
+  "caption": {
+    "raw": "",
+    "rendered": ""
+  },
+  "class_list": [
+    "post-1879",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "",
+  "date": "2026-05-10T10:59:17",
+  "date_gmt": "2026-05-10T10:59:17",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2026/05/ai-agents-for-business-pick-the-right-platform-or-go-custom.png'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"200\" src=\"https://strivesync.ai/wp-content/uploads/2026/05/ai-agents-for-business-pick-the-right-platform-or-go-custom-300x200.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://strivesync.ai/wp-content/uploads/2026/05/ai-agents-for-business-pick-the-right-platform-or-go-custom-300x200.png 300w, https://strivesync.ai/wp-content/uploads/2026/05/ai-agents-for-business-pick-the-right-platform-or-go-custom-1024x683.png 1024w, https://strivesync.ai/wp-content/uploads/2026/05/ai-agents-for-business-pick-the-right-platform-or-go-custom-768x512.png 768w, https://strivesync.ai/wp-content/uploads/2026/05/ai-agents-for-business-pick-the-right-platform-or-go-custom.png 1536w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "ai-agents-for-business-pick-the-right-platform-or-go-custom.png",
+  "filesize": 2258058,
+  "generated_slug": "ai-agents-for-business-pick-the-right-platform-or-go-custom",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2026/05/ai-agents-for-business-pick-the-right-platform-or-go-custom.png",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2026/05/ai-agents-for-business-pick-the-right-platform-or-go-custom.png"
+  },
+  "id": 1879,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 82,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/ai-agents-for-business-pick-the-right-platform-or-go-custom/",
+  "media_details": {
+    "file": "2026/05/ai-agents-for-business-pick-the-right-platform-or-go-custom.png",
+    "filesize": 2258058,
+    "height": 1024,
+    "image_meta": {
+      "aperture": "0",
+      "camera": "",
+      "caption": "",
+      "copyright": "",
+      "created_timestamp": "0",
+      "credit": "",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [],
+      "orientation": "0",
+      "shutter_speed": "0",
+      "title": ""
+    },
+    "sizes": {
+      "full": {
+        "file": "ai-agents-for-business-pick-the-right-platform-or-go-custom.png",
+        "height": 1024,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/ai-agents-for-business-pick-the-right-platform-or-go-custom.png",
+        "width": 1536
+      },
+      "large": {
+        "file": "ai-agents-for-business-pick-the-right-platform-or-go-custom-1024x683.png",
+        "filesize": 1061495,
+        "height": 683,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/ai-agents-for-business-pick-the-right-platform-or-go-custom-1024x683.png",
+        "width": 1024
+      },
+      "large_featured": {
+        "file": "ai-agents-for-business-pick-the-right-platform-or-go-custom-1536x770.png",
+        "filesize": 1768771,
+        "height": 770,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/ai-agents-for-business-pick-the-right-platform-or-go-custom-1536x770.png",
+        "width": 1536
+      },
+      "medium": {
+        "file": "ai-agents-for-business-pick-the-right-platform-or-go-custom-300x200.png",
+        "filesize": 110275,
+        "height": 200,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/ai-agents-for-business-pick-the-right-platform-or-go-custom-300x200.png",
+        "width": 300
+      },
+      "medium_featured": {
+        "file": "ai-agents-for-business-pick-the-right-platform-or-go-custom-800x800.png",
+        "filesize": 961179,
+        "height": 800,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/ai-agents-for-business-pick-the-right-platform-or-go-custom-800x800.png",
+        "width": 800
+      },
+      "medium_large": {
+        "file": "ai-agents-for-business-pick-the-right-platform-or-go-custom-768x512.png",
+        "filesize": 648595,
+        "height": 512,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/ai-agents-for-business-pick-the-right-platform-or-go-custom-768x512.png",
+        "width": 768
+      },
+      "nectar_small_square": {
+        "file": "ai-agents-for-business-pick-the-right-platform-or-go-custom-140x140.png",
+        "filesize": 39208,
+        "height": 140,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/ai-agents-for-business-pick-the-right-platform-or-go-custom-140x140.png",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "ai-agents-for-business-pick-the-right-platform-or-go-custom-600x403.png",
+        "filesize": 396837,
+        "height": 403,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/ai-agents-for-business-pick-the-right-platform-or-go-custom-600x403.png",
+        "width": 600
+      },
+      "portfolio-widget": {
+        "file": "ai-agents-for-business-pick-the-right-platform-or-go-custom-100x100.png",
+        "filesize": 21047,
+        "height": 100,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/ai-agents-for-business-pick-the-right-platform-or-go-custom-100x100.png",
+        "width": 100
+      },
+      "regular_small": {
+        "file": "ai-agents-for-business-pick-the-right-platform-or-go-custom-350x350.png",
+        "filesize": 209331,
+        "height": 350,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/ai-agents-for-business-pick-the-right-platform-or-go-custom-350x350.png",
+        "width": 350
+      },
+      "thumbnail": {
+        "file": "ai-agents-for-business-pick-the-right-platform-or-go-custom-150x150.png",
+        "filesize": 44483,
+        "height": 150,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/ai-agents-for-business-pick-the-right-platform-or-go-custom-150x150.png",
+        "width": 150
+      }
+    },
+    "width": 1536
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/png",
+  "missing_image_sizes": [],
+  "modified": "2026-05-10T10:59:17",
+  "modified_gmt": "2026-05-10T10:59:17",
+  "permalink_template": "https://strivesync.ai/?attachment_id=1879",
+  "ping_status": "closed",
+  "post": null,
+  "slug": "ai-agents-for-business-pick-the-right-platform-or-go-custom",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/ai-agents-for-business-pick-the-right-platform-or-go-custom.png",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "ai-agents-for-business-pick-the-right-platform-or-go-custom",
+    "rendered": "ai-agents-for-business-pick-the-right-platform-or-go-custom"
+  },
+  "type": "attachment"
+}

@@ -1,0 +1,47 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/taxonomies/nav_menu"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/menus"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/menus/56",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:post_type": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/menu-items?menus=56"
+      }
+    ]
+  },
+  "auto_add": false,
+  "description": "",
+  "id": 56,
+  "locations": [],
+  "meta": [],
+  "name": "Main navigation — AI Systems (draft, not assigned)",
+  "slug": "main-navigation-ai-systems-draft-not-assigned"
+}
