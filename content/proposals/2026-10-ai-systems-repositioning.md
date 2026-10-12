@@ -178,5 +178,5 @@ Ficam em rascunho, não apagadas, para poderem ser reativadas.
 1. Três componentes de AI Systems: **aprovado**, com websites como componente e não como serviço autónomo.
 2. Menu **AI Systems ▾ · About · Contact**: **aprovado** (ajustado para refletir o ponto 1).
 3. Formulário de contacto: **aprovado**, não há fluxos dependentes. Opções passam a AI Agents · Automation & Integrations · AI-Ready Website · Not sure yet (Fluent Forms, form id 3).
-4. Título do site: por confirmar; mantém-se até decisão em contrário.
+4. Título do site: **mantém-se** "Strivesync | AI-Native Marketing & Sales Systems".
 5. Agentes em árabe e inglês: **confirmado**, a promessa mantém-se no copy (Home, cartão 1, e AI for Business, Customer Service).
