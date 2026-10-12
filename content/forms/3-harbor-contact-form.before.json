@@ -1,0 +1,494 @@
+{
+  "fields": [
+    {
+      "index": 9,
+      "element": "input_checkbox",
+      "attributes": {
+        "type": "checkbox",
+        "name": "checkbox",
+        "value": []
+      },
+      "settings": {
+        "dynamic_default_value": "",
+        "container_class": "",
+        "label": "I'm interested In",
+        "admin_field_label": "",
+        "label_placement": "hide_label",
+        "display_type": "",
+        "help_message": "",
+        "advanced_options": [
+          {
+            "label": "Artificial Intelligence",
+            "value": "Artificial Intelligence",
+            "calc_value": "",
+            "image": "",
+            "id": 0
+          },
+          {
+            "label": "Digital Marketing",
+            "value": "Digital Marketing",
+            "calc_value": "",
+            "image": "",
+            "id": 1
+          },
+          {
+            "label": "Website / eCommerce",
+            "value": "Website / eCommerce",
+            "calc_value": "",
+            "image": "",
+            "id": 2
+          },
+          {
+            "label": "Branding",
+            "value": "Branding",
+            "calc_value": "",
+            "image": "",
+            "id": 3
+          }
+        ],
+        "calc_value_status": false,
+        "enable_image_input": false,
+        "values_visible": false,
+        "randomize_options": "no",
+        "validation_rules": {
+          "required": {
+            "value": true,
+            "message": "Please choose one",
+            "global_message": "This field is required",
+            "global": false
+          }
+        },
+        "conditional_logics": {
+          "type": "any",
+          "status": false,
+          "conditions": [
+            {
+              "field": "",
+              "value": "",
+              "operator": ""
+            }
+          ],
+          "condition_groups": [
+            {
+              "rules": [
+                {
+                  "field": "",
+                  "value": "",
+                  "operator": ""
+                }
+              ],
+              "title": "",
+              "isEditingTitle": false,
+              "isPreviewOpen": false,
+              "isGroupOpen": true
+            }
+          ]
+        },
+        "layout_class": "ff_list_2col",
+        "enable_other_option": "no",
+        "other_option_label": "Other",
+        "other_option_placeholder": "Please specify..."
+      },
+      "editor_options": {
+        "title": "Checkbox",
+        "icon_class": "ff-edit-checkbox-1",
+        "template": "inputCheckable"
+      },
+      "uniqElKey": "el_1761612226573"
+    },
+    {
+      "index": 0,
+      "element": "input_name",
+      "attributes": {
+        "name": "names",
+        "data-type": "name-element"
+      },
+      "settings": {
+        "container_class": "",
+        "admin_field_label": "Name",
+        "conditional_logics": [],
+        "label_placement": ""
+      },
+      "fields": {
+        "first_name": {
+          "element": "input_text",
+          "attributes": {
+            "type": "text",
+            "name": "first_name",
+            "value": "",
+            "id": "",
+            "class": "",
+            "placeholder": "First Name"
+          },
+          "settings": {
+            "container_class": "",
+            "label": "First Name",
+            "help_message": "",
+            "visible": true,
+            "validation_rules": {
+              "required": {
+                "value": false,
+                "message": "This field is required",
+                "global": false,
+                "global_message": "This field is required"
+              }
+            },
+            "conditional_logics": []
+          },
+          "editor_options": {
+            "template": "inputText"
+          }
+        },
+        "middle_name": {
+          "element": "input_text",
+          "attributes": {
+            "type": "text",
+            "name": "middle_name",
+            "value": "",
+            "id": "",
+            "class": "",
+            "placeholder": "",
+            "required": false
+          },
+          "settings": {
+            "container_class": "",
+            "label": "Middle Name",
+            "help_message": "",
+            "error_message": "",
+            "visible": false,
+            "validation_rules": {
+              "required": {
+                "value": false,
+                "message": "This field is required",
+                "global": false,
+                "global_message": "This field is required"
+              }
+            },
+            "conditional_logics": []
+          },
+          "editor_options": {
+            "template": "inputText"
+          }
+        },
+        "last_name": {
+          "element": "input_text",
+          "attributes": {
+            "type": "text",
+            "name": "last_name",
+            "value": "",
+            "id": "",
+            "class": "",
+            "placeholder": "Last Name",
+            "required": false
+          },
+          "settings": {
+            "container_class": "",
+            "label": "Last Name",
+            "help_message": "",
+            "error_message": "",
+            "visible": true,
+            "validation_rules": {
+              "required": {
+                "value": false,
+                "message": "This field is required",
+                "global": false,
+                "global_message": "This field is required"
+              }
+            },
+            "conditional_logics": []
+          },
+          "editor_options": {
+            "template": "inputText"
+          }
+        }
+      },
+      "editor_options": {
+        "title": "Name Fields",
+        "element": "name-fields",
+        "icon_class": "ff-edit-name",
+        "template": "nameFields"
+      },
+      "uniqElKey": "el_1570866006692"
+    },
+    {
+      "index": 1,
+      "element": "input_email",
+      "attributes": {
+        "type": "email",
+        "name": "email",
+        "value": "",
+        "id": "",
+        "class": "",
+        "placeholder": "Email Address"
+      },
+      "settings": {
+        "container_class": "",
+        "label": "Email",
+        "label_placement": "",
+        "help_message": "",
+        "admin_field_label": "",
+        "validation_rules": {
+          "required": {
+            "value": true,
+            "message": "This field is required",
+            "global": false,
+            "global_message": "This field is required"
+          },
+          "email": {
+            "value": true,
+            "message": "This field must contain a valid email",
+            "global": false,
+            "global_message": "This field must contain a valid email"
+          }
+        },
+        "conditional_logics": [],
+        "is_unique": "no",
+        "unique_validation_message": "Email address need to be unique.",
+        "prefix_label": "",
+        "suffix_label": ""
+      },
+      "editor_options": {
+        "title": "Email Address",
+        "icon_class": "ff-edit-email",
+        "template": "inputText"
+      },
+      "uniqElKey": "el_1570866012914"
+    },
+    {
+      "index": 18,
+      "element": "phone",
+      "attributes": {
+        "name": "phone",
+        "class": "",
+        "value": "",
+        "type": "tel",
+        "placeholder": "Mobile Number"
+      },
+      "settings": {
+        "container_class": "",
+        "placeholder": "",
+        "auto_select_country": "no",
+        "label": "Phone/Mobile",
+        "label_placement": "",
+        "help_message": "",
+        "admin_field_label": "",
+        "phone_country_list": {
+          "active_list": "all",
+          "visible_list": [],
+          "hidden_list": []
+        },
+        "default_country": "AE",
+        "validation_rules": {
+          "required": {
+            "value": true,
+            "global": true,
+            "message": "This field is required",
+            "global_message": "This field is required"
+          },
+          "valid_phone_number": {
+            "value": true,
+            "global": true,
+            "message": "Phone number is not valid",
+            "global_message": "Phone number is not valid"
+          }
+        },
+        "conditional_logics": {
+          "type": "any",
+          "status": false,
+          "conditions": [
+            {
+              "field": "",
+              "value": "",
+              "operator": ""
+            }
+          ],
+          "condition_groups": [
+            {
+              "rules": [
+                {
+                  "field": "",
+                  "value": "",
+                  "operator": ""
+                }
+              ],
+              "title": "",
+              "isEditingTitle": false,
+              "isPreviewOpen": false,
+              "isGroupOpen": true
+            }
+          ]
+        }
+      },
+      "editor_options": {
+        "title": "Phone/Mobile",
+        "icon_class": "el-icon-phone-outline",
+        "template": "inputText"
+      },
+      "uniqElKey": "el_1773096523614"
+    },
+    {
+      "index": 3,
+      "element": "textarea",
+      "attributes": {
+        "name": "message",
+        "value": "",
+        "id": "",
+        "class": "",
+        "placeholder": "Tell us about your project",
+        "rows": 4,
+        "cols": 2,
+        "maxlength": ""
+      },
+      "settings": {
+        "container_class": "",
+        "label": "Your Message",
+        "admin_field_label": "",
+        "label_placement": "",
+        "help_message": "",
+        "validation_rules": {
+          "required": {
+            "value": true,
+            "message": "This field is required",
+            "global": false,
+            "global_message": "This field is required"
+          }
+        },
+        "conditional_logics": {
+          "type": "any",
+          "status": false,
+          "conditions": [
+            {
+              "field": "",
+              "value": "",
+              "operator": ""
+            }
+          ]
+        },
+        "prefix_label": "",
+        "suffix_label": ""
+      },
+      "editor_options": {
+        "title": "Text Area",
+        "icon_class": "ff-edit-textarea",
+        "template": "inputTextarea"
+      },
+      "uniqElKey": "el_1570879001207"
+    },
+    {
+      "index": 10,
+      "element": "gdpr_agreement",
+      "attributes": {
+        "type": "checkbox",
+        "name": "gdpr-agreement",
+        "value": false,
+        "class": "ff_gdpr_field"
+      },
+      "settings": {
+        "label": "GDPR Agreement",
+        "tnc_html": "I consent to have this website store my submitted information so they can respond to my inquiry",
+        "admin_field_label": "GDPR Agreement",
+        "has_checkbox": true,
+        "container_class": "",
+        "validation_rules": {
+          "required": {
+            "value": true,
+            "message": "This field is required",
+            "global_message": "This field is required",
+            "global": true
+          }
+        },
+        "required_field_message": "",
+        "conditional_logics": []
+      },
+      "editor_options": {
+        "title": "GDPR Agreement",
+        "icon_class": "ff-edit-gdpr",
+        "template": "termsCheckbox"
+      },
+      "uniqElKey": "el_1773096621187"
+    },
+    {
+      "index": 12,
+      "element": "custom_submit_button",
+      "attributes": {
+        "class": "",
+        "type": "submit"
+      },
+      "settings": {
+        "button_style": "",
+        "button_size": "md",
+        "align": "left",
+        "container_class": "",
+        "current_state": "hover_styles",
+        "background_color": "rgb(64, 158, 255)",
+        "color": "rgb(255, 255, 255)",
+        "hover_styles": {
+          "backgroundColor": "rgba(193, 255, 114, 1)",
+          "borderColor": "rgba(26, 126, 251, 0)",
+          "color": "rgba(28, 63, 96, 1)",
+          "borderRadius": "",
+          "minWidth": "100%"
+        },
+        "normal_styles": {
+          "backgroundColor": "rgba(28, 63, 96, 1)",
+          "borderColor": "rgba(28, 63, 96, 0)",
+          "color": "rgba(242, 242, 242, 1)",
+          "borderRadius": "",
+          "minWidth": "100%"
+        },
+        "button_ui": {
+          "text": "Send",
+          "type": "default",
+          "img_url": ""
+        },
+        "conditional_logics": []
+      },
+      "editor_options": {
+        "title": "Custom Submit Button",
+        "icon_class": "dashicons dashicons-arrow-right-alt",
+        "template": "customButton"
+      },
+      "uniqElKey": "el_1773096684528"
+    }
+  ],
+  "submitButton": {
+    "uniqElKey": "el_1524065200616",
+    "element": "button",
+    "attributes": {
+      "type": "submit",
+      "class": "nectar-stretch-button"
+    },
+    "settings": {
+      "align": "left",
+      "button_style": "default",
+      "container_class": "",
+      "help_message": "",
+      "background_color": "#1a7efb",
+      "button_size": "md",
+      "color": "#ffffff",
+      "button_ui": {
+        "type": "default",
+        "text": "Send",
+        "img_url": ""
+      },
+      "normal_styles": {
+        "backgroundColor": "#1a7efb",
+        "borderColor": "#1a7efb",
+        "color": "#ffffff",
+        "borderRadius": "",
+        "minWidth": ""
+      },
+      "hover_styles": {
+        "backgroundColor": "#ffffff",
+        "borderColor": "#1a7efb",
+        "color": "#1a7efb",
+        "borderRadius": "",
+        "minWidth": ""
+      },
+      "current_state": "normal_styles"
+    },
+    "editor_options": {
+      "title": "Submit Button"
+    }
+  }
+}
