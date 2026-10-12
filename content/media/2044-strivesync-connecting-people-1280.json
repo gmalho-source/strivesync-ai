@@ -1,0 +1,223 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/2"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=2044"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/2044",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/2044"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/2044"
+      }
+    ]
+  },
+  "alt_text": "",
+  "author": 2,
+  "caption": {
+    "raw": "",
+    "rendered": ""
+  },
+  "class_list": [
+    "post-2044",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "closed",
+  "date": "2026-10-12T22:27:10",
+  "date_gmt": "2026-10-12T22:27:10",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2026/10/Strivesync-connecting-people-1280.webp'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"200\" src=\"https://strivesync.ai/wp-content/uploads/2026/10/Strivesync-connecting-people-1280-300x200.webp\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://strivesync.ai/wp-content/uploads/2026/10/Strivesync-connecting-people-1280-300x200.webp 300w, https://strivesync.ai/wp-content/uploads/2026/10/Strivesync-connecting-people-1280-1024x682.webp 1024w, https://strivesync.ai/wp-content/uploads/2026/10/Strivesync-connecting-people-1280-768x512.webp 768w, https://strivesync.ai/wp-content/uploads/2026/10/Strivesync-connecting-people-1280.webp 1280w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "Strivesync-connecting-people-1280.webp",
+  "filesize": 32648,
+  "generated_slug": "asian-businesswoman-with-smart-phone-before-electronic-display-board-screen-device-store-navigator-self-purchase-webp",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2026/10/Strivesync-connecting-people-1280.webp",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2026/10/Strivesync-connecting-people-1280.webp"
+  },
+  "id": 2044,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 86,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/strivesync-connecting-people-1280/",
+  "media_details": {
+    "file": "2026/10/Strivesync-connecting-people-1280.webp",
+    "filesize": 32648,
+    "height": 853,
+    "image_meta": {
+      "alt": "",
+      "aperture": "0",
+      "camera": "",
+      "caption": "",
+      "copyright": "",
+      "created_timestamp": "0",
+      "credit": "",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [],
+      "orientation": "0",
+      "shutter_speed": "0",
+      "title": ""
+    },
+    "sizes": {
+      "full": {
+        "file": "Strivesync-connecting-people-1280.webp",
+        "height": 853,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/10/Strivesync-connecting-people-1280.webp",
+        "width": 1280
+      },
+      "large": {
+        "file": "Strivesync-connecting-people-1280-1024x682.webp",
+        "filesize": 31210,
+        "height": 682,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/10/Strivesync-connecting-people-1280-1024x682.webp",
+        "width": 1024
+      },
+      "large_featured": {
+        "file": "Strivesync-connecting-people-1280-1280x770.webp",
+        "filesize": 39506,
+        "height": 770,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/10/Strivesync-connecting-people-1280-1280x770.webp",
+        "width": 1280
+      },
+      "medium": {
+        "file": "Strivesync-connecting-people-1280-300x200.webp",
+        "filesize": 7548,
+        "height": 200,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/10/Strivesync-connecting-people-1280-300x200.webp",
+        "width": 300
+      },
+      "medium_featured": {
+        "file": "Strivesync-connecting-people-1280-800x800.webp",
+        "filesize": 27606,
+        "height": 800,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/10/Strivesync-connecting-people-1280-800x800.webp",
+        "width": 800
+      },
+      "medium_large": {
+        "file": "Strivesync-connecting-people-1280-768x512.webp",
+        "filesize": 22348,
+        "height": 512,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/10/Strivesync-connecting-people-1280-768x512.webp",
+        "width": 768
+      },
+      "nectar_small_square": {
+        "file": "Strivesync-connecting-people-1280-140x140.webp",
+        "filesize": 3490,
+        "height": 140,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/10/Strivesync-connecting-people-1280-140x140.webp",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "Strivesync-connecting-people-1280-600x403.webp",
+        "filesize": 17236,
+        "height": 403,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/10/Strivesync-connecting-people-1280-600x403.webp",
+        "width": 600
+      },
+      "portfolio-widget": {
+        "file": "Strivesync-connecting-people-1280-100x100.webp",
+        "filesize": 2432,
+        "height": 100,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/10/Strivesync-connecting-people-1280-100x100.webp",
+        "width": 100
+      },
+      "regular_small": {
+        "file": "Strivesync-connecting-people-1280-350x350.webp",
+        "filesize": 10646,
+        "height": 350,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/10/Strivesync-connecting-people-1280-350x350.webp",
+        "width": 350
+      },
+      "thumbnail": {
+        "file": "Strivesync-connecting-people-1280-150x150.webp",
+        "filesize": 4030,
+        "height": 150,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/10/Strivesync-connecting-people-1280-150x150.webp",
+        "width": 150
+      }
+    },
+    "width": 1280
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/webp",
+  "missing_image_sizes": [],
+  "modified": "2026-10-12T22:27:13",
+  "modified_gmt": "2026-10-12T22:27:13",
+  "permalink_template": "https://strivesync.ai/?attachment_id=2044",
+  "ping_status": "closed",
+  "post": null,
+  "slug": "strivesync-connecting-people-1280",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2026/10/Strivesync-connecting-people-1280.webp",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "Asian businesswoman with smart phone before electronic display board screen. Device store navigator. Self purchase. (WebP)",
+    "rendered": "Asian businesswoman with smart phone before electronic display board screen. Device store navigator. Self purchase. (WebP)"
+  },
+  "type": "attachment"
+}
