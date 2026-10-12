@@ -31,6 +31,12 @@
         }
       }
     ],
+    "wp:menu-location": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/menu-locations/top_nav"
+      }
+    ],
     "wp:post_type": [
       {
         "href": "https://strivesync.ai/wp-json/wp/v2/menu-items?menus=56"
@@ -40,8 +46,10 @@
   "auto_add": false,
   "description": "",
   "id": 56,
-  "locations": [],
+  "locations": [
+    "top_nav"
+  ],
   "meta": [],
-  "name": "Main navigation — AI Systems (draft, not assigned)",
-  "slug": "main-navigation-ai-systems-draft-not-assigned"
+  "name": "Main navigation — AI Systems",
+  "slug": "main-navigation-ai-systems"
 }

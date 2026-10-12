@@ -4,5 +4,29 @@
   "1597": 2022,
   "1706": 2023,
   "1466": 2024,
-  "menu": 56
+  "menu": 56,
+  "go_live": {
+    "date": "2026-10-12",
+    "content_copied_to_originals": [
+      10,
+      1549,
+      1597,
+      1706,
+      1466
+    ],
+    "drafts_trashed": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "menu_top_nav": 56,
+    "previous_menu_unassigned": 2,
+    "pages_to_draft": [
+      1657,
+      1698
+    ],
+    "redirects": "Yoast Premium (content/redirects/yoast.json); strivesync-core module not deployed"
+  }
 }

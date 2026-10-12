@@ -31,12 +31,6 @@
         }
       }
     ],
-    "wp:menu-location": [
-      {
-        "embeddable": true,
-        "href": "https://strivesync.ai/wp-json/wp/v2/menu-locations/top_nav"
-      }
-    ],
     "wp:post_type": [
       {
         "href": "https://strivesync.ai/wp-json/wp/v2/menu-items?menus=2"
@@ -46,9 +40,7 @@
   "auto_add": false,
   "description": "",
   "id": 2,
-  "locations": [
-    "top_nav"
-  ],
+  "locations": [],
   "meta": [],
   "name": "Harbor Navigation",
   "slug": "harbor-navigation"

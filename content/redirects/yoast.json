@@ -1,0 +1,32 @@
+[
+  {
+    "origin": "artificial-intelligence/1931",
+    "target": "artificial-intelligence/best-b2b-lead-generation-strategies-for-fast-scaling",
+    "type": 301,
+    "format": "plain"
+  },
+  {
+    "origin": "services/performance-marketing",
+    "target": "services/artificial-intelligence-for-business",
+    "type": 301,
+    "format": "plain"
+  },
+  {
+    "origin": "services/brand-strategy",
+    "target": "services",
+    "type": 301,
+    "format": "plain"
+  },
+  {
+    "origin": "ar/services/performance-marketing",
+    "target": "ar/services/artificial-intelligence-for-business",
+    "type": 301,
+    "format": "plain"
+  },
+  {
+    "origin": "ar/services/brand-strategy",
+    "target": "ar/services",
+    "type": 301,
+    "format": "plain"
+  }
+]
