@@ -1,12 +1,12 @@
 # Reposicionamento: Strivesync como empresa de sistemas AI
 
-Estado: **proposta, por aprovar**. Nada foi alterado no site.
+Estado: **aprovado a 12/10/2026** (pilares e menu), com o ajuste do ponto 1. Nada foi alterado no site ainda.
 Base: conteúdo publicado em strivesync.ai a 12/10/2026.
 
 ## Decisões de enquadramento
 
-1. **Saem como serviço:** Performance Marketing e Brand Strategy. Website Development mantém-se, mas reposicionado como a "camada de entrada" dos sistemas AI (sites que captam, qualificam e encaminham leads), não como serviço isolado.
-2. **Linha de oferta passa a ter três pilares**, para manter intacta a grelha de 3 cartões da Home e não exigir trabalho de design:
+1. **Saem como serviço:** Performance Marketing e Brand Strategy. **A Strivesync vende uma coisa: AI Systems.** O desenvolvimento de websites assistido por AI deixa de ser serviço autónomo e passa a ser um dos componentes do sistema (a camada de entrada que capta, qualifica e encaminha leads).
+2. **AI Systems tem três componentes**, que mantêm intacta a grelha de 3 cartões da Home e não exigem trabalho de design:
    - **AI Agents**: agentes de vendas, atendimento e qualificação.
    - **Automation & Integrations**: CRM, WhatsApp, fluxos de leads, operações.
    - **AI-Ready Websites**: o site como ponto de entrada do sistema.
@@ -44,13 +44,13 @@ Todo o copy abaixo está em inglês (fonte do Weglot). Para cada bloco: `Atual` 
 - Atual: *We drive qualified leads to your business with data-driven campaigns — then implement AI agents across your marketing, sales, and customer service to turn that pipeline into predictable revenue.*
 - Proposto: **We connect every step between a first click and a signed deal — AI agents, CRM, WhatsApp and your website working as one system that turns demand into predictable revenue.**
 
-**Cartões "Field of expertise"**
+**Cartões "Field of expertise"**. O título da secção passa a **One system. Three building blocks.** e as etiquetas deixam de separar "Technology / Marketing / Development": os três são partes do mesmo sistema.
 
 | # | Etiqueta | Título | Texto | Link |
 |---|---|---|---|---|
-| 1 | Technology | **AI Agents** | **Custom AI agents for sales, customer service and lead qualification. They answer in seconds, in your tone, in Arabic and English, 24/7, and hand over to your team at the right moment.** | `/services/artificial-intelligence-for-business/` |
-| 2 | Systems *(era "Marketing")* | **Automation & Integrations** *(era "Performance Marketing")* | **CRM, WhatsApp and lead-management flows that run themselves. Every lead captured, scored, routed and followed up — no spreadsheets, no leads lost between tools.** | `/services/artificial-intelligence-for-business/#automation` |
-| 3 | Development | **AI-Ready Websites** *(era "Websites & eCommerce")* | **Websites and stores built as the front door of your system: fast, conversion-focused and connected to your AI agents and CRM from day one.** | `/services/website-development/` |
+| 1 | AI Systems · 01 | **AI Agents** | **Custom AI agents for sales, customer service and lead qualification. They answer in seconds, in your tone, in Arabic and English, 24/7, and hand over to your team at the right moment.** | `/services/artificial-intelligence-for-business/` |
+| 2 | AI Systems · 02 *(era "Marketing")* | **Automation & Integrations** *(era "Performance Marketing")* | **CRM, WhatsApp and lead-management flows that run themselves. Every lead captured, scored, routed and followed up — no spreadsheets, no leads lost between tools.** | `/services/artificial-intelligence-for-business/#automation` |
+| 3 | AI Systems · 03 *(era "Development")* | **AI-Ready Websites** *(era "Websites & eCommerce")* | **Websites and stores built as the front door of your system: fast, conversion-focused and connected to your AI agents and CRM from day one.** | `/services/website-development/` |
 
 **Bloco visão (fecho)**
 - Atual: *Imagine waking up to a pipeline full of qualified leads that came in while you slept. Your AI assistant already handled overnight customer enquiries. Your social media is growing consistently, your campaigns are profitable, and your brand is turning heads.*
@@ -66,7 +66,11 @@ Todo o copy abaixo está em inglês (fonte do Weglot). Para cada bloco: `Atual` 
 
 ## 2. Services (`/services/`, id 1549)
 
-Passa de 4 cartões para 3, com os mesmos pilares da Home.
+Passa a ser a página-mãe de **AI Systems** (destino do item de menu). Passa de 4 cartões para os 3 componentes.
+
+- Título atual: *How can we help you today?*
+- Proposto: **AI Systems, built around your business.**
+- Intro nova (bloco de texto por baixo do título): **Every Strivesync project is one system with three building blocks. Most clients start with one and grow into all three.**
 
 | Atual | Proposto |
 |---|---|
@@ -75,7 +79,6 @@ Passa de 4 cartões para 3, com os mesmos pilares da Home.
 | Brand Strategy / *Define who you are. Own how you're seen.* | *(removido)* |
 | Web Development / *Beautiful design. Seamless experience. Built for conversion.* | **AI-Ready Websites** / **The front door of your system. Built to convert.** |
 
-- Título (mantém): *How can we help you today?*
 - Meta description proposta: **AI agents, automation & integrations and AI-ready websites — the three building blocks of every Strivesync system. See what we build for UAE businesses.**
 
 ---
@@ -112,9 +115,12 @@ Passa a ser a página principal da oferta. A estrutura mantém-se; ajusto o hero
 
 ## 4. Website Development (`/services/website-development/`, id 1706)
 
-Mantém-se como serviço, mas com outro ângulo: o site deixa de ser "um site bonito" e passa a ser a entrada do sistema.
+Deixa de ser serviço autónomo: é o componente 03 de AI Systems. O URL mantém-se (SEO); o enquadramento muda.
 
-- Hero atual: *Websites That Work as Hard as You Do*. **Mantém-se.**
+- Hero atual: *Websites That Work as Hard as You Do*
+- Proposto: **AI-Ready Websites: The Front Door of Your System**
+- Parágrafo 1 atual: *Your website is your most important digital asset…*
+- Proposto: **Your website is where your system meets your customer. We build it AI-assisted, fast and conversion-focused — and connected from day one to the agents and automations behind it.**
 - Parágrafo 2 atual: *…we create digital experiences that reflect your brand and deliver measurable results.*
 - Proposto: **…we build websites that capture, qualify and route every visitor into your sales system — connected to your CRM and AI agents from day one.**
 - O bloco **AI Integration** sobe para primeiro lugar na lista de serviços.
@@ -154,7 +160,7 @@ Atenção: mudar as opções afeta relatórios e integrações que dependam dest
 |---|---|
 | Performance Marketing (id 1657) | Passa a rascunho + 301 para `/services/artificial-intelligence-for-business/` |
 | Brand Strategy (id 1698) | Passa a rascunho + 301 para `/services/` |
-| Menu principal | *Artificial Intelligence · Performance Marketing · Dev · Contact Us* passa a **AI Systems · Websites · About · Contact** |
+| Menu principal | *Artificial Intelligence · Performance Marketing · Dev · Contact Us* passa a **AI Systems ▾ · About · Contact**, com submenu: AI Agents · Automation & Integrations · AI-Ready Websites |
 | Home | 3 links para `/services/performance-marketing/` passam para os novos destinos |
 
 Ficam em rascunho, não apagadas, para poderem ser reativadas.
@@ -167,9 +173,9 @@ Ficam em rascunho, não apagadas, para poderem ser reativadas.
 
 ---
 
-## Decisões que preciso de ti
+## Decisões
 
-1. Os três pilares (**AI Agents / Automation & Integrations / AI-Ready Websites**): aprovado ou ajustes?
-2. Menu: **AI Systems · Websites · About · Contact**. Aprovado?
-3. Formulário de contacto: posso mudar as opções? Há algum fluxo dependente?
-4. Título do site mantém "AI-Native Marketing & Sales Systems"?
+1. Três componentes de AI Systems: **aprovado**, com websites como componente e não como serviço autónomo.
+2. Menu **AI Systems ▾ · About · Contact**: **aprovado** (ajustado para refletir o ponto 1).
+3. Formulário de contacto: por confirmar se há fluxos dependentes dos valores atuais.
+4. Título do site: por confirmar; mantém-se até decisão em contrário.
