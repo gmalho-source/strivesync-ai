@@ -1,0 +1,157 @@
+[
+  {
+    "plugin": "ai-provider-for-anthropic/plugin",
+    "status": "active",
+    "version": "1.0.4"
+  },
+  {
+    "plugin": "ai-provider-for-google/plugin",
+    "status": "active",
+    "version": "1.1.1"
+  },
+  {
+    "plugin": "ai-provider-for-openai/plugin",
+    "status": "active",
+    "version": "1.1.0"
+  },
+  {
+    "plugin": "ai/ai",
+    "status": "active",
+    "version": "1.4.0"
+  },
+  {
+    "plugin": "ajax-search-lite/ajax-search-lite",
+    "status": "active",
+    "version": "4.14.5"
+  },
+  {
+    "plugin": "fluent-smtp/fluent-smtp",
+    "status": "active",
+    "version": "2.4.1"
+  },
+  {
+    "plugin": "fluentform/fluentform",
+    "status": "active",
+    "version": "6.2.15"
+  },
+  {
+    "plugin": "fluentformpro/fluentformpro",
+    "status": "active",
+    "version": "6.2.15"
+  },
+  {
+    "plugin": "google-site-kit/google-site-kit",
+    "status": "active",
+    "version": "1.189.0"
+  },
+  {
+    "plugin": "health-check/health-check",
+    "status": "inactive",
+    "version": "1.7.1"
+  },
+  {
+    "plugin": "js_composer_salient/js_composer",
+    "status": "active",
+    "version": "8.7.2"
+  },
+  {
+    "plugin": "patchstack/patchstack",
+    "status": "inactive",
+    "version": "2.3.7"
+  },
+  {
+    "plugin": "pixelyoursite/facebook-pixel-master",
+    "status": "active",
+    "version": "11.4.2.1"
+  },
+  {
+    "plugin": "readivo/readivo",
+    "status": "active",
+    "version": "1.1.1"
+  },
+  {
+    "plugin": "salient-core/plugin",
+    "status": "active",
+    "version": "3.1.4"
+  },
+  {
+    "plugin": "salient-custom-branding/plugin",
+    "status": "active",
+    "version": "1.0.0"
+  },
+  {
+    "plugin": "salient-demo-importer/plugin",
+    "status": "inactive",
+    "version": "1.8"
+  },
+  {
+    "plugin": "salient-home-slider/plugin",
+    "status": "inactive",
+    "version": "1.4.1"
+  },
+  {
+    "plugin": "salient-nectar-slider/plugin",
+    "status": "inactive",
+    "version": "1.7.8"
+  },
+  {
+    "plugin": "salient-portfolio/plugin",
+    "status": "inactive",
+    "version": "1.8.4"
+  },
+  {
+    "plugin": "salient-shortcodes/plugin",
+    "status": "active",
+    "version": "1.5.5"
+  },
+  {
+    "plugin": "salient-social/plugin",
+    "status": "active",
+    "version": "1.2.6"
+  },
+  {
+    "plugin": "salient-widgets/plugin",
+    "status": "active",
+    "version": "1.3.1"
+  },
+  {
+    "plugin": "svg-support/svg-support",
+    "status": "active",
+    "version": "2.6.1"
+  },
+  {
+    "plugin": "weglot/weglot",
+    "status": "active",
+    "version": "6.4.2"
+  },
+  {
+    "plugin": "wordpress-seo-premium/wp-seo-premium",
+    "status": "active",
+    "version": "28.6"
+  },
+  {
+    "plugin": "wordpress-seo/wp-seo",
+    "status": "active",
+    "version": "28.6"
+  },
+  {
+    "plugin": "wp-health/wp-health",
+    "status": "active",
+    "version": "2.28.0"
+  },
+  {
+    "plugin": "wpseo-local/local-seo",
+    "status": "active",
+    "version": "15.9"
+  },
+  {
+    "plugin": "wpseo-news/wpseo-news",
+    "status": "active",
+    "version": "13.3"
+  },
+  {
+    "plugin": "wpseo-video/video-seo",
+    "status": "active",
+    "version": "15.3"
+  }
+]
