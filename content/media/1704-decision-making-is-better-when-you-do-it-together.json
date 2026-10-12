@@ -1,0 +1,230 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1704"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1704",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1704"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1704"
+      }
+    ],
+    "wp:attached-to": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/pages/1698",
+        "id": 1698,
+        "post_type": "page"
+      }
+    ]
+  },
+  "alt_text": "",
+  "author": 1,
+  "caption": {
+    "raw": "Shot of a group of businesspeople having a meeting in a modern office",
+    "rendered": "<p>Shot of a group of businesspeople having a meeting in a modern office</p>\n"
+  },
+  "class_list": [
+    "post-1704",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "open",
+  "date": "2026-04-11T22:15:55",
+  "date_gmt": "2026-04-11T22:15:55",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2026/04/BRAND-STRATEGY-TEAM-STRIVESYNC.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"200\" src=\"https://strivesync.ai/wp-content/uploads/2026/04/BRAND-STRATEGY-TEAM-STRIVESYNC-300x200.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://strivesync.ai/wp-content/uploads/2026/04/BRAND-STRATEGY-TEAM-STRIVESYNC-300x200.jpg 300w, https://strivesync.ai/wp-content/uploads/2026/04/BRAND-STRATEGY-TEAM-STRIVESYNC-1024x683.jpg 1024w, https://strivesync.ai/wp-content/uploads/2026/04/BRAND-STRATEGY-TEAM-STRIVESYNC-768x512.jpg 768w, https://strivesync.ai/wp-content/uploads/2026/04/BRAND-STRATEGY-TEAM-STRIVESYNC.jpg 1254w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "BRAND-STRATEGY-TEAM-STRIVESYNC.jpg",
+  "filesize": 563875,
+  "generated_slug": "decision-making-is-better-when-you-do-it-together",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2026/04/BRAND-STRATEGY-TEAM-STRIVESYNC.jpg",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2026/04/BRAND-STRATEGY-TEAM-STRIVESYNC.jpg"
+  },
+  "id": 1704,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 82,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/services/brand-strategy/attachment/decision-making-is-better-when-you-do-it-together/",
+  "media_details": {
+    "file": "2026/04/BRAND-STRATEGY-TEAM-STRIVESYNC.jpg",
+    "filesize": 563875,
+    "height": 836,
+    "image_meta": {
+      "aperture": "1.6",
+      "camera": "NIKON D850",
+      "caption": "Shot of a group of businesspeople having a meeting in a modern office",
+      "copyright": "",
+      "created_timestamp": "1510657168",
+      "credit": "Getty Images",
+      "focal_length": "50",
+      "iso": "200",
+      "keywords": [],
+      "orientation": "1",
+      "shutter_speed": "0.0025",
+      "title": "Decision making is better when you do it together"
+    },
+    "sizes": {
+      "full": {
+        "file": "BRAND-STRATEGY-TEAM-STRIVESYNC.jpg",
+        "height": 836,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/BRAND-STRATEGY-TEAM-STRIVESYNC.jpg",
+        "width": 1254
+      },
+      "large": {
+        "file": "BRAND-STRATEGY-TEAM-STRIVESYNC-1024x683.jpg",
+        "filesize": 94327,
+        "height": 683,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/BRAND-STRATEGY-TEAM-STRIVESYNC-1024x683.jpg",
+        "width": 1024
+      },
+      "large_featured": {
+        "file": "BRAND-STRATEGY-TEAM-STRIVESYNC-1254x770.jpg",
+        "filesize": 126370,
+        "height": 770,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/BRAND-STRATEGY-TEAM-STRIVESYNC-1254x770.jpg",
+        "width": 1254
+      },
+      "medium": {
+        "file": "BRAND-STRATEGY-TEAM-STRIVESYNC-300x200.jpg",
+        "filesize": 15033,
+        "height": 200,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/BRAND-STRATEGY-TEAM-STRIVESYNC-300x200.jpg",
+        "width": 300
+      },
+      "medium_featured": {
+        "file": "BRAND-STRATEGY-TEAM-STRIVESYNC-800x800.jpg",
+        "filesize": 82149,
+        "height": 800,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/BRAND-STRATEGY-TEAM-STRIVESYNC-800x800.jpg",
+        "width": 800
+      },
+      "medium_large": {
+        "file": "BRAND-STRATEGY-TEAM-STRIVESYNC-768x512.jpg",
+        "filesize": 61017,
+        "height": 512,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/BRAND-STRATEGY-TEAM-STRIVESYNC-768x512.jpg",
+        "width": 768
+      },
+      "nectar_small_square": {
+        "file": "BRAND-STRATEGY-TEAM-STRIVESYNC-140x140.jpg",
+        "filesize": 6376,
+        "height": 140,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/BRAND-STRATEGY-TEAM-STRIVESYNC-140x140.jpg",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "BRAND-STRATEGY-TEAM-STRIVESYNC-600x403.jpg",
+        "filesize": 42898,
+        "height": 403,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/BRAND-STRATEGY-TEAM-STRIVESYNC-600x403.jpg",
+        "width": 600
+      },
+      "portfolio-widget": {
+        "file": "BRAND-STRATEGY-TEAM-STRIVESYNC-100x100.jpg",
+        "filesize": 4094,
+        "height": 100,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/BRAND-STRATEGY-TEAM-STRIVESYNC-100x100.jpg",
+        "width": 100
+      },
+      "regular_small": {
+        "file": "BRAND-STRATEGY-TEAM-STRIVESYNC-350x350.jpg",
+        "filesize": 24302,
+        "height": 350,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/BRAND-STRATEGY-TEAM-STRIVESYNC-350x350.jpg",
+        "width": 350
+      },
+      "thumbnail": {
+        "file": "BRAND-STRATEGY-TEAM-STRIVESYNC-150x150.jpg",
+        "filesize": 7021,
+        "height": 150,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/BRAND-STRATEGY-TEAM-STRIVESYNC-150x150.jpg",
+        "width": 150
+      }
+    },
+    "width": 1254
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/jpeg",
+  "missing_image_sizes": [],
+  "modified": "2026-04-11T22:15:55",
+  "modified_gmt": "2026-04-11T22:15:55",
+  "permalink_template": "https://strivesync.ai/services/brand-strategy/%postname%/",
+  "ping_status": "closed",
+  "post": 1698,
+  "slug": "decision-making-is-better-when-you-do-it-together",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/BRAND-STRATEGY-TEAM-STRIVESYNC.jpg",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "Decision making is better when you do it together",
+    "rendered": "Decision making is better when you do it together"
+  },
+  "type": "attachment"
+}

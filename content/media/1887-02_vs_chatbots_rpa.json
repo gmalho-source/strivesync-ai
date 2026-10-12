@@ -1,0 +1,247 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1887"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1887",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1887"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1887"
+      }
+    ],
+    "wp:attached-to": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/posts/1880",
+        "id": 1880,
+        "post_type": "post"
+      }
+    ]
+  },
+  "alt_text": "",
+  "author": 1,
+  "caption": {
+    "raw": "",
+    "rendered": ""
+  },
+  "class_list": [
+    "post-1887",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "",
+  "date": "2026-05-10T19:38:46",
+  "date_gmt": "2026-05-10T19:38:46",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2026/05/02_vs_chatbots_rpa-scaled.png'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"183\" src=\"https://strivesync.ai/wp-content/uploads/2026/05/02_vs_chatbots_rpa-300x183.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://strivesync.ai/wp-content/uploads/2026/05/02_vs_chatbots_rpa-300x183.png 300w, https://strivesync.ai/wp-content/uploads/2026/05/02_vs_chatbots_rpa-1024x626.png 1024w, https://strivesync.ai/wp-content/uploads/2026/05/02_vs_chatbots_rpa-768x469.png 768w, https://strivesync.ai/wp-content/uploads/2026/05/02_vs_chatbots_rpa-1536x939.png 1536w, https://strivesync.ai/wp-content/uploads/2026/05/02_vs_chatbots_rpa-2048x1252.png 2048w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "02_vs_chatbots_rpa.png",
+  "filesize": 326158,
+  "generated_slug": "02_vs_chatbots_rpa",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2026/05/02_vs_chatbots_rpa.png",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2026/05/02_vs_chatbots_rpa.png"
+  },
+  "id": 1887,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 82,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/artificial-intelligence/ai-agents-for-business/attachment/02_vs_chatbots_rpa/",
+  "media_details": {
+    "file": "2026/05/02_vs_chatbots_rpa-scaled.png",
+    "filesize": 326158,
+    "height": 1564,
+    "image_meta": {
+      "aperture": "0",
+      "camera": "",
+      "caption": "",
+      "copyright": "",
+      "created_timestamp": "0",
+      "credit": "",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [],
+      "orientation": "0",
+      "shutter_speed": "0",
+      "title": ""
+    },
+    "original_image": "02_vs_chatbots_rpa.png",
+    "sizes": {
+      "1536x1536": {
+        "file": "02_vs_chatbots_rpa-1536x939.png",
+        "filesize": 169612,
+        "height": 939,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/02_vs_chatbots_rpa-1536x939.png",
+        "width": 1536
+      },
+      "2048x2048": {
+        "file": "02_vs_chatbots_rpa-2048x1252.png",
+        "filesize": 246157,
+        "height": 1252,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/02_vs_chatbots_rpa-2048x1252.png",
+        "width": 2048
+      },
+      "full": {
+        "file": "02_vs_chatbots_rpa-scaled.png",
+        "height": 1564,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/02_vs_chatbots_rpa-scaled.png",
+        "width": 2560
+      },
+      "large": {
+        "file": "02_vs_chatbots_rpa-1024x626.png",
+        "filesize": 97629,
+        "height": 626,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/02_vs_chatbots_rpa-1024x626.png",
+        "width": 1024
+      },
+      "large_featured": {
+        "file": "02_vs_chatbots_rpa-1870x770.png",
+        "filesize": 123572,
+        "height": 770,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/02_vs_chatbots_rpa-1870x770.png",
+        "width": 1870
+      },
+      "medium": {
+        "file": "02_vs_chatbots_rpa-300x183.png",
+        "filesize": 15593,
+        "height": 183,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/02_vs_chatbots_rpa-300x183.png",
+        "width": 300
+      },
+      "medium_featured": {
+        "file": "02_vs_chatbots_rpa-800x800.png",
+        "filesize": 99128,
+        "height": 800,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/02_vs_chatbots_rpa-800x800.png",
+        "width": 800
+      },
+      "medium_large": {
+        "file": "02_vs_chatbots_rpa-768x469.png",
+        "filesize": 64735,
+        "height": 469,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/02_vs_chatbots_rpa-768x469.png",
+        "width": 768
+      },
+      "nectar_small_square": {
+        "file": "02_vs_chatbots_rpa-140x140.png",
+        "filesize": 7426,
+        "height": 140,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/02_vs_chatbots_rpa-140x140.png",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "02_vs_chatbots_rpa-600x403.png",
+        "filesize": 50691,
+        "height": 403,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/02_vs_chatbots_rpa-600x403.png",
+        "width": 600
+      },
+      "portfolio-widget": {
+        "file": "02_vs_chatbots_rpa-100x100.png",
+        "filesize": 4649,
+        "height": 100,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/02_vs_chatbots_rpa-100x100.png",
+        "width": 100
+      },
+      "regular_small": {
+        "file": "02_vs_chatbots_rpa-350x350.png",
+        "filesize": 31467,
+        "height": 350,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/02_vs_chatbots_rpa-350x350.png",
+        "width": 350
+      },
+      "thumbnail": {
+        "file": "02_vs_chatbots_rpa-150x150.png",
+        "filesize": 8541,
+        "height": 150,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/02_vs_chatbots_rpa-150x150.png",
+        "width": 150
+      }
+    },
+    "width": 2560
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/png",
+  "missing_image_sizes": [],
+  "modified": "2026-05-10T19:38:46",
+  "modified_gmt": "2026-05-10T19:38:46",
+  "permalink_template": "https://strivesync.ai/artificial-intelligence/ai-agents-for-business/%postname%/",
+  "ping_status": "closed",
+  "post": 1880,
+  "slug": "02_vs_chatbots_rpa",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/02_vs_chatbots_rpa-scaled.png",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "02_vs_chatbots_rpa",
+    "rendered": "02_vs_chatbots_rpa"
+  },
+  "type": "attachment"
+}

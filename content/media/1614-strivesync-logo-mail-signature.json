@@ -1,0 +1,166 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1614"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1614",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1614"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1614"
+      }
+    ]
+  },
+  "alt_text": "",
+  "author": 1,
+  "caption": {
+    "raw": "",
+    "rendered": ""
+  },
+  "class_list": [
+    "post-1614",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "open",
+  "date": "2026-04-08T07:10:29",
+  "date_gmt": "2026-04-08T07:10:29",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2026/04/Strivesync-logo-mail-signature.png'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"100\" src=\"https://strivesync.ai/wp-content/uploads/2026/04/Strivesync-logo-mail-signature.png\" class=\"attachment-medium size-medium\" alt=\"\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "Strivesync-logo-mail-signature.png",
+  "filesize": 11295,
+  "generated_slug": "strivesync-logo-mail-signature",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2026/04/Strivesync-logo-mail-signature.png",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2026/04/Strivesync-logo-mail-signature.png"
+  },
+  "id": 1614,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 82,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/strivesync-logo-mail-signature/",
+  "media_details": {
+    "file": "2026/04/Strivesync-logo-mail-signature.png",
+    "filesize": 11295,
+    "height": 100,
+    "image_meta": {
+      "aperture": "0",
+      "camera": "",
+      "caption": "",
+      "copyright": "",
+      "created_timestamp": "0",
+      "credit": "",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [],
+      "orientation": "0",
+      "shutter_speed": "0",
+      "title": ""
+    },
+    "sizes": {
+      "full": {
+        "file": "Strivesync-logo-mail-signature.png",
+        "height": 100,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/Strivesync-logo-mail-signature.png",
+        "width": 300
+      },
+      "nectar_small_square": {
+        "file": "Strivesync-logo-mail-signature-140x100.png",
+        "filesize": 6883,
+        "height": 100,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/Strivesync-logo-mail-signature-140x100.png",
+        "width": 140
+      },
+      "portfolio-widget": {
+        "file": "Strivesync-logo-mail-signature-100x100.png",
+        "filesize": 4593,
+        "height": 100,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/Strivesync-logo-mail-signature-100x100.png",
+        "width": 100
+      },
+      "thumbnail": {
+        "file": "Strivesync-logo-mail-signature-150x100.png",
+        "filesize": 7182,
+        "height": 100,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/Strivesync-logo-mail-signature-150x100.png",
+        "width": 150
+      }
+    },
+    "width": 300
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/png",
+  "missing_image_sizes": [],
+  "modified": "2026-04-08T07:10:29",
+  "modified_gmt": "2026-04-08T07:10:29",
+  "permalink_template": "https://strivesync.ai/?attachment_id=1614",
+  "ping_status": "closed",
+  "post": null,
+  "slug": "strivesync-logo-mail-signature",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/Strivesync-logo-mail-signature.png",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "Strivesync logo mail signature",
+    "rendered": "Strivesync logo mail signature"
+  },
+  "type": "attachment"
+}

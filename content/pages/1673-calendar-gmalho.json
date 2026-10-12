@@ -1,0 +1,338 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/pages"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/pages/1673/revisions/1679",
+        "id": 1679
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1673"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/pages/1673",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 6,
+        "href": "https://strivesync.ai/wp-json/wp/v2/pages/1673/revisions"
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/pages/1673"
+      }
+    ],
+    "wp:action-publish": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/pages/1673"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/pages/1673"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media?parent=1673"
+      }
+    ]
+  },
+  "author": 1,
+  "class_list": [
+    "post-1673",
+    "page",
+    "type-page",
+    "status-publish"
+  ],
+  "comment_status": "closed",
+  "content": {
+    "block_version": 0,
+    "protected": false,
+    "raw": "[vc_row type=\"in_container\" full_screen_row_position=\"middle\" column_margin=\"default\" column_direction=\"default\" column_direction_tablet=\"default\" column_direction_phone=\"default\" scene_position=\"center\" text_color=\"dark\" text_align=\"left\" row_border_radius=\"none\" row_border_radius_applies=\"bg\" row_position_desktop=\"default\" row_position_tablet=\"inherit\" row_position_phone=\"inherit\" overflow=\"visible\" overlay_strength=\"0.3\" gradient_direction=\"left_to_right\" shape_divider_position=\"bottom\" bg_image_animation=\"none\"][vc_column column_padding=\"no-extra-padding\" column_padding_tablet=\"inherit\" column_padding_phone=\"inherit\" column_padding_position=\"all\" flex_gap_desktop=\"10px\" column_element_direction_desktop=\"default\" column_element_spacing=\"default\" desktop_text_alignment=\"default\" tablet_text_alignment=\"default\" phone_text_alignment=\"default\" background_color_opacity=\"1\" background_hover_color_opacity=\"1\" column_backdrop_filter=\"none\" column_shadow=\"none\" column_border_radius=\"none\" column_link_target=\"_self\" column_position=\"default\" gradient_direction=\"left_to_right\" overlay_strength=\"0.3\" width=\"1/4\" tablet_width_inherit=\"default\" animation_type=\"default\" bg_image_animation=\"none\" border_type=\"simple\" column_border_width=\"none\" column_border_style=\"solid\"][image_with_animation image_url=\"1478\" image_size=\"full\" max_width=\"50%\" max_width_mobile=\"default\" animation_type=\"entrance\" animation=\"None\" animation_movement_type=\"transform_y\" hover_animation=\"none\" alignment=\"\" border_radius=\"none\" box_shadow=\"none\" image_loading=\"default\" mask_enable=\"true\" mask_size=\"contain\"][nectar_responsive_text inherited_font_style=\"default\" text_direction=\"default\"]Appreciate you carving out some time for us to talk.\r\n\r\nI'm looking forward to it — great things tend to start with a good conversation.[/nectar_responsive_text][/vc_column][vc_column column_padding=\"no-extra-padding\" column_padding_tablet=\"inherit\" column_padding_phone=\"inherit\" column_padding_position=\"all\" flex_gap_desktop=\"10px\" column_element_direction_desktop=\"default\" column_element_spacing=\"default\" desktop_text_alignment=\"default\" tablet_text_alignment=\"default\" phone_text_alignment=\"default\" background_color_opacity=\"1\" background_hover_color_opacity=\"1\" column_backdrop_filter=\"none\" column_shadow=\"none\" column_border_radius=\"none\" column_link_target=\"_self\" column_position=\"default\" gradient_direction=\"left_to_right\" overlay_strength=\"0.3\" width=\"3/4\" tablet_width_inherit=\"default\" animation_type=\"default\" bg_image_animation=\"none\" border_type=\"simple\" column_border_width=\"none\" column_border_style=\"solid\"][vc_raw_html css=\"\"]JTNDJTIxLS0lMjBHb29nbGUlMjBDYWxlbmRhciUyMEFwcG9pbnRtZW50JTIwU2NoZWR1bGluZyUyMGJlZ2luJTIwLS0lM0UlMEElM0NpZnJhbWUlMjBzcmMlM0QlMjJodHRwcyUzQSUyRiUyRmNhbGVuZGFyLmdvb2dsZS5jb20lMkZjYWxlbmRhciUyRmFwcG9pbnRtZW50cyUyRnNjaGVkdWxlcyUyRkFjWnNzWjNDR0NsS2JXYmxDbUFlQTJtNjcyMkswX0s2TDE0SC1VVkRUMHdULW8td202OEhsSlNCY3VqTkhtTzhuelQ5SjMwNlNVaUx4ZmVlJTNGZ3YlM0R0cnVlJTIyJTIwc3R5bGUlM0QlMjJib3JkZXIlM0ElMjAwJTIyJTIwd2lkdGglM0QlMjIxMDAlMjUlMjIlMjBoZWlnaHQlM0QlMjI2MDAlMjIlMjBmcmFtZWJvcmRlciUzRCUyMjAlMjIlM0UlM0MlMkZpZnJhbWUlM0UlMEElM0MlMjEtLSUyMGVuZCUyMEdvb2dsZSUyMENhbGVuZGFyJTIwQXBwb2ludG1lbnQlMjBTY2hlZHVsaW5nJTIwLS0lM0U=[/vc_raw_html][/vc_column][/vc_row]",
+    "rendered": "[vc_row type=&#8221;in_container&#8221; full_screen_row_position=&#8221;middle&#8221; column_margin=&#8221;default&#8221; column_direction=&#8221;default&#8221; column_direction_tablet=&#8221;default&#8221; column_direction_phone=&#8221;default&#8221; scene_position=&#8221;center&#8221; text_color=&#8221;dark&#8221; text_align=&#8221;left&#8221; row_border_radius=&#8221;none&#8221; row_border_radius_applies=&#8221;bg&#8221; row_position_desktop=&#8221;default&#8221; row_position_tablet=&#8221;inherit&#8221; row_position_phone=&#8221;inherit&#8221; overflow=&#8221;visible&#8221; overlay_strength=&#8221;0.3&#8243; gradient_direction=&#8221;left_to_right&#8221; shape_divider_position=&#8221;bottom&#8221; bg_image_animation=&#8221;none&#8221;][vc_column column_padding=&#8221;no-extra-padding&#8221; column_padding_tablet=&#8221;inherit&#8221; column_padding_phone=&#8221;inherit&#8221; column_padding_position=&#8221;all&#8221; flex_gap_desktop=&#8221;10px&#8221; column_element_direction_desktop=&#8221;default&#8221; column_element_spacing=&#8221;default&#8221; desktop_text_alignment=&#8221;default&#8221; tablet_text_alignment=&#8221;default&#8221; phone_text_alignment=&#8221;default&#8221; background_color_opacity=&#8221;1&#8243; background_hover_color_opacity=&#8221;1&#8243; column_backdrop_filter=&#8221;none&#8221; column_shadow=&#8221;none&#8221; column_border_radius=&#8221;none&#8221; column_link_target=&#8221;_self&#8221; column_position=&#8221;default&#8221; gradient_direction=&#8221;left_to_right&#8221; overlay_strength=&#8221;0.3&#8243; width=&#8221;1/4&#8243; tablet_width_inherit=&#8221;default&#8221; animation_type=&#8221;default&#8221; bg_image_animation=&#8221;none&#8221; border_type=&#8221;simple&#8221; column_border_width=&#8221;none&#8221; column_border_style=&#8221;solid&#8221;][image_with_animation image_url=&#8221;1478&#8243; image_size=&#8221;full&#8221; max_width=&#8221;50%&#8221; max_width_mobile=&#8221;default&#8221; animation_type=&#8221;entrance&#8221; animation=&#8221;None&#8221; animation_movement_type=&#8221;transform_y&#8221; hover_animation=&#8221;none&#8221; alignment=&#8221;&#8221; border_radius=&#8221;none&#8221; box_shadow=&#8221;none&#8221; image_loading=&#8221;default&#8221; mask_enable=&#8221;true&#8221; mask_size=&#8221;contain&#8221;][nectar_responsive_text inherited_font_style=&#8221;default&#8221; text_direction=&#8221;default&#8221;]Appreciate you carving out some time for us to talk.</p>\n<p>I&#8217;m looking forward to it — great things tend to start with a good conversation.[/nectar_responsive_text][/vc_column][vc_column column_padding=&#8221;no-extra-padding&#8221; column_padding_tablet=&#8221;inherit&#8221; column_padding_phone=&#8221;inherit&#8221; column_padding_position=&#8221;all&#8221; flex_gap_desktop=&#8221;10px&#8221; column_element_direction_desktop=&#8221;default&#8221; column_element_spacing=&#8221;default&#8221; desktop_text_alignment=&#8221;default&#8221; tablet_text_alignment=&#8221;default&#8221; phone_text_alignment=&#8221;default&#8221; background_color_opacity=&#8221;1&#8243; background_hover_color_opacity=&#8221;1&#8243; column_backdrop_filter=&#8221;none&#8221; column_shadow=&#8221;none&#8221; column_border_radius=&#8221;none&#8221; column_link_target=&#8221;_self&#8221; column_position=&#8221;default&#8221; gradient_direction=&#8221;left_to_right&#8221; overlay_strength=&#8221;0.3&#8243; width=&#8221;3/4&#8243; tablet_width_inherit=&#8221;default&#8221; animation_type=&#8221;default&#8221; bg_image_animation=&#8221;none&#8221; border_type=&#8221;simple&#8221; column_border_width=&#8221;none&#8221; column_border_style=&#8221;solid&#8221;][vc_raw_html css=&#8221;&#8221;]JTNDJTIxLS0lMjBHb29nbGUlMjBDYWxlbmRhciUyMEFwcG9pbnRtZW50JTIwU2NoZWR1bGluZyUyMGJlZ2luJTIwLS0lM0UlMEElM0NpZnJhbWUlMjBzcmMlM0QlMjJodHRwcyUzQSUyRiUyRmNhbGVuZGFyLmdvb2dsZS5jb20lMkZjYWxlbmRhciUyRmFwcG9pbnRtZW50cyUyRnNjaGVkdWxlcyUyRkFjWnNzWjNDR0NsS2JXYmxDbUFlQTJtNjcyMkswX0s2TDE0SC1VVkRUMHdULW8td202OEhsSlNCY3VqTkhtTzhuelQ5SjMwNlNVaUx4ZmVlJTNGZ3YlM0R0cnVlJTIyJTIwc3R5bGUlM0QlMjJib3JkZXIlM0ElMjAwJTIyJTIwd2lkdGglM0QlMjIxMDAlMjUlMjIlMjBoZWlnaHQlM0QlMjI2MDAlMjIlMjBmcmFtZWJvcmRlciUzRCUyMjAlMjIlM0UlM0MlMkZpZnJhbWUlM0UlMEElM0MlMjEtLSUyMGVuZCUyMEdvb2dsZSUyMENhbGVuZGFyJTIwQXBwb2ludG1lbnQlMjBTY2hlZHVsaW5nJTIwLS0lM0U=[/vc_raw_html][/vc_column][/vc_row]\n"
+  },
+  "date": "2026-04-11T19:54:51",
+  "date_gmt": "2026-04-11T19:54:51",
+  "excerpt": {
+    "protected": false,
+    "raw": "",
+    "rendered": "<p>[vc_row type=&#8221;in_container&#8221; full_screen_row_position=&#8221;middle&#8221; column_margin=&#8221;default&#8221; column_direction=&#8221;default&#8221; column_direction_tablet=&#8221;default&#8221; column_direction_phone=&#8221;default&#8221; scene_position=&#8221;center&#8221; text_color=&#8221;dark&#8221; text_align=&#8221;left&#8221; row_border_radius=&#8221;none&#8221; row_border_radius_applies=&#8221;bg&#8221; row_position_desktop=&#8221;default&#8221; row_position_tablet=&#8221;inherit&#8221; row_position_phone=&#8221;inherit&#8221; overflow=&#8221;visible&#8221; overlay_strength=&#8221;0.3&#8243; gradient_direction=&#8221;left_to_right&#8221; shape_divider_position=&#8221;bottom&#8221; bg_image_animation=&#8221;none&#8221;][vc_column column_padding=&#8221;no-extra-padding&#8221; column_padding_tablet=&#8221;inherit&#8221; column_padding_phone=&#8221;inherit&#8221; column_padding_position=&#8221;all&#8221; flex_gap_desktop=&#8221;10px&#8221; column_element_direction_desktop=&#8221;default&#8221; column_element_spacing=&#8221;default&#8221; desktop_text_alignment=&#8221;default&#8221; tablet_text_alignment=&#8221;default&#8221; phone_text_alignment=&#8221;default&#8221;&#8230;</p>\n"
+  },
+  "featured_media": 0,
+  "generated_slug": "calendar-gmalho",
+  "guid": {
+    "raw": "https://strivesync.ai/?page_id=1673",
+    "rendered": "https://strivesync.ai/?page_id=1673"
+  },
+  "id": 1673,
+  "link": "https://strivesync.ai/calendar-gmalho/",
+  "menu_order": 0,
+  "meta": {
+    "footnotes": "",
+    "inline_featured_image": false
+  },
+  "modified": "2026-04-11T20:26:14",
+  "modified_gmt": "2026-04-11T20:26:14",
+  "parent": 0,
+  "password": "",
+  "permalink_template": "https://strivesync.ai/%pagename%/",
+  "ping_status": "closed",
+  "slug": "calendar-gmalho",
+  "status": "publish",
+  "template": "",
+  "title": {
+    "raw": "calendar-gmalho",
+    "rendered": "calendar-gmalho"
+  },
+  "type": "page",
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO Premium plugin v28.6 (Yoast SEO v28.6) - https://yoast.com/product/yoast-seo-premium-wordpress/ -->\n<title>calendar-gmalho - Strivesync | AI-Native Marketing &amp; Sales Systems</title>\n<meta name=\"description\" content=\"Strivesync AI is a Dubai-based agency building AI-powered marketing and sales systems for ambitious companies. We implement custom AI agents, automate CRM and lead workflows, and run performance and content marketing — so growth scales without the headcount.\" class=\"yoast-seo-meta-tag\" />\n<meta name=\"robots\" content=\"noindex, follow\" />\n<meta property=\"og:locale\" content=\"en_US\" class=\"yoast-seo-meta-tag\" />\n<meta property=\"og:type\" content=\"article\" class=\"yoast-seo-meta-tag\" />\n<meta property=\"og:title\" content=\"calendar-gmalho\" class=\"yoast-seo-meta-tag\" />\n<meta property=\"og:description\" content=\"Strivesync AI is a Dubai-based agency building AI-powered marketing and sales systems for ambitious companies. We implement custom AI agents, automate CRM and lead workflows, and run performance and content marketing — so growth scales without the headcount.\" class=\"yoast-seo-meta-tag\" />\n<meta property=\"og:url\" content=\"https://strivesync.ai/calendar-gmalho/\" class=\"yoast-seo-meta-tag\" />\n<meta property=\"og:site_name\" content=\"Strivesync | AI-Native Marketing &amp; Sales Systems\" class=\"yoast-seo-meta-tag\" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/profile.php?id=61576383355831\" class=\"yoast-seo-meta-tag\" />\n<meta property=\"article:modified_time\" content=\"2026-04-11T20:26:14+00:00\" class=\"yoast-seo-meta-tag\" />\n<meta property=\"og:image\" content=\"https://strivesync.ai/wp-content/uploads/2026/04/Marketing-Automation-artice-cover-ad-Strivesync-AI-web.jpg\" class=\"yoast-seo-meta-tag\" />\n\t<meta property=\"og:image:width\" content=\"2000\" class=\"yoast-seo-meta-tag\" />\n\t<meta property=\"og:image:height\" content=\"1000\" class=\"yoast-seo-meta-tag\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" class=\"yoast-seo-meta-tag\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" class=\"yoast-seo-meta-tag\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" class=\"yoast-seo-meta-tag\" />\n\t<meta name=\"twitter:data1\" content=\"2 minutes\" class=\"yoast-seo-meta-tag\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https:\\/\\/strivesync.ai\\/calendar-gmalho\\/#article\",\"isPartOf\":{\"@id\":\"https:\\/\\/strivesync.ai\\/calendar-gmalho\\/\"},\"author\":{\"name\":\"Strivesync\",\"@id\":\"https:\\/\\/strivesync.ai\\/#\\/schema\\/person\\/603cc8da17aa90fbb410a11030b63615\"},\"headline\":\"calendar-gmalho\",\"datePublished\":\"2026-04-11T19:54:51+00:00\",\"dateModified\":\"2026-04-11T20:26:14+00:00\",\"mainEntityOfPage\":{\"@id\":\"https:\\/\\/strivesync.ai\\/calendar-gmalho\\/\"},\"wordCount\":411,\"publisher\":{\"@id\":\"https:\\/\\/strivesync.ai\\/#organization\"},\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/strivesync.ai\\/calendar-gmalho\\/\",\"url\":\"https:\\/\\/strivesync.ai\\/calendar-gmalho\\/\",\"name\":\"calendar-gmalho - Strivesync | AI-Native Marketing &amp; Sales Systems\",\"isPartOf\":{\"@id\":\"https:\\/\\/strivesync.ai\\/#website\"},\"datePublished\":\"2026-04-11T19:54:51+00:00\",\"dateModified\":\"2026-04-11T20:26:14+00:00\",\"description\":\"Strivesync AI is a Dubai-based agency building AI-powered marketing and sales systems for ambitious companies. We implement custom AI agents, automate CRM and lead workflows, and run performance and content marketing — so growth scales without the headcount.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/strivesync.ai\\/calendar-gmalho\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/strivesync.ai\\/calendar-gmalho\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/strivesync.ai\\/calendar-gmalho\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/strivesync.ai\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"calendar-gmalho\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/strivesync.ai\\/#website\",\"url\":\"https:\\/\\/strivesync.ai\\/\",\"name\":\"Strivesync - AI Powered Marketing & Sales Systems\",\"description\":\"AI-Native Systems\",\"publisher\":{\"@id\":\"https:\\/\\/strivesync.ai\\/#organization\"},\"alternateName\":\"Strivesync UAE\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/strivesync.ai\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":[\"Organization\",\"Place\"],\"@id\":\"https:\\/\\/strivesync.ai\\/#organization\",\"name\":\"Strivesync Digital Solutions FZCO\",\"alternateName\":\"Strivesync UAE\",\"url\":\"https:\\/\\/strivesync.ai\\/\",\"logo\":{\"@id\":\"https:\\/\\/strivesync.ai\\/services\\/website-development\\/#local-main-organization-logo\"},\"image\":{\"@id\":\"https:\\/\\/strivesync.ai\\/services\\/website-development\\/#local-main-organization-logo\"},\"sameAs\":[\"https:\\/\\/www.facebook.com\\/profile.php?id=61576383355831\",\"https:\\/\\/www.instagram.com\\/strivesync.ai\",\"https:\\/\\/www.linkedin.com\\/company\\/strivesync\\/\",\"https:\\/\\/www.youtube.com\\/@Strivesync-ai\"],\"description\":\"Strivesync AI is a Dubai-based agency building AI-powered marketing and sales systems for ambitious companies. We implement custom AI agents, automate CRM and lead workflows, and run performance and content marketing — so growth scales without the headcount.\",\"legalName\":\"STRIVESYNC DIGITAL SOLUTIONS - FZCO\",\"foundingDate\":\"2026-05-23\",\"numberOfEmployees\":{\"@type\":\"QuantitativeValue\",\"minValue\":\"1\",\"maxValue\":\"10\"},\"ownershipFundingInfo\":\"https:\\/\\/strivesync.ai\\/about-strivesync\\/\",\"actionableFeedbackPolicy\":\"https:\\/\\/strivesync.ai\\/privacy-policy\\/\",\"telephone\":[\"+971 541727842\"],\"openingHoursSpecification\":[{\"@type\":\"OpeningHoursSpecification\",\"dayOfWeek\":[\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\"],\"opens\":\"09:00\",\"closes\":\"17:00\"},{\"@type\":\"OpeningHoursSpecification\",\"dayOfWeek\":[\"Saturday\",\"Sunday\"],\"opens\":\"00:00\",\"closes\":\"00:00\"}],\"email\":\"hello@strivesync.ai\",\"areaServed\":\"United Arab Emirates\"},{\"@type\":\"Person\",\"@id\":\"https:\\/\\/strivesync.ai\\/#\\/schema\\/person\\/603cc8da17aa90fbb410a11030b63615\",\"name\":\"Strivesync\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/secure.gravatar.com\\/avatar\\/02d86002d8e6f017a99429de1155b7e15458658b71b7d44b8ae88d73a3b66568?s=96&d=mm&r=g\",\"url\":\"https:\\/\\/secure.gravatar.com\\/avatar\\/02d86002d8e6f017a99429de1155b7e15458658b71b7d44b8ae88d73a3b66568?s=96&d=mm&r=g\",\"contentUrl\":\"https:\\/\\/secure.gravatar.com\\/avatar\\/02d86002d8e6f017a99429de1155b7e15458658b71b7d44b8ae88d73a3b66568?s=96&d=mm&r=g\",\"caption\":\"Strivesync\"},\"sameAs\":[\"https:\\/\\/strivesync.ai\"],\"url\":\"https:\\/\\/strivesync.ai\\/author\\/admin_t8vyprfv\\/\"},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/strivesync.ai\\/calendar-gmalho\\/#local-main-organization-logo\",\"url\":\"https:\\/\\/strivesync.ai\\/wp-content\\/uploads\\/2026\\/05\\/strivesync-Logo-Square.png\",\"contentUrl\":\"https:\\/\\/strivesync.ai\\/wp-content\\/uploads\\/2026\\/05\\/strivesync-Logo-Square.png\",\"width\":1080,\"height\":1080,\"caption\":\"Strivesync Digital Solutions FZCO\"}]}</script>\n<meta name=\"geo.placename\" content=\"Dubai\" class=\"yoast-seo-meta-tag\" />\n<!-- / Yoast SEO Premium plugin. -->",
+  "yoast_head_json": {
+    "article_modified_time": "2026-04-11T20:26:14+00:00",
+    "article_publisher": "https://www.facebook.com/profile.php?id=61576383355831",
+    "description": "Strivesync AI is a Dubai-based agency building AI-powered marketing and sales systems for ambitious companies. We implement custom AI agents, automate CRM and lead workflows, and run performance and content marketing — so growth scales without the headcount.",
+    "geo.placename": "Dubai",
+    "og_description": "Strivesync AI is a Dubai-based agency building AI-powered marketing and sales systems for ambitious companies. We implement custom AI agents, automate CRM and lead workflows, and run performance and content marketing — so growth scales without the headcount.",
+    "og_image": [
+      {
+        "height": 1000,
+        "type": "image/jpeg",
+        "url": "https://strivesync.ai/wp-content/uploads/2026/04/Marketing-Automation-artice-cover-ad-Strivesync-AI-web.jpg",
+        "width": 2000
+      }
+    ],
+    "og_locale": "en_US",
+    "og_site_name": "Strivesync | AI-Native Marketing &amp; Sales Systems",
+    "og_title": "calendar-gmalho",
+    "og_type": "article",
+    "og_url": "https://strivesync.ai/calendar-gmalho/",
+    "robots": {
+      "follow": "follow",
+      "index": "noindex"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@id": "https://strivesync.ai/calendar-gmalho/#article",
+          "@type": "Article",
+          "author": {
+            "@id": "https://strivesync.ai/#/schema/person/603cc8da17aa90fbb410a11030b63615",
+            "name": "Strivesync"
+          },
+          "dateModified": "2026-04-11T20:26:14+00:00",
+          "datePublished": "2026-04-11T19:54:51+00:00",
+          "headline": "calendar-gmalho",
+          "inLanguage": "en-US",
+          "isPartOf": {
+            "@id": "https://strivesync.ai/calendar-gmalho/"
+          },
+          "mainEntityOfPage": {
+            "@id": "https://strivesync.ai/calendar-gmalho/"
+          },
+          "publisher": {
+            "@id": "https://strivesync.ai/#organization"
+          },
+          "wordCount": 411
+        },
+        {
+          "@id": "https://strivesync.ai/calendar-gmalho/",
+          "@type": "WebPage",
+          "breadcrumb": {
+            "@id": "https://strivesync.ai/calendar-gmalho/#breadcrumb"
+          },
+          "dateModified": "2026-04-11T20:26:14+00:00",
+          "datePublished": "2026-04-11T19:54:51+00:00",
+          "description": "Strivesync AI is a Dubai-based agency building AI-powered marketing and sales systems for ambitious companies. We implement custom AI agents, automate CRM and lead workflows, and run performance and content marketing — so growth scales without the headcount.",
+          "inLanguage": "en-US",
+          "isPartOf": {
+            "@id": "https://strivesync.ai/#website"
+          },
+          "name": "calendar-gmalho - Strivesync | AI-Native Marketing &amp; Sales Systems",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://strivesync.ai/calendar-gmalho/"
+              ]
+            }
+          ],
+          "url": "https://strivesync.ai/calendar-gmalho/"
+        },
+        {
+          "@id": "https://strivesync.ai/calendar-gmalho/#breadcrumb",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "item": "https://strivesync.ai/",
+              "name": "Home",
+              "position": 1
+            },
+            {
+              "@type": "ListItem",
+              "name": "calendar-gmalho",
+              "position": 2
+            }
+          ]
+        },
+        {
+          "@id": "https://strivesync.ai/#website",
+          "@type": "WebSite",
+          "alternateName": "Strivesync UAE",
+          "description": "AI-Native Systems",
+          "inLanguage": "en-US",
+          "name": "Strivesync - AI Powered Marketing & Sales Systems",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueName": "search_term_string",
+                "valueRequired": true
+              },
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://strivesync.ai/?s={search_term_string}"
+              }
+            }
+          ],
+          "publisher": {
+            "@id": "https://strivesync.ai/#organization"
+          },
+          "url": "https://strivesync.ai/"
+        },
+        {
+          "@id": "https://strivesync.ai/#organization",
+          "@type": [
+            "Organization",
+            "Place"
+          ],
+          "actionableFeedbackPolicy": "https://strivesync.ai/privacy-policy/",
+          "alternateName": "Strivesync UAE",
+          "areaServed": "United Arab Emirates",
+          "description": "Strivesync AI is a Dubai-based agency building AI-powered marketing and sales systems for ambitious companies. We implement custom AI agents, automate CRM and lead workflows, and run performance and content marketing — so growth scales without the headcount.",
+          "email": "hello@strivesync.ai",
+          "foundingDate": "2026-05-23",
+          "image": {
+            "@id": "https://strivesync.ai/services/website-development/#local-main-organization-logo"
+          },
+          "legalName": "STRIVESYNC DIGITAL SOLUTIONS - FZCO",
+          "logo": {
+            "@id": "https://strivesync.ai/services/website-development/#local-main-organization-logo"
+          },
+          "name": "Strivesync Digital Solutions FZCO",
+          "numberOfEmployees": {
+            "@type": "QuantitativeValue",
+            "maxValue": "10",
+            "minValue": "1"
+          },
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "closes": "17:00",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday"
+              ],
+              "opens": "09:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "closes": "00:00",
+              "dayOfWeek": [
+                "Saturday",
+                "Sunday"
+              ],
+              "opens": "00:00"
+            }
+          ],
+          "ownershipFundingInfo": "https://strivesync.ai/about-strivesync/",
+          "sameAs": [
+            "https://www.facebook.com/profile.php?id=61576383355831",
+            "https://www.instagram.com/strivesync.ai",
+            "https://www.linkedin.com/company/strivesync/",
+            "https://www.youtube.com/@Strivesync-ai"
+          ],
+          "telephone": [
+            "+971 541727842"
+          ],
+          "url": "https://strivesync.ai/"
+        },
+        {
+          "@id": "https://strivesync.ai/#/schema/person/603cc8da17aa90fbb410a11030b63615",
+          "@type": "Person",
+          "image": {
+            "@id": "https://secure.gravatar.com/avatar/02d86002d8e6f017a99429de1155b7e15458658b71b7d44b8ae88d73a3b66568?s=96&d=mm&r=g",
+            "@type": "ImageObject",
+            "caption": "Strivesync",
+            "contentUrl": "https://secure.gravatar.com/avatar/02d86002d8e6f017a99429de1155b7e15458658b71b7d44b8ae88d73a3b66568?s=96&d=mm&r=g",
+            "inLanguage": "en-US",
+            "url": "https://secure.gravatar.com/avatar/02d86002d8e6f017a99429de1155b7e15458658b71b7d44b8ae88d73a3b66568?s=96&d=mm&r=g"
+          },
+          "name": "Strivesync",
+          "sameAs": [
+            "https://strivesync.ai"
+          ],
+          "url": "https://strivesync.ai/author/admin_t8vyprfv/"
+        },
+        {
+          "@id": "https://strivesync.ai/calendar-gmalho/#local-main-organization-logo",
+          "@type": "ImageObject",
+          "caption": "Strivesync Digital Solutions FZCO",
+          "contentUrl": "https://strivesync.ai/wp-content/uploads/2026/05/strivesync-Logo-Square.png",
+          "height": 1080,
+          "inLanguage": "en-US",
+          "url": "https://strivesync.ai/wp-content/uploads/2026/05/strivesync-Logo-Square.png",
+          "width": 1080
+        }
+      ]
+    },
+    "title": "calendar-gmalho - Strivesync | AI-Native Marketing &amp; Sales Systems",
+    "twitter_card": "summary_large_image",
+    "twitter_misc": {
+      "Est. reading time": "2 minutes"
+    }
+  }
+}

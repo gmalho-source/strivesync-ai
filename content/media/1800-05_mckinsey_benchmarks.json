@@ -1,0 +1,238 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1800"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1800",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1800"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1800"
+      }
+    ],
+    "wp:attached-to": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/posts/1791",
+        "id": 1791,
+        "post_type": "post"
+      }
+    ]
+  },
+  "alt_text": "",
+  "author": 1,
+  "caption": {
+    "raw": "",
+    "rendered": ""
+  },
+  "class_list": [
+    "post-1800",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "closed",
+  "date": "2026-04-19T15:27:07",
+  "date_gmt": "2026-04-19T15:27:07",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2026/04/05_mckinsey_benchmarks.png'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"163\" src=\"https://strivesync.ai/wp-content/uploads/2026/04/05_mckinsey_benchmarks-300x163.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://strivesync.ai/wp-content/uploads/2026/04/05_mckinsey_benchmarks-300x163.png 300w, https://strivesync.ai/wp-content/uploads/2026/04/05_mckinsey_benchmarks-1024x557.png 1024w, https://strivesync.ai/wp-content/uploads/2026/04/05_mckinsey_benchmarks-768x417.png 768w, https://strivesync.ai/wp-content/uploads/2026/04/05_mckinsey_benchmarks-1536x835.png 1536w, https://strivesync.ai/wp-content/uploads/2026/04/05_mckinsey_benchmarks.png 1967w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "05_mckinsey_benchmarks.png",
+  "filesize": 88180,
+  "generated_slug": "05_mckinsey_benchmarks",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2026/04/05_mckinsey_benchmarks.png",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2026/04/05_mckinsey_benchmarks.png"
+  },
+  "id": 1800,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 82,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/artificial-intelligence/marketing-automation-ai/attachment/05_mckinsey_benchmarks/",
+  "media_details": {
+    "file": "2026/04/05_mckinsey_benchmarks.png",
+    "filesize": 88180,
+    "height": 1069,
+    "image_meta": {
+      "aperture": "0",
+      "camera": "",
+      "caption": "",
+      "copyright": "",
+      "created_timestamp": "0",
+      "credit": "",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [],
+      "orientation": "0",
+      "shutter_speed": "0",
+      "title": ""
+    },
+    "sizes": {
+      "1536x1536": {
+        "file": "05_mckinsey_benchmarks-1536x835.png",
+        "filesize": 87650,
+        "height": 835,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/05_mckinsey_benchmarks-1536x835.png",
+        "width": 1536
+      },
+      "full": {
+        "file": "05_mckinsey_benchmarks.png",
+        "height": 1069,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/05_mckinsey_benchmarks.png",
+        "width": 1967
+      },
+      "large": {
+        "file": "05_mckinsey_benchmarks-1024x557.png",
+        "filesize": 51946,
+        "height": 557,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/05_mckinsey_benchmarks-1024x557.png",
+        "width": 1024
+      },
+      "large_featured": {
+        "file": "05_mckinsey_benchmarks-1870x770.png",
+        "filesize": 60867,
+        "height": 770,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/05_mckinsey_benchmarks-1870x770.png",
+        "width": 1870
+      },
+      "medium": {
+        "file": "05_mckinsey_benchmarks-300x163.png",
+        "filesize": 9179,
+        "height": 163,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/05_mckinsey_benchmarks-300x163.png",
+        "width": 300
+      },
+      "medium_featured": {
+        "file": "05_mckinsey_benchmarks-800x800.png",
+        "filesize": 38376,
+        "height": 800,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/05_mckinsey_benchmarks-800x800.png",
+        "width": 800
+      },
+      "medium_large": {
+        "file": "05_mckinsey_benchmarks-768x417.png",
+        "filesize": 35746,
+        "height": 417,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/05_mckinsey_benchmarks-768x417.png",
+        "width": 768
+      },
+      "nectar_small_square": {
+        "file": "05_mckinsey_benchmarks-140x140.png",
+        "filesize": 3646,
+        "height": 140,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/05_mckinsey_benchmarks-140x140.png",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "05_mckinsey_benchmarks-600x403.png",
+        "filesize": 26813,
+        "height": 403,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/05_mckinsey_benchmarks-600x403.png",
+        "width": 600
+      },
+      "portfolio-widget": {
+        "file": "05_mckinsey_benchmarks-100x100.png",
+        "filesize": 2240,
+        "height": 100,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/05_mckinsey_benchmarks-100x100.png",
+        "width": 100
+      },
+      "regular_small": {
+        "file": "05_mckinsey_benchmarks-350x350.png",
+        "filesize": 13026,
+        "height": 350,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/05_mckinsey_benchmarks-350x350.png",
+        "width": 350
+      },
+      "thumbnail": {
+        "file": "05_mckinsey_benchmarks-150x150.png",
+        "filesize": 3852,
+        "height": 150,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/05_mckinsey_benchmarks-150x150.png",
+        "width": 150
+      }
+    },
+    "width": 1967
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/png",
+  "missing_image_sizes": [],
+  "modified": "2026-04-19T15:27:07",
+  "modified_gmt": "2026-04-19T15:27:07",
+  "permalink_template": "https://strivesync.ai/artificial-intelligence/marketing-automation-ai/%postname%/",
+  "ping_status": "closed",
+  "post": 1791,
+  "slug": "05_mckinsey_benchmarks",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/05_mckinsey_benchmarks.png",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "05_mckinsey_benchmarks",
+    "rendered": "05_mckinsey_benchmarks"
+  },
+  "type": "attachment"
+}

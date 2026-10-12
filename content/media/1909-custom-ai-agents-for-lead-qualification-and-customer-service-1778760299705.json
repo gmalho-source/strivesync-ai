@@ -1,0 +1,222 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1909"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1909",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1909"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1909"
+      }
+    ]
+  },
+  "alt_text": "",
+  "author": 1,
+  "caption": {
+    "raw": "",
+    "rendered": ""
+  },
+  "class_list": [
+    "post-1909",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "",
+  "date": "2026-05-16T11:09:30",
+  "date_gmt": "2026-05-16T11:09:30",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2026/05/custom-ai-agents-for-lead-qualification-and-customer-service-1778760299705.png'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"200\" src=\"https://strivesync.ai/wp-content/uploads/2026/05/custom-ai-agents-for-lead-qualification-and-customer-service-1778760299705-300x200.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://strivesync.ai/wp-content/uploads/2026/05/custom-ai-agents-for-lead-qualification-and-customer-service-1778760299705-300x200.png 300w, https://strivesync.ai/wp-content/uploads/2026/05/custom-ai-agents-for-lead-qualification-and-customer-service-1778760299705-1024x683.png 1024w, https://strivesync.ai/wp-content/uploads/2026/05/custom-ai-agents-for-lead-qualification-and-customer-service-1778760299705-768x512.png 768w, https://strivesync.ai/wp-content/uploads/2026/05/custom-ai-agents-for-lead-qualification-and-customer-service-1778760299705.png 1536w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "custom-ai-agents-for-lead-qualification-and-customer-service-1778760299705.png",
+  "filesize": 1906910,
+  "generated_slug": "custom-ai-agents-for-lead-qualification-and-customer-service-1778760299705",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2026/05/custom-ai-agents-for-lead-qualification-and-customer-service-1778760299705.png",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2026/05/custom-ai-agents-for-lead-qualification-and-customer-service-1778760299705.png"
+  },
+  "id": 1909,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 82,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/custom-ai-agents-for-lead-qualification-and-customer-service-1778760299705/",
+  "media_details": {
+    "file": "2026/05/custom-ai-agents-for-lead-qualification-and-customer-service-1778760299705.png",
+    "filesize": 1906910,
+    "height": 1024,
+    "image_meta": {
+      "aperture": "0",
+      "camera": "",
+      "caption": "",
+      "copyright": "",
+      "created_timestamp": "0",
+      "credit": "",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [],
+      "orientation": "0",
+      "shutter_speed": "0",
+      "title": ""
+    },
+    "sizes": {
+      "full": {
+        "file": "custom-ai-agents-for-lead-qualification-and-customer-service-1778760299705.png",
+        "height": 1024,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/custom-ai-agents-for-lead-qualification-and-customer-service-1778760299705.png",
+        "width": 1536
+      },
+      "large": {
+        "file": "custom-ai-agents-for-lead-qualification-and-customer-service-1778760299705-1024x683.png",
+        "filesize": 894858,
+        "height": 683,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/custom-ai-agents-for-lead-qualification-and-customer-service-1778760299705-1024x683.png",
+        "width": 1024
+      },
+      "large_featured": {
+        "file": "custom-ai-agents-for-lead-qualification-and-customer-service-1778760299705-1536x770.png",
+        "filesize": 1549710,
+        "height": 770,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/custom-ai-agents-for-lead-qualification-and-customer-service-1778760299705-1536x770.png",
+        "width": 1536
+      },
+      "medium": {
+        "file": "custom-ai-agents-for-lead-qualification-and-customer-service-1778760299705-300x200.png",
+        "filesize": 98357,
+        "height": 200,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/custom-ai-agents-for-lead-qualification-and-customer-service-1778760299705-300x200.png",
+        "width": 300
+      },
+      "medium_featured": {
+        "file": "custom-ai-agents-for-lead-qualification-and-customer-service-1778760299705-800x800.png",
+        "filesize": 794259,
+        "height": 800,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/custom-ai-agents-for-lead-qualification-and-customer-service-1778760299705-800x800.png",
+        "width": 800
+      },
+      "medium_large": {
+        "file": "custom-ai-agents-for-lead-qualification-and-customer-service-1778760299705-768x512.png",
+        "filesize": 550209,
+        "height": 512,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/custom-ai-agents-for-lead-qualification-and-customer-service-1778760299705-768x512.png",
+        "width": 768
+      },
+      "nectar_small_square": {
+        "file": "custom-ai-agents-for-lead-qualification-and-customer-service-1778760299705-140x140.png",
+        "filesize": 36360,
+        "height": 140,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/custom-ai-agents-for-lead-qualification-and-customer-service-1778760299705-140x140.png",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "custom-ai-agents-for-lead-qualification-and-customer-service-1778760299705-600x403.png",
+        "filesize": 340446,
+        "height": 403,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/custom-ai-agents-for-lead-qualification-and-customer-service-1778760299705-600x403.png",
+        "width": 600
+      },
+      "portfolio-widget": {
+        "file": "custom-ai-agents-for-lead-qualification-and-customer-service-1778760299705-100x100.png",
+        "filesize": 20110,
+        "height": 100,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/custom-ai-agents-for-lead-qualification-and-customer-service-1778760299705-100x100.png",
+        "width": 100
+      },
+      "regular_small": {
+        "file": "custom-ai-agents-for-lead-qualification-and-customer-service-1778760299705-350x350.png",
+        "filesize": 181169,
+        "height": 350,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/custom-ai-agents-for-lead-qualification-and-customer-service-1778760299705-350x350.png",
+        "width": 350
+      },
+      "thumbnail": {
+        "file": "custom-ai-agents-for-lead-qualification-and-customer-service-1778760299705-150x150.png",
+        "filesize": 40938,
+        "height": 150,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/custom-ai-agents-for-lead-qualification-and-customer-service-1778760299705-150x150.png",
+        "width": 150
+      }
+    },
+    "width": 1536
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/png",
+  "missing_image_sizes": [],
+  "modified": "2026-05-16T11:09:30",
+  "modified_gmt": "2026-05-16T11:09:30",
+  "permalink_template": "https://strivesync.ai/?attachment_id=1909",
+  "ping_status": "closed",
+  "post": null,
+  "slug": "custom-ai-agents-for-lead-qualification-and-customer-service-1778760299705",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/custom-ai-agents-for-lead-qualification-and-customer-service-1778760299705.png",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "custom-ai-agents-for-lead-qualification-and-customer-service-1778760299705",
+    "rendered": "custom-ai-agents-for-lead-qualification-and-customer-service-1778760299705"
+  },
+  "type": "attachment"
+}

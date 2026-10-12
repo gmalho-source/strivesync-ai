@@ -1,0 +1,246 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1873"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1873",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1873"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1873"
+      }
+    ],
+    "wp:attached-to": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/posts/1855",
+        "id": 1855,
+        "post_type": "post"
+      }
+    ]
+  },
+  "alt_text": "",
+  "author": 1,
+  "caption": {
+    "raw": "",
+    "rendered": ""
+  },
+  "class_list": [
+    "post-1873",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "",
+  "date": "2026-05-08T20:22:45",
+  "date_gmt": "2026-05-08T20:22:45",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2026/05/04_platforms.png'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"185\" src=\"https://strivesync.ai/wp-content/uploads/2026/05/04_platforms-300x185.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://strivesync.ai/wp-content/uploads/2026/05/04_platforms-300x185.png 300w, https://strivesync.ai/wp-content/uploads/2026/05/04_platforms-1024x631.png 1024w, https://strivesync.ai/wp-content/uploads/2026/05/04_platforms-768x473.png 768w, https://strivesync.ai/wp-content/uploads/2026/05/04_platforms-1536x946.png 1536w, https://strivesync.ai/wp-content/uploads/2026/05/04_platforms-2048x1262.png 2048w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "04_platforms.png",
+  "filesize": 198268,
+  "generated_slug": "04_platforms",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2026/05/04_platforms.png",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2026/05/04_platforms.png"
+  },
+  "id": 1873,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 82,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/artificial-intelligence/custom-ai-agents/attachment/04_platforms/",
+  "media_details": {
+    "file": "2026/05/04_platforms.png",
+    "filesize": 198268,
+    "height": 1573,
+    "image_meta": {
+      "aperture": "0",
+      "camera": "",
+      "caption": "",
+      "copyright": "",
+      "created_timestamp": "0",
+      "credit": "",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [],
+      "orientation": "0",
+      "shutter_speed": "0",
+      "title": ""
+    },
+    "sizes": {
+      "1536x1536": {
+        "file": "04_platforms-1536x946.png",
+        "filesize": 142161,
+        "height": 946,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/04_platforms-1536x946.png",
+        "width": 1536
+      },
+      "2048x2048": {
+        "file": "04_platforms-2048x1262.png",
+        "filesize": 208709,
+        "height": 1262,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/04_platforms-2048x1262.png",
+        "width": 2048
+      },
+      "full": {
+        "file": "04_platforms.png",
+        "height": 1573,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/04_platforms.png",
+        "width": 2553
+      },
+      "large": {
+        "file": "04_platforms-1024x631.png",
+        "filesize": 82898,
+        "height": 631,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/04_platforms-1024x631.png",
+        "width": 1024
+      },
+      "large_featured": {
+        "file": "04_platforms-1870x770.png",
+        "filesize": 119528,
+        "height": 770,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/04_platforms-1870x770.png",
+        "width": 1870
+      },
+      "medium": {
+        "file": "04_platforms-300x185.png",
+        "filesize": 13845,
+        "height": 185,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/04_platforms-300x185.png",
+        "width": 300
+      },
+      "medium_featured": {
+        "file": "04_platforms-800x800.png",
+        "filesize": 85451,
+        "height": 800,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/04_platforms-800x800.png",
+        "width": 800
+      },
+      "medium_large": {
+        "file": "04_platforms-768x473.png",
+        "filesize": 54853,
+        "height": 473,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/04_platforms-768x473.png",
+        "width": 768
+      },
+      "nectar_small_square": {
+        "file": "04_platforms-140x140.png",
+        "filesize": 6873,
+        "height": 140,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/04_platforms-140x140.png",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "04_platforms-600x403.png",
+        "filesize": 42951,
+        "height": 403,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/04_platforms-600x403.png",
+        "width": 600
+      },
+      "portfolio-widget": {
+        "file": "04_platforms-100x100.png",
+        "filesize": 4051,
+        "height": 100,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/04_platforms-100x100.png",
+        "width": 100
+      },
+      "regular_small": {
+        "file": "04_platforms-350x350.png",
+        "filesize": 26731,
+        "height": 350,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/04_platforms-350x350.png",
+        "width": 350
+      },
+      "thumbnail": {
+        "file": "04_platforms-150x150.png",
+        "filesize": 7341,
+        "height": 150,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/04_platforms-150x150.png",
+        "width": 150
+      }
+    },
+    "width": 2553
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/png",
+  "missing_image_sizes": [],
+  "modified": "2026-05-08T20:22:45",
+  "modified_gmt": "2026-05-08T20:22:45",
+  "permalink_template": "https://strivesync.ai/artificial-intelligence/custom-ai-agents/%postname%/",
+  "ping_status": "closed",
+  "post": 1855,
+  "slug": "04_platforms",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/04_platforms.png",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "04_platforms",
+    "rendered": "04_platforms"
+  },
+  "type": "attachment"
+}

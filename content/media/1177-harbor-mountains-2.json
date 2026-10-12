@@ -1,0 +1,310 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1177"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1177",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1177"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1177"
+      }
+    ],
+    "wp:attached-to": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/pages/10",
+        "id": 10,
+        "post_type": "page"
+      }
+    ]
+  },
+  "alt_text": "",
+  "author": 1,
+  "caption": {
+    "raw": "",
+    "rendered": ""
+  },
+  "class_list": [
+    "post-1177",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "open",
+  "date": "2025-10-20T00:56:30",
+  "date_gmt": "2025-10-20T00:56:30",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2025/10/harbor-mountains-1.webp'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"199\" src=\"https://strivesync.ai/wp-content/uploads/2025/10/harbor-mountains-1-300x199.webp\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://strivesync.ai/wp-content/uploads/2025/10/harbor-mountains-1-300x199.webp 300w, https://strivesync.ai/wp-content/uploads/2025/10/harbor-mountains-1-1024x678.webp 1024w, https://strivesync.ai/wp-content/uploads/2025/10/harbor-mountains-1-768x509.webp 768w, https://strivesync.ai/wp-content/uploads/2025/10/harbor-mountains-1-1536x1017.webp 1536w, https://strivesync.ai/wp-content/uploads/2025/10/harbor-mountains-1-2048x1356.webp 2048w, https://strivesync.ai/wp-content/uploads/2025/10/harbor-mountains-1-900x600.webp 900w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "harbor-mountains-1.webp",
+  "filesize": 399908,
+  "generated_slug": "harbor-mountains",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2025/10/harbor-mountains-1.webp",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2025/10/harbor-mountains-1.webp"
+  },
+  "id": 1177,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 86,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/strivesync/attachment/harbor-mountains-2/",
+  "media_details": {
+    "file": "2025/10/harbor-mountains-1.webp",
+    "filesize": 399908,
+    "height": 1457,
+    "image_meta": {
+      "aperture": "0",
+      "camera": "",
+      "caption": "",
+      "copyright": "",
+      "created_timestamp": "0",
+      "credit": "",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [],
+      "orientation": "0",
+      "shutter_speed": "0",
+      "title": ""
+    },
+    "sizes": {
+      "1536x1536": {
+        "file": "harbor-mountains-1-1536x1017.webp",
+        "filesize": 137634,
+        "height": 1017,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/harbor-mountains-1-1536x1017.webp",
+        "width": 1536
+      },
+      "2048x2048": {
+        "file": "harbor-mountains-1-2048x1356.webp",
+        "filesize": 221760,
+        "height": 1356,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/harbor-mountains-1-2048x1356.webp",
+        "width": 2048
+      },
+      "full": {
+        "file": "harbor-mountains-1.webp",
+        "height": 1457,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/harbor-mountains-1.webp",
+        "width": 2200
+      },
+      "large": {
+        "file": "harbor-mountains-1-1024x678.webp",
+        "filesize": 66908,
+        "height": 678,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/harbor-mountains-1-1024x678.webp",
+        "width": 1024
+      },
+      "large_featured": {
+        "file": "harbor-mountains-1-1870x770.webp",
+        "filesize": 148968,
+        "height": 770,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/harbor-mountains-1-1870x770.webp",
+        "width": 1870
+      },
+      "medium": {
+        "file": "harbor-mountains-1-300x199.webp",
+        "filesize": 7884,
+        "height": 199,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/harbor-mountains-1-300x199.webp",
+        "width": 300
+      },
+      "medium_featured": {
+        "file": "harbor-mountains-1-800x800.webp",
+        "filesize": 65852,
+        "height": 800,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/harbor-mountains-1-800x800.webp",
+        "width": 800
+      },
+      "medium_large": {
+        "file": "harbor-mountains-1-768x509.webp",
+        "filesize": 40342,
+        "height": 509,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/harbor-mountains-1-768x509.webp",
+        "width": 768
+      },
+      "nectar_small_square": {
+        "file": "harbor-mountains-1-140x140.webp",
+        "filesize": 3168,
+        "height": 140,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/harbor-mountains-1-140x140.webp",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "harbor-mountains-1-600x403.webp",
+        "filesize": 26372,
+        "height": 403,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/harbor-mountains-1-600x403.webp",
+        "width": 600
+      },
+      "portfolio-thumb_large": {
+        "file": "harbor-mountains-1-900x604.webp",
+        "filesize": 56490,
+        "height": 604,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/harbor-mountains-1-900x604.webp",
+        "width": 900
+      },
+      "portfolio-thumb_small": {
+        "file": "harbor-mountains-1-400x269.webp",
+        "filesize": 12822,
+        "height": 269,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/harbor-mountains-1-400x269.webp",
+        "width": 400
+      },
+      "portfolio-widget": {
+        "file": "harbor-mountains-1-100x100.webp",
+        "filesize": 1864,
+        "height": 100,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/harbor-mountains-1-100x100.webp",
+        "width": 100
+      },
+      "regular": {
+        "file": "harbor-mountains-1-500x500.webp",
+        "filesize": 27352,
+        "height": 500,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/harbor-mountains-1-500x500.webp",
+        "width": 500
+      },
+      "regular_small": {
+        "file": "harbor-mountains-1-350x350.webp",
+        "filesize": 14296,
+        "height": 350,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/harbor-mountains-1-350x350.webp",
+        "width": 350
+      },
+      "tall": {
+        "file": "harbor-mountains-1-500x1000.webp",
+        "filesize": 48450,
+        "height": 1000,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/harbor-mountains-1-500x1000.webp",
+        "width": 500
+      },
+      "thumbnail": {
+        "file": "harbor-mountains-1-150x150.webp",
+        "filesize": 3406,
+        "height": 150,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/harbor-mountains-1-150x150.webp",
+        "width": 150
+      },
+      "wide": {
+        "file": "harbor-mountains-1-1000x500.webp",
+        "filesize": 56828,
+        "height": 500,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/harbor-mountains-1-1000x500.webp",
+        "width": 1000
+      },
+      "wide_photography": {
+        "file": "harbor-mountains-1-900x600.webp",
+        "filesize": 55950,
+        "height": 600,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/harbor-mountains-1-900x600.webp",
+        "width": 900
+      },
+      "wide_small": {
+        "file": "harbor-mountains-1-670x335.webp",
+        "filesize": 26044,
+        "height": 335,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/harbor-mountains-1-670x335.webp",
+        "width": 670
+      },
+      "wide_tall": {
+        "file": "harbor-mountains-1-1000x1000.webp",
+        "filesize": 95316,
+        "height": 1000,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/harbor-mountains-1-1000x1000.webp",
+        "width": 1000
+      }
+    },
+    "width": 2200
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/webp",
+  "missing_image_sizes": [],
+  "modified": "2025-10-20T00:56:30",
+  "modified_gmt": "2025-10-20T00:56:30",
+  "permalink_template": "https://strivesync.ai/strivesync/%postname%/",
+  "ping_status": "closed",
+  "post": 10,
+  "slug": "harbor-mountains-2",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2025/10/harbor-mountains-1.webp",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "harbor-mountains",
+    "rendered": "harbor-mountains"
+  },
+  "type": "attachment"
+}

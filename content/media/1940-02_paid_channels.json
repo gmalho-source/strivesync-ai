@@ -1,0 +1,247 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1940"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1940",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1940"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1940"
+      }
+    ],
+    "wp:attached-to": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/posts/1931",
+        "id": 1931,
+        "post_type": "post"
+      }
+    ]
+  },
+  "alt_text": "",
+  "author": 1,
+  "caption": {
+    "raw": "",
+    "rendered": ""
+  },
+  "class_list": [
+    "post-1940",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "",
+  "date": "2026-06-20T16:10:04",
+  "date_gmt": "2026-06-20T16:10:04",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2026/06/02_paid_channels.png'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"184\" src=\"https://strivesync.ai/wp-content/uploads/2026/06/02_paid_channels-300x184.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://strivesync.ai/wp-content/uploads/2026/06/02_paid_channels-300x184.png 300w, https://strivesync.ai/wp-content/uploads/2026/06/02_paid_channels-1024x627.png 1024w, https://strivesync.ai/wp-content/uploads/2026/06/02_paid_channels-768x471.png 768w, https://strivesync.ai/wp-content/uploads/2026/06/02_paid_channels-1536x941.png 1536w, https://strivesync.ai/wp-content/uploads/2026/06/02_paid_channels-2048x1255.png 2048w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "02_paid_channels.png",
+  "filesize": 200786,
+  "generated_slug": "02_paid_channels",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2026/06/02_paid_channels.png",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2026/06/02_paid_channels.png"
+  },
+  "id": 1940,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 82,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/artificial-intelligence/best-b2b-lead-generation-strategies-for-fast-scaling/attachment/02_paid_channels/",
+  "media_details": {
+    "file": "2026/06/02_paid_channels.png",
+    "filesize": 200786,
+    "height": 1422,
+    "image_meta": {
+      "alt": "",
+      "aperture": "0",
+      "camera": "",
+      "caption": "",
+      "copyright": "",
+      "created_timestamp": "0",
+      "credit": "",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [],
+      "orientation": "0",
+      "shutter_speed": "0",
+      "title": ""
+    },
+    "sizes": {
+      "1536x1536": {
+        "file": "02_paid_channels-1536x941.png",
+        "filesize": 184353,
+        "height": 941,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/02_paid_channels-1536x941.png",
+        "width": 1536
+      },
+      "2048x2048": {
+        "file": "02_paid_channels-2048x1255.png",
+        "filesize": 270123,
+        "height": 1255,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/02_paid_channels-2048x1255.png",
+        "width": 2048
+      },
+      "full": {
+        "file": "02_paid_channels.png",
+        "height": 1422,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/02_paid_channels.png",
+        "width": 2321
+      },
+      "large": {
+        "file": "02_paid_channels-1024x627.png",
+        "filesize": 107107,
+        "height": 627,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/02_paid_channels-1024x627.png",
+        "width": 1024
+      },
+      "large_featured": {
+        "file": "02_paid_channels-1870x770.png",
+        "filesize": 144349,
+        "height": 770,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/02_paid_channels-1870x770.png",
+        "width": 1870
+      },
+      "medium": {
+        "file": "02_paid_channels-300x184.png",
+        "filesize": 17735,
+        "height": 184,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/02_paid_channels-300x184.png",
+        "width": 300
+      },
+      "medium_featured": {
+        "file": "02_paid_channels-800x800.png",
+        "filesize": 117381,
+        "height": 800,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/02_paid_channels-800x800.png",
+        "width": 800
+      },
+      "medium_large": {
+        "file": "02_paid_channels-768x471.png",
+        "filesize": 72300,
+        "height": 471,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/02_paid_channels-768x471.png",
+        "width": 768
+      },
+      "nectar_small_square": {
+        "file": "02_paid_channels-140x140.png",
+        "filesize": 9139,
+        "height": 140,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/02_paid_channels-140x140.png",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "02_paid_channels-600x403.png",
+        "filesize": 57956,
+        "height": 403,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/02_paid_channels-600x403.png",
+        "width": 600
+      },
+      "portfolio-widget": {
+        "file": "02_paid_channels-100x100.png",
+        "filesize": 5327,
+        "height": 100,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/02_paid_channels-100x100.png",
+        "width": 100
+      },
+      "regular_small": {
+        "file": "02_paid_channels-350x350.png",
+        "filesize": 37704,
+        "height": 350,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/02_paid_channels-350x350.png",
+        "width": 350
+      },
+      "thumbnail": {
+        "file": "02_paid_channels-150x150.png",
+        "filesize": 10285,
+        "height": 150,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/02_paid_channels-150x150.png",
+        "width": 150
+      }
+    },
+    "width": 2321
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/png",
+  "missing_image_sizes": [],
+  "modified": "2026-06-20T16:10:04",
+  "modified_gmt": "2026-06-20T16:10:04",
+  "permalink_template": "https://strivesync.ai/artificial-intelligence/best-b2b-lead-generation-strategies-for-fast-scaling/%postname%/",
+  "ping_status": "closed",
+  "post": 1931,
+  "slug": "02_paid_channels",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2026/06/02_paid_channels.png",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "02_paid_channels",
+    "rendered": "02_paid_channels"
+  },
+  "type": "attachment"
+}

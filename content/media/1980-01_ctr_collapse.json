@@ -1,0 +1,239 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1980"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1980",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1980"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1980"
+      }
+    ],
+    "wp:attached-to": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/posts/1978",
+        "id": 1978,
+        "post_type": "post"
+      }
+    ]
+  },
+  "alt_text": "",
+  "author": 1,
+  "caption": {
+    "raw": "",
+    "rendered": ""
+  },
+  "class_list": [
+    "post-1980",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "closed",
+  "date": "2026-07-31T16:36:26",
+  "date_gmt": "2026-07-31T16:36:26",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2026/07/01_ctr_collapse.png'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"300\" src=\"https://strivesync.ai/wp-content/uploads/2026/07/01_ctr_collapse-300x300.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://strivesync.ai/wp-content/uploads/2026/07/01_ctr_collapse-300x300.png 300w, https://strivesync.ai/wp-content/uploads/2026/07/01_ctr_collapse-1024x1024.png 1024w, https://strivesync.ai/wp-content/uploads/2026/07/01_ctr_collapse-150x150.png 150w, https://strivesync.ai/wp-content/uploads/2026/07/01_ctr_collapse-768x768.png 768w, https://strivesync.ai/wp-content/uploads/2026/07/01_ctr_collapse-1536x1536.png 1536w, https://strivesync.ai/wp-content/uploads/2026/07/01_ctr_collapse-140x140.png 140w, https://strivesync.ai/wp-content/uploads/2026/07/01_ctr_collapse-100x100.png 100w, https://strivesync.ai/wp-content/uploads/2026/07/01_ctr_collapse-350x350.png 350w, https://strivesync.ai/wp-content/uploads/2026/07/01_ctr_collapse-800x800.png 800w, https://strivesync.ai/wp-content/uploads/2026/07/01_ctr_collapse.png 1781w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "01_ctr_collapse.png",
+  "filesize": 166094,
+  "generated_slug": "organic-ctr-collapses-when-al-overviews-appear",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2026/07/01_ctr_collapse.png",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2026/07/01_ctr_collapse.png"
+  },
+  "id": 1980,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 82,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/seo-geo/aio/attachment/01_ctr_collapse/",
+  "media_details": {
+    "file": "2026/07/01_ctr_collapse.png",
+    "filesize": 166094,
+    "height": 1781,
+    "image_meta": {
+      "alt": "",
+      "aperture": "0",
+      "camera": "",
+      "caption": "",
+      "copyright": "",
+      "created_timestamp": "0",
+      "credit": "",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [],
+      "orientation": "0",
+      "shutter_speed": "0",
+      "title": ""
+    },
+    "sizes": {
+      "1536x1536": {
+        "file": "01_ctr_collapse-1536x1536.png",
+        "filesize": 194904,
+        "height": 1536,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/01_ctr_collapse-1536x1536.png",
+        "width": 1536
+      },
+      "full": {
+        "file": "01_ctr_collapse.png",
+        "height": 1781,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/01_ctr_collapse.png",
+        "width": 1781
+      },
+      "large": {
+        "file": "01_ctr_collapse-1024x1024.png",
+        "filesize": 111986,
+        "height": 1024,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/01_ctr_collapse-1024x1024.png",
+        "width": 1024
+      },
+      "large_featured": {
+        "file": "01_ctr_collapse-1781x770.png",
+        "filesize": 51558,
+        "height": 770,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/01_ctr_collapse-1781x770.png",
+        "width": 1781
+      },
+      "medium": {
+        "file": "01_ctr_collapse-300x300.png",
+        "filesize": 20793,
+        "height": 300,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/01_ctr_collapse-300x300.png",
+        "width": 300
+      },
+      "medium_featured": {
+        "file": "01_ctr_collapse-800x800.png",
+        "filesize": 81203,
+        "height": 800,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/01_ctr_collapse-800x800.png",
+        "width": 800
+      },
+      "medium_large": {
+        "file": "01_ctr_collapse-768x768.png",
+        "filesize": 77041,
+        "height": 768,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/01_ctr_collapse-768x768.png",
+        "width": 768
+      },
+      "nectar_small_square": {
+        "file": "01_ctr_collapse-140x140.png",
+        "filesize": 6863,
+        "height": 140,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/01_ctr_collapse-140x140.png",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "01_ctr_collapse-600x403.png",
+        "filesize": 24331,
+        "height": 403,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/01_ctr_collapse-600x403.png",
+        "width": 600
+      },
+      "portfolio-widget": {
+        "file": "01_ctr_collapse-100x100.png",
+        "filesize": 4323,
+        "height": 100,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/01_ctr_collapse-100x100.png",
+        "width": 100
+      },
+      "regular_small": {
+        "file": "01_ctr_collapse-350x350.png",
+        "filesize": 25638,
+        "height": 350,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/01_ctr_collapse-350x350.png",
+        "width": 350
+      },
+      "thumbnail": {
+        "file": "01_ctr_collapse-150x150.png",
+        "filesize": 7544,
+        "height": 150,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/01_ctr_collapse-150x150.png",
+        "width": 150
+      }
+    },
+    "width": 1781
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/png",
+  "missing_image_sizes": [],
+  "modified": "2026-07-31T16:37:50",
+  "modified_gmt": "2026-07-31T16:37:50",
+  "permalink_template": "https://strivesync.ai/seo-geo/aio/%postname%/",
+  "ping_status": "closed",
+  "post": 1978,
+  "slug": "01_ctr_collapse",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/01_ctr_collapse.png",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "Organic CTR collapses when Al Overviews appear",
+    "rendered": "Organic CTR collapses when Al Overviews appear"
+  },
+  "type": "attachment"
+}

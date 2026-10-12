@@ -1,0 +1,342 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/pages"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "predecessor-version": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/pages/1559/revisions/1789",
+        "id": 1789
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1559"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/pages/1559",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "version-history": [
+      {
+        "count": 13,
+        "href": "https://strivesync.ai/wp-json/wp/v2/pages/1559/revisions"
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/pages/1559"
+      }
+    ],
+    "wp:action-publish": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/pages/1559"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/pages/1559"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media?parent=1559"
+      }
+    ]
+  },
+  "author": 1,
+  "class_list": [
+    "post-1559",
+    "page",
+    "type-page",
+    "status-publish"
+  ],
+  "comment_status": "closed",
+  "content": {
+    "block_version": 0,
+    "protected": false,
+    "raw": "[vc_row type=\"in_container\" full_screen_row_position=\"middle\" column_margin=\"default\" column_direction=\"default\" column_direction_tablet=\"default\" column_direction_phone=\"default\" scene_position=\"center\" text_color=\"dark\" text_align=\"left\" row_border_radius=\"none\" row_border_radius_applies=\"bg\" row_position_desktop=\"default\" row_position_tablet=\"inherit\" row_position_phone=\"inherit\" overflow=\"visible\" overlay_strength=\"0.3\" gradient_direction=\"left_to_right\" shape_divider_position=\"bottom\" bg_image_animation=\"none\"][vc_column column_padding=\"no-extra-padding\" column_padding_tablet=\"inherit\" column_padding_phone=\"inherit\" column_padding_position=\"all\" flex_gap_desktop=\"10px\" column_element_direction_desktop=\"default\" column_element_spacing=\"default\" desktop_text_alignment=\"default\" tablet_text_alignment=\"default\" phone_text_alignment=\"default\" background_color_opacity=\"1\" background_hover_color_opacity=\"1\" column_backdrop_filter=\"none\" column_shadow=\"none\" column_border_radius=\"none\" column_link_target=\"_self\" column_position=\"default\" gradient_direction=\"left_to_right\" overlay_strength=\"0.3\" width=\"1/1\" tablet_width_inherit=\"default\" animation_type=\"default\" bg_image_animation=\"none\" border_type=\"simple\" column_border_width=\"none\" column_border_style=\"solid\"][vc_row_inner column_margin=\"default\" column_direction=\"default\" column_direction_tablet=\"default\" column_direction_phone=\"default\" text_align=\"left\" row_position=\"default\" row_position_tablet=\"inherit\" row_position_phone=\"inherit\" overflow=\"visible\" pointer_events=\"all\"][vc_column_inner column_padding=\"padding-1-percent\" column_padding_tablet=\"inherit\" column_padding_phone=\"inherit\" column_padding_position=\"right\" column_element_direction_desktop=\"default\" column_element_spacing=\"default\" desktop_text_alignment=\"default\" tablet_text_alignment=\"default\" phone_text_alignment=\"default\" background_color_opacity=\"1\" background_hover_color_opacity=\"1\" column_backdrop_filter=\"none\" column_shadow=\"none\" column_border_radius=\"none\" column_link_target=\"_self\" overflow=\"visible\" gradient_direction=\"left_to_right\" overlay_strength=\"0.3\" width=\"1/2\" tablet_width_inherit=\"default\" animation_type=\"default\" bg_image_animation=\"none\" border_type=\"simple\" column_border_width=\"none\" column_border_style=\"solid\" column_padding_type=\"default\" content_layout=\"default\" gradient_type=\"default\"][nectar_responsive_text inherited_font_style=\"default\" text_direction=\"default\"]BLOG[/nectar_responsive_text][nectar_responsive_text inherited_font_style=\"default\" text_direction=\"default\"]\r\n<h3>Stay up to date with the latest insights through our blog posts</h3>\r\n[/nectar_responsive_text][/vc_column_inner][vc_column_inner column_padding=\"no-extra-padding\" column_padding_tablet=\"inherit\" column_padding_phone=\"inherit\" column_padding_position=\"all\" column_element_direction_desktop=\"default\" column_element_spacing=\"default\" desktop_text_alignment=\"default\" tablet_text_alignment=\"default\" phone_text_alignment=\"default\" background_color_opacity=\"1\" background_hover_color_opacity=\"1\" column_backdrop_filter=\"none\" column_shadow=\"small_depth\" column_border_radius=\"5px\" column_link_target=\"_self\" overflow=\"visible\" boxed=\"true\" gradient_direction=\"left_to_right\" overlay_strength=\"0.3\" width=\"1/2\" tablet_width_inherit=\"default\" animation_type=\"default\" bg_image_animation=\"none\" border_type=\"simple\" column_border_width=\"none\" column_border_style=\"solid\" column_padding_type=\"default\" content_layout=\"default\" gradient_type=\"default\"][vc_column_text css=\"\" text_direction=\"default\"]\r\n<h4>Looking for something? Try here.</h4>\r\n[wpdreams_ajaxsearchlite][/vc_column_text][/vc_column_inner][/vc_row_inner][nectar_post_grid post_type=\"post\" blog_category=\"all\" blog_starting_category=\"all\" order=\"DESC\" orderby=\"date\" pagination=\"load-more\" button_color=\"black\" columns=\"3\" columns_tablet=\"default\" columns_phone=\"default\" grid_item_spacing=\"5px\" grid_item_height=\"40vh\" enable_masonry=\"yes\" 3_col_masonry_layout=\"vert_staggered\" image_size=\"full\" image_loading=\"lazy-load\" animation=\"none\" animation_stagger=\"100\" animation_easing=\"easeInOutCubic\" heading_tag=\"default\" heading_tag_render=\"default\" font_size_min=\"16px\" font_size_max=\"24px\" enable_indicator=\"yes\" mouse_indicator_style=\"tooltip_text\" mouse_indicator_text=\"read\" mouse_indicator_color=\"rgba(255,255,255,0.25)\" mouse_indicator_text_color=\"#000000\" mouse_indicator_blurred_bg=\"yes\" display_categories=\"yes\" category_functionality=\"default\" category_position=\"default\" category_style=\"button\" category_display=\"parent_only\" display_date=\"yes\" display_author=\"yes\" author_functionality=\"default\" author_position=\"default\" additional_meta_size=\"small\" custom_fields_location=\"before_post_meta\" grid_style=\"content_overlaid\" text_content_layout=\"all_bottom_left_shadow\" color_overlay_opacity=\"0.3\" color_overlay_hover_opacity=\"0.4\" text_color=\"light\" text_color_hover=\"light\" text_opacity=\"1\" text_hover_opacity=\"1\" hover_effect=\"animated_underline_zoom\" border_radius=\"10px\" custom_font_size=\"1.3vw\" posts_per_page=\"9\" display_type=\"grid\" image_loading_lazy_skip=\"3\" font_line_height=\"1.4\"][/vc_column][/vc_row]",
+    "rendered": "[vc_row type=&#8221;in_container&#8221; full_screen_row_position=&#8221;middle&#8221; column_margin=&#8221;default&#8221; column_direction=&#8221;default&#8221; column_direction_tablet=&#8221;default&#8221; column_direction_phone=&#8221;default&#8221; scene_position=&#8221;center&#8221; text_color=&#8221;dark&#8221; text_align=&#8221;left&#8221; row_border_radius=&#8221;none&#8221; row_border_radius_applies=&#8221;bg&#8221; row_position_desktop=&#8221;default&#8221; row_position_tablet=&#8221;inherit&#8221; row_position_phone=&#8221;inherit&#8221; overflow=&#8221;visible&#8221; overlay_strength=&#8221;0.3&#8243; gradient_direction=&#8221;left_to_right&#8221; shape_divider_position=&#8221;bottom&#8221; bg_image_animation=&#8221;none&#8221;][vc_column column_padding=&#8221;no-extra-padding&#8221; column_padding_tablet=&#8221;inherit&#8221; column_padding_phone=&#8221;inherit&#8221; column_padding_position=&#8221;all&#8221; flex_gap_desktop=&#8221;10px&#8221; column_element_direction_desktop=&#8221;default&#8221; column_element_spacing=&#8221;default&#8221; desktop_text_alignment=&#8221;default&#8221; tablet_text_alignment=&#8221;default&#8221; phone_text_alignment=&#8221;default&#8221; background_color_opacity=&#8221;1&#8243; background_hover_color_opacity=&#8221;1&#8243; column_backdrop_filter=&#8221;none&#8221; column_shadow=&#8221;none&#8221; column_border_radius=&#8221;none&#8221; column_link_target=&#8221;_self&#8221; column_position=&#8221;default&#8221; gradient_direction=&#8221;left_to_right&#8221; overlay_strength=&#8221;0.3&#8243; width=&#8221;1/1&#8243; tablet_width_inherit=&#8221;default&#8221; animation_type=&#8221;default&#8221; bg_image_animation=&#8221;none&#8221; border_type=&#8221;simple&#8221; column_border_width=&#8221;none&#8221; column_border_style=&#8221;solid&#8221;][vc_row_inner column_margin=&#8221;default&#8221; column_direction=&#8221;default&#8221; column_direction_tablet=&#8221;default&#8221; column_direction_phone=&#8221;default&#8221; text_align=&#8221;left&#8221; row_position=&#8221;default&#8221; row_position_tablet=&#8221;inherit&#8221; row_position_phone=&#8221;inherit&#8221; overflow=&#8221;visible&#8221; pointer_events=&#8221;all&#8221;][vc_column_inner column_padding=&#8221;padding-1-percent&#8221; column_padding_tablet=&#8221;inherit&#8221; column_padding_phone=&#8221;inherit&#8221; column_padding_position=&#8221;right&#8221; column_element_direction_desktop=&#8221;default&#8221; column_element_spacing=&#8221;default&#8221; desktop_text_alignment=&#8221;default&#8221; tablet_text_alignment=&#8221;default&#8221; phone_text_alignment=&#8221;default&#8221; background_color_opacity=&#8221;1&#8243; background_hover_color_opacity=&#8221;1&#8243; column_backdrop_filter=&#8221;none&#8221; column_shadow=&#8221;none&#8221; column_border_radius=&#8221;none&#8221; column_link_target=&#8221;_self&#8221; overflow=&#8221;visible&#8221; gradient_direction=&#8221;left_to_right&#8221; overlay_strength=&#8221;0.3&#8243; width=&#8221;1/2&#8243; tablet_width_inherit=&#8221;default&#8221; animation_type=&#8221;default&#8221; bg_image_animation=&#8221;none&#8221; border_type=&#8221;simple&#8221; column_border_width=&#8221;none&#8221; column_border_style=&#8221;solid&#8221; column_padding_type=&#8221;default&#8221; content_layout=&#8221;default&#8221; gradient_type=&#8221;default&#8221;][nectar_responsive_text inherited_font_style=&#8221;default&#8221; text_direction=&#8221;default&#8221;]BLOG[/nectar_responsive_text][nectar_responsive_text inherited_font_style=&#8221;default&#8221; text_direction=&#8221;default&#8221;]\n<h3>Stay up to date with the latest insights through our blog posts</h3>\n[/nectar_responsive_text][/vc_column_inner][vc_column_inner column_padding=&#8221;no-extra-padding&#8221; column_padding_tablet=&#8221;inherit&#8221; column_padding_phone=&#8221;inherit&#8221; column_padding_position=&#8221;all&#8221; column_element_direction_desktop=&#8221;default&#8221; column_element_spacing=&#8221;default&#8221; desktop_text_alignment=&#8221;default&#8221; tablet_text_alignment=&#8221;default&#8221; phone_text_alignment=&#8221;default&#8221; background_color_opacity=&#8221;1&#8243; background_hover_color_opacity=&#8221;1&#8243; column_backdrop_filter=&#8221;none&#8221; column_shadow=&#8221;small_depth&#8221; column_border_radius=&#8221;5px&#8221; column_link_target=&#8221;_self&#8221; overflow=&#8221;visible&#8221; boxed=&#8221;true&#8221; gradient_direction=&#8221;left_to_right&#8221; overlay_strength=&#8221;0.3&#8243; width=&#8221;1/2&#8243; tablet_width_inherit=&#8221;default&#8221; animation_type=&#8221;default&#8221; bg_image_animation=&#8221;none&#8221; border_type=&#8221;simple&#8221; column_border_width=&#8221;none&#8221; column_border_style=&#8221;solid&#8221; column_padding_type=&#8221;default&#8221; content_layout=&#8221;default&#8221; gradient_type=&#8221;default&#8221;][vc_column_text css=&#8221;&#8221; text_direction=&#8221;default&#8221;]\n<h4>Looking for something? Try here.</h4>\n<div class=\"asl_w_container asl_w_container_2\" data-id=\"2\" data-instance=\"1\">\n\t<div id='ajaxsearchlite2'\n\t\tdata-id=\"2\"\n\t\tdata-instance=\"1\"\n\t\tclass=\"asl_w asl_m asl_m_2 asl_m_2_1\">\n\t\t<div class=\"probox\">\n\n\t\n\t<div class='prosettings' style='display:none;' data-opened=0>\n\t\t\t\t<div class='innericon'>\n\t\t\t<svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\" width=\"22\" height=\"22\" viewBox=\"0 0 512 512\" enable-background=\"new 0 0 512 512\" xml:space=\"preserve\">\n\t\t\t\t\t<polygon transform = \"rotate(90 256 256)\" points=\"142.332,104.886 197.48,50 402.5,256 197.48,462 142.332,407.113 292.727,256 \"/>\n\t\t\t\t</svg>\n\t\t</div>\n\t</div>\n\n\t\n\t\n\t<div class='proinput'>\n\t\t<form role=\"search\" action='#' autocomplete=\"off\"\n\t\t\t\taria-label=\"Search form\">\n\t\t\t<input aria-label=\"Search input\"\n\t\t\t\t\ttype='search' class='orig'\n\t\t\t\t\ttabindex=\"0\"\n\t\t\t\t\tname='phrase'\n\t\t\t\t\tplaceholder='Search here..'\n\t\t\t\t\tvalue=''\n\t\t\t\t\tautocomplete=\"off\"/>\n\t\t\t<input aria-label=\"Search autocomplete\"\n\t\t\t\t\ttype='text'\n\t\t\t\t\tclass='autocomplete'\n\t\t\t\t\ttabindex=\"-1\"\n\t\t\t\t\tname='phrase'\n\t\t\t\t\tvalue=''\n\t\t\t\t\tautocomplete=\"off\" disabled/>\n\t\t\t<input type='submit' value=\"Start search\" style='width:0; height: 0; visibility: hidden;'>\n\t\t</form>\n\t</div>\n\n\t\n\t\n\t<button class='promagnifier' tabindex=\"0\" aria-label=\"Search magnifier\">\n\t\t\t\t<span class='innericon' style=\"display:block;\">\n\t\t\t<svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\" width=\"22\" height=\"22\" viewBox=\"0 0 512 512\" enable-background=\"new 0 0 512 512\" xml:space=\"preserve\">\n\t\t\t\t\t<path d=\"M460.355,421.59L353.844,315.078c20.041-27.553,31.885-61.437,31.885-98.037\n\t\t\t\t\t\tC385.729,124.934,310.793,50,218.686,50C126.58,50,51.645,124.934,51.645,217.041c0,92.106,74.936,167.041,167.041,167.041\n\t\t\t\t\t\tc34.912,0,67.352-10.773,94.184-29.158L419.945,462L460.355,421.59z M100.631,217.041c0-65.096,52.959-118.056,118.055-118.056\n\t\t\t\t\t\tc65.098,0,118.057,52.959,118.057,118.056c0,65.096-52.959,118.056-118.057,118.056C153.59,335.097,100.631,282.137,100.631,217.041\n\t\t\t\t\t\tz\"/>\n\t\t\t\t</svg>\n\t\t</span>\n\t</button>\n\n\t\n\t\n\t<div class='proloading'>\n\n\t\t<div class=\"asl_loader\"><div class=\"asl_loader-inner asl_simple-circle\"></div></div>\n\n\t\t\t</div>\n\n\t\t\t<div class='proclose'>\n\t\t\t<svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\"\n\t\t\t\ty=\"0px\"\n\t\t\t\twidth=\"12\" height=\"12\" viewBox=\"0 0 512 512\" enable-background=\"new 0 0 512 512\"\n\t\t\t\txml:space=\"preserve\">\n\t\t\t\t<polygon points=\"438.393,374.595 319.757,255.977 438.378,137.348 374.595,73.607 255.995,192.225 137.375,73.622 73.607,137.352 192.246,255.983 73.622,374.625 137.352,438.393 256.002,319.734 374.652,438.378 \"/>\n\t\t\t</svg>\n\t\t</div>\n\t\n\t\n</div>\t</div>\n\t<div class='asl_data_container' style=\"display:none !important;\">\n\t\t<div class=\"asl_init_data wpdreams_asl_data_ct\"\n\tstyle=\"display:none !important;\"\n\tid=\"asl_init_id_2\"\n\tdata-asl-id=\"2\"\n\tdata-asl-instance=\"1\"\n\tdata-settings=\"{&quot;homeurl&quot;:&quot;https:\\/\\/strivesync.ai\\/&quot;,&quot;resultstype&quot;:&quot;vertical&quot;,&quot;resultsposition&quot;:&quot;hover&quot;,&quot;itemscount&quot;:4,&quot;charcount&quot;:0,&quot;minWordLength&quot;:2,&quot;highlight&quot;:false,&quot;highlightWholewords&quot;:true,&quot;singleHighlight&quot;:false,&quot;scrollToResults&quot;:{&quot;enabled&quot;:false,&quot;offset&quot;:0},&quot;resultareaclickable&quot;:1,&quot;autocomplete&quot;:{&quot;enabled&quot;:true,&quot;lang&quot;:&quot;en&quot;,&quot;trigger_charcount&quot;:0},&quot;mobile&quot;:{&quot;menu_selector&quot;:&quot;#menu-toggle, .menu-toggle&quot;},&quot;trigger&quot;:{&quot;click&quot;:&quot;results_page&quot;,&quot;click_location&quot;:&quot;same&quot;,&quot;update_href&quot;:false,&quot;return&quot;:&quot;results_page&quot;,&quot;return_location&quot;:&quot;same&quot;,&quot;facet&quot;:true,&quot;type&quot;:true,&quot;redirect_url&quot;:&quot;?s={phrase}&quot;,&quot;delay&quot;:300},&quot;animations&quot;:{&quot;pc&quot;:{&quot;settings&quot;:{&quot;anim&quot;:&quot;fadedrop&quot;,&quot;dur&quot;:300},&quot;results&quot;:{&quot;anim&quot;:&quot;fadedrop&quot;,&quot;dur&quot;:300},&quot;items&quot;:&quot;voidanim&quot;},&quot;mob&quot;:{&quot;settings&quot;:{&quot;anim&quot;:&quot;fadedrop&quot;,&quot;dur&quot;:300},&quot;results&quot;:{&quot;anim&quot;:&quot;fadedrop&quot;,&quot;dur&quot;:300},&quot;items&quot;:&quot;voidanim&quot;}},&quot;autop&quot;:{&quot;state&quot;:true,&quot;phrase&quot;:&quot;&quot;,&quot;count&quot;:&quot;1&quot;},&quot;resPage&quot;:{&quot;useAjax&quot;:false,&quot;selector&quot;:&quot;#main&quot;,&quot;trigger_type&quot;:true,&quot;trigger_facet&quot;:true,&quot;trigger_magnifier&quot;:false,&quot;trigger_return&quot;:false},&quot;resultsSnapTo&quot;:&quot;left&quot;,&quot;results&quot;:{&quot;width&quot;:&quot;auto&quot;,&quot;width_tablet&quot;:&quot;auto&quot;,&quot;width_phone&quot;:&quot;auto&quot;},&quot;settingsimagepos&quot;:&quot;right&quot;,&quot;closeOnDocClick&quot;:true,&quot;overridewpdefault&quot;:true,&quot;override_method&quot;:&quot;get&quot;}\"></div>\n\t</div>\n\n\t<div id='ajaxsearchliteres2'\n\tclass='vertical wpdreams_asl_results asl_w asl_r asl_r_2 asl_r_2_1'>\n\n\t\n\t<div class=\"results\">\n\n\t\t\n\t\t<div class=\"resdrg\">\n\t\t</div>\n\n\t\t\n\t</div>\n\n\t\n\t\n</div>\n\n\t<div id='__original__ajaxsearchlitesettings2'\n\t\tdata-id=\"2\"\n\t\tclass=\"searchsettings wpdreams_asl_settings asl_w asl_s asl_s_2\">\n\t\t<form name='options'\n\t\taria-label=\"Search settings form\"\n\t\tautocomplete = 'off'>\n\n\t\n\t\n\t<input type=\"hidden\" name=\"filters_changed\" style=\"display:none;\" value=\"0\">\n\t<input type=\"hidden\" name=\"filters_initial\" style=\"display:none;\" value=\"1\">\n\n\t<div class=\"asl_option_inner hiddend\">\n\t\t<input type='hidden' name='qtranslate_lang' id='qtranslate_lang'\n\t\t\t\tvalue='0'/>\n\t</div>\n\n\t\n\t\n\t<fieldset class=\"asl_sett_scroll\">\n\t\t<legend style=\"display: none;\">Generic selectors</legend>\n\t\t<div class=\"asl_option\" tabindex=\"0\">\n\t\t\t<div class=\"asl_option_inner\">\n\t\t\t\t<input type=\"checkbox\" value=\"exact\"\n\t\t\t\t\t\taria-label=\"Exact matches only\"\n\t\t\t\t\t\tname=\"asl_gen[]\" />\n\t\t\t\t<div class=\"asl_option_checkbox\"></div>\n\t\t\t</div>\n\t\t\t<div class=\"asl_option_label\">\n\t\t\t\tExact matches only\t\t\t</div>\n\t\t</div>\n\t\t<div class=\"asl_option\" tabindex=\"0\">\n\t\t\t<div class=\"asl_option_inner\">\n\t\t\t\t<input type=\"checkbox\" value=\"title\"\n\t\t\t\t\t\taria-label=\"Search in title\"\n\t\t\t\t\t\tname=\"asl_gen[]\"  checked=\"checked\"/>\n\t\t\t\t<div class=\"asl_option_checkbox\"></div>\n\t\t\t</div>\n\t\t\t<div class=\"asl_option_label\">\n\t\t\t\tSearch in title\t\t\t</div>\n\t\t</div>\n\t\t<div class=\"asl_option\" tabindex=\"0\">\n\t\t\t<div class=\"asl_option_inner\">\n\t\t\t\t<input type=\"checkbox\" value=\"content\"\n\t\t\t\t\t\taria-label=\"Search in content\"\n\t\t\t\t\t\tname=\"asl_gen[]\"  checked=\"checked\"/>\n\t\t\t\t<div class=\"asl_option_checkbox\"></div>\n\t\t\t</div>\n\t\t\t<div class=\"asl_option_label\">\n\t\t\t\tSearch in content\t\t\t</div>\n\t\t</div>\n\t\t<div class=\"asl_option_inner hiddend\">\n\t\t\t<input type=\"checkbox\" value=\"excerpt\"\n\t\t\t\t\taria-label=\"Search in excerpt\"\n\t\t\t\t\tname=\"asl_gen[]\"  checked=\"checked\"/>\n\t\t\t<div class=\"asl_option_checkbox\"></div>\n\t\t</div>\n\t</fieldset>\n\t<fieldset class=\"asl_sett_scroll\">\n\t\t<legend style=\"display: none;\">Post Type Selectors</legend>\n\t\t\t\t\t<div class=\"asl_option_inner hiddend\">\n\t\t\t\t<input type=\"checkbox\" value=\"post\"\n\t\t\t\t\t\taria-label=\"Hidden option, ignore please\"\n\t\t\t\t\t\tname=\"customset[]\" checked=\"checked\"/>\n\t\t\t</div>\n\t\t\t\t</fieldset>\n\t</form>\n\t</div>\n</div>\n[/vc_column_text][/vc_column_inner][/vc_row_inner][nectar_post_grid post_type=&#8221;post&#8221; blog_category=&#8221;all&#8221; blog_starting_category=&#8221;all&#8221; order=&#8221;DESC&#8221; orderby=&#8221;date&#8221; pagination=&#8221;load-more&#8221; button_color=&#8221;black&#8221; columns=&#8221;3&#8243; columns_tablet=&#8221;default&#8221; columns_phone=&#8221;default&#8221; grid_item_spacing=&#8221;5px&#8221; grid_item_height=&#8221;40vh&#8221; enable_masonry=&#8221;yes&#8221; 3_col_masonry_layout=&#8221;vert_staggered&#8221; image_size=&#8221;full&#8221; image_loading=&#8221;lazy-load&#8221; animation=&#8221;none&#8221; animation_stagger=&#8221;100&#8243; animation_easing=&#8221;easeInOutCubic&#8221; heading_tag=&#8221;default&#8221; heading_tag_render=&#8221;default&#8221; font_size_min=&#8221;16px&#8221; font_size_max=&#8221;24px&#8221; enable_indicator=&#8221;yes&#8221; mouse_indicator_style=&#8221;tooltip_text&#8221; mouse_indicator_text=&#8221;read&#8221; mouse_indicator_color=&#8221;rgba(255,255,255,0.25)&#8221; mouse_indicator_text_color=&#8221;#000000&#8243; mouse_indicator_blurred_bg=&#8221;yes&#8221; display_categories=&#8221;yes&#8221; category_functionality=&#8221;default&#8221; category_position=&#8221;default&#8221; category_style=&#8221;button&#8221; category_display=&#8221;parent_only&#8221; display_date=&#8221;yes&#8221; display_author=&#8221;yes&#8221; author_functionality=&#8221;default&#8221; author_position=&#8221;default&#8221; additional_meta_size=&#8221;small&#8221; custom_fields_location=&#8221;before_post_meta&#8221; grid_style=&#8221;content_overlaid&#8221; text_content_layout=&#8221;all_bottom_left_shadow&#8221; color_overlay_opacity=&#8221;0.3&#8243; color_overlay_hover_opacity=&#8221;0.4&#8243; text_color=&#8221;light&#8221; text_color_hover=&#8221;light&#8221; text_opacity=&#8221;1&#8243; text_hover_opacity=&#8221;1&#8243; hover_effect=&#8221;animated_underline_zoom&#8221; border_radius=&#8221;10px&#8221; custom_font_size=&#8221;1.3vw&#8221; posts_per_page=&#8221;9&#8243; display_type=&#8221;grid&#8221; image_loading_lazy_skip=&#8221;3&#8243; font_line_height=&#8221;1.4&#8243;][/vc_column][/vc_row]\n"
+  },
+  "date": "2026-03-29T20:58:27",
+  "date_gmt": "2026-03-29T20:58:27",
+  "excerpt": {
+    "protected": false,
+    "raw": "",
+    "rendered": "<p>[vc_row type=&#8221;in_container&#8221; full_screen_row_position=&#8221;middle&#8221; column_margin=&#8221;default&#8221; column_direction=&#8221;default&#8221; column_direction_tablet=&#8221;default&#8221; column_direction_phone=&#8221;default&#8221; scene_position=&#8221;center&#8221; text_color=&#8221;dark&#8221; text_align=&#8221;left&#8221; row_border_radius=&#8221;none&#8221; row_border_radius_applies=&#8221;bg&#8221; row_position_desktop=&#8221;default&#8221; row_position_tablet=&#8221;inherit&#8221; row_position_phone=&#8221;inherit&#8221; overflow=&#8221;visible&#8221; overlay_strength=&#8221;0.3&#8243; gradient_direction=&#8221;left_to_right&#8221; shape_divider_position=&#8221;bottom&#8221; bg_image_animation=&#8221;none&#8221;][vc_column column_padding=&#8221;no-extra-padding&#8221; column_padding_tablet=&#8221;inherit&#8221; column_padding_phone=&#8221;inherit&#8221; column_padding_position=&#8221;all&#8221; flex_gap_desktop=&#8221;10px&#8221; column_element_direction_desktop=&#8221;default&#8221; column_element_spacing=&#8221;default&#8221; desktop_text_alignment=&#8221;default&#8221; tablet_text_alignment=&#8221;default&#8221; phone_text_alignment=&#8221;default&#8221;&#8230;</p>\n"
+  },
+  "featured_media": 0,
+  "generated_slug": "blog",
+  "guid": {
+    "raw": "https://strivesync.ai/?page_id=1559",
+    "rendered": "https://strivesync.ai/?page_id=1559"
+  },
+  "id": 1559,
+  "link": "https://strivesync.ai/blog/",
+  "menu_order": 0,
+  "meta": {
+    "footnotes": "",
+    "inline_featured_image": false
+  },
+  "modified": "2026-04-14T19:38:27",
+  "modified_gmt": "2026-04-14T19:38:27",
+  "parent": 0,
+  "password": "",
+  "permalink_template": "https://strivesync.ai/%pagename%/",
+  "ping_status": "closed",
+  "slug": "blog",
+  "status": "publish",
+  "template": "",
+  "title": {
+    "raw": "Blog",
+    "rendered": "Blog"
+  },
+  "type": "page",
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO Premium plugin v28.6 (Yoast SEO v28.6) - https://yoast.com/product/yoast-seo-premium-wordpress/ -->\n<title>Blog - Strivesync | AI-Native Marketing &amp; Sales Systems</title>\n<meta name=\"description\" content=\"Strivesync AI is a Dubai-based agency building AI-powered marketing and sales systems for ambitious companies. We implement custom AI agents, automate CRM and lead workflows, and run performance and content marketing — so growth scales without the headcount.\" class=\"yoast-seo-meta-tag\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://strivesync.ai/blog/\" class=\"yoast-seo-meta-tag\" />\n<meta property=\"og:locale\" content=\"en_US\" class=\"yoast-seo-meta-tag\" />\n<meta property=\"og:type\" content=\"article\" class=\"yoast-seo-meta-tag\" />\n<meta property=\"og:title\" content=\"Blog\" class=\"yoast-seo-meta-tag\" />\n<meta property=\"og:description\" content=\"Strivesync AI is a Dubai-based agency building AI-powered marketing and sales systems for ambitious companies. We implement custom AI agents, automate CRM and lead workflows, and run performance and content marketing — so growth scales without the headcount.\" class=\"yoast-seo-meta-tag\" />\n<meta property=\"og:url\" content=\"https://strivesync.ai/blog/\" class=\"yoast-seo-meta-tag\" />\n<meta property=\"og:site_name\" content=\"Strivesync | AI-Native Marketing &amp; Sales Systems\" class=\"yoast-seo-meta-tag\" />\n<meta property=\"article:publisher\" content=\"https://www.facebook.com/profile.php?id=61576383355831\" class=\"yoast-seo-meta-tag\" />\n<meta property=\"article:modified_time\" content=\"2026-04-14T19:38:27+00:00\" class=\"yoast-seo-meta-tag\" />\n<meta property=\"og:image\" content=\"https://strivesync.ai/wp-content/uploads/2026/04/Marketing-Automation-artice-cover-ad-Strivesync-AI-web.jpg\" class=\"yoast-seo-meta-tag\" />\n\t<meta property=\"og:image:width\" content=\"2000\" class=\"yoast-seo-meta-tag\" />\n\t<meta property=\"og:image:height\" content=\"1000\" class=\"yoast-seo-meta-tag\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" class=\"yoast-seo-meta-tag\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" class=\"yoast-seo-meta-tag\" />\n<meta name=\"twitter:label1\" content=\"Est. reading time\" class=\"yoast-seo-meta-tag\" />\n\t<meta name=\"twitter:data1\" content=\"3 minutes\" class=\"yoast-seo-meta-tag\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"https:\\/\\/strivesync.ai\\/blog\\/#article\",\"isPartOf\":{\"@id\":\"https:\\/\\/strivesync.ai\\/blog\\/\"},\"author\":{\"name\":\"Strivesync\",\"@id\":\"https:\\/\\/strivesync.ai\\/#\\/schema\\/person\\/603cc8da17aa90fbb410a11030b63615\"},\"headline\":\"Blog\",\"datePublished\":\"2026-03-29T20:58:27+00:00\",\"dateModified\":\"2026-04-14T19:38:27+00:00\",\"mainEntityOfPage\":{\"@id\":\"https:\\/\\/strivesync.ai\\/blog\\/\"},\"wordCount\":675,\"publisher\":{\"@id\":\"https:\\/\\/strivesync.ai\\/#organization\"},\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/strivesync.ai\\/blog\\/\",\"url\":\"https:\\/\\/strivesync.ai\\/blog\\/\",\"name\":\"Blog - Strivesync | AI-Native Marketing &amp; Sales Systems\",\"isPartOf\":{\"@id\":\"https:\\/\\/strivesync.ai\\/#website\"},\"datePublished\":\"2026-03-29T20:58:27+00:00\",\"dateModified\":\"2026-04-14T19:38:27+00:00\",\"description\":\"Strivesync AI is a Dubai-based agency building AI-powered marketing and sales systems for ambitious companies. We implement custom AI agents, automate CRM and lead workflows, and run performance and content marketing — so growth scales without the headcount.\",\"breadcrumb\":{\"@id\":\"https:\\/\\/strivesync.ai\\/blog\\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/strivesync.ai\\/blog\\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/strivesync.ai\\/blog\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/strivesync.ai\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/strivesync.ai\\/#website\",\"url\":\"https:\\/\\/strivesync.ai\\/\",\"name\":\"Strivesync - AI Powered Marketing & Sales Systems\",\"description\":\"AI-Native Systems\",\"publisher\":{\"@id\":\"https:\\/\\/strivesync.ai\\/#organization\"},\"alternateName\":\"Strivesync UAE\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/strivesync.ai\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":[\"Organization\",\"Place\"],\"@id\":\"https:\\/\\/strivesync.ai\\/#organization\",\"name\":\"Strivesync Digital Solutions FZCO\",\"alternateName\":\"Strivesync UAE\",\"url\":\"https:\\/\\/strivesync.ai\\/\",\"logo\":{\"@id\":\"https:\\/\\/strivesync.ai\\/services\\/website-development\\/#local-main-organization-logo\"},\"image\":{\"@id\":\"https:\\/\\/strivesync.ai\\/services\\/website-development\\/#local-main-organization-logo\"},\"sameAs\":[\"https:\\/\\/www.facebook.com\\/profile.php?id=61576383355831\",\"https:\\/\\/www.instagram.com\\/strivesync.ai\",\"https:\\/\\/www.linkedin.com\\/company\\/strivesync\\/\",\"https:\\/\\/www.youtube.com\\/@Strivesync-ai\"],\"description\":\"Strivesync AI is a Dubai-based agency building AI-powered marketing and sales systems for ambitious companies. We implement custom AI agents, automate CRM and lead workflows, and run performance and content marketing — so growth scales without the headcount.\",\"legalName\":\"STRIVESYNC DIGITAL SOLUTIONS - FZCO\",\"foundingDate\":\"2026-05-23\",\"numberOfEmployees\":{\"@type\":\"QuantitativeValue\",\"minValue\":\"1\",\"maxValue\":\"10\"},\"ownershipFundingInfo\":\"https:\\/\\/strivesync.ai\\/about-strivesync\\/\",\"actionableFeedbackPolicy\":\"https:\\/\\/strivesync.ai\\/privacy-policy\\/\",\"telephone\":[\"+971 541727842\"],\"openingHoursSpecification\":[{\"@type\":\"OpeningHoursSpecification\",\"dayOfWeek\":[\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\"],\"opens\":\"09:00\",\"closes\":\"17:00\"},{\"@type\":\"OpeningHoursSpecification\",\"dayOfWeek\":[\"Saturday\",\"Sunday\"],\"opens\":\"00:00\",\"closes\":\"00:00\"}],\"email\":\"hello@strivesync.ai\",\"areaServed\":\"United Arab Emirates\"},{\"@type\":\"Person\",\"@id\":\"https:\\/\\/strivesync.ai\\/#\\/schema\\/person\\/603cc8da17aa90fbb410a11030b63615\",\"name\":\"Strivesync\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/secure.gravatar.com\\/avatar\\/02d86002d8e6f017a99429de1155b7e15458658b71b7d44b8ae88d73a3b66568?s=96&d=mm&r=g\",\"url\":\"https:\\/\\/secure.gravatar.com\\/avatar\\/02d86002d8e6f017a99429de1155b7e15458658b71b7d44b8ae88d73a3b66568?s=96&d=mm&r=g\",\"contentUrl\":\"https:\\/\\/secure.gravatar.com\\/avatar\\/02d86002d8e6f017a99429de1155b7e15458658b71b7d44b8ae88d73a3b66568?s=96&d=mm&r=g\",\"caption\":\"Strivesync\"},\"sameAs\":[\"https:\\/\\/strivesync.ai\"],\"url\":\"https:\\/\\/strivesync.ai\\/author\\/admin_t8vyprfv\\/\"},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/strivesync.ai\\/blog\\/#local-main-organization-logo\",\"url\":\"https:\\/\\/strivesync.ai\\/wp-content\\/uploads\\/2026\\/05\\/strivesync-Logo-Square.png\",\"contentUrl\":\"https:\\/\\/strivesync.ai\\/wp-content\\/uploads\\/2026\\/05\\/strivesync-Logo-Square.png\",\"width\":1080,\"height\":1080,\"caption\":\"Strivesync Digital Solutions FZCO\"}]}</script>\n<meta name=\"geo.placename\" content=\"Dubai\" class=\"yoast-seo-meta-tag\" />\n<!-- / Yoast SEO Premium plugin. -->",
+  "yoast_head_json": {
+    "article_modified_time": "2026-04-14T19:38:27+00:00",
+    "article_publisher": "https://www.facebook.com/profile.php?id=61576383355831",
+    "canonical": "https://strivesync.ai/blog/",
+    "description": "Strivesync AI is a Dubai-based agency building AI-powered marketing and sales systems for ambitious companies. We implement custom AI agents, automate CRM and lead workflows, and run performance and content marketing — so growth scales without the headcount.",
+    "geo.placename": "Dubai",
+    "og_description": "Strivesync AI is a Dubai-based agency building AI-powered marketing and sales systems for ambitious companies. We implement custom AI agents, automate CRM and lead workflows, and run performance and content marketing — so growth scales without the headcount.",
+    "og_image": [
+      {
+        "height": 1000,
+        "type": "image/jpeg",
+        "url": "https://strivesync.ai/wp-content/uploads/2026/04/Marketing-Automation-artice-cover-ad-Strivesync-AI-web.jpg",
+        "width": 2000
+      }
+    ],
+    "og_locale": "en_US",
+    "og_site_name": "Strivesync | AI-Native Marketing &amp; Sales Systems",
+    "og_title": "Blog",
+    "og_type": "article",
+    "og_url": "https://strivesync.ai/blog/",
+    "robots": {
+      "follow": "follow",
+      "index": "index",
+      "max-image-preview": "max-image-preview:large",
+      "max-snippet": "max-snippet:-1",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@id": "https://strivesync.ai/blog/#article",
+          "@type": "Article",
+          "author": {
+            "@id": "https://strivesync.ai/#/schema/person/603cc8da17aa90fbb410a11030b63615",
+            "name": "Strivesync"
+          },
+          "dateModified": "2026-04-14T19:38:27+00:00",
+          "datePublished": "2026-03-29T20:58:27+00:00",
+          "headline": "Blog",
+          "inLanguage": "en-US",
+          "isPartOf": {
+            "@id": "https://strivesync.ai/blog/"
+          },
+          "mainEntityOfPage": {
+            "@id": "https://strivesync.ai/blog/"
+          },
+          "publisher": {
+            "@id": "https://strivesync.ai/#organization"
+          },
+          "wordCount": 675
+        },
+        {
+          "@id": "https://strivesync.ai/blog/",
+          "@type": "WebPage",
+          "breadcrumb": {
+            "@id": "https://strivesync.ai/blog/#breadcrumb"
+          },
+          "dateModified": "2026-04-14T19:38:27+00:00",
+          "datePublished": "2026-03-29T20:58:27+00:00",
+          "description": "Strivesync AI is a Dubai-based agency building AI-powered marketing and sales systems for ambitious companies. We implement custom AI agents, automate CRM and lead workflows, and run performance and content marketing — so growth scales without the headcount.",
+          "inLanguage": "en-US",
+          "isPartOf": {
+            "@id": "https://strivesync.ai/#website"
+          },
+          "name": "Blog - Strivesync | AI-Native Marketing &amp; Sales Systems",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://strivesync.ai/blog/"
+              ]
+            }
+          ],
+          "url": "https://strivesync.ai/blog/"
+        },
+        {
+          "@id": "https://strivesync.ai/blog/#breadcrumb",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "item": "https://strivesync.ai/",
+              "name": "Home",
+              "position": 1
+            },
+            {
+              "@type": "ListItem",
+              "name": "Blog",
+              "position": 2
+            }
+          ]
+        },
+        {
+          "@id": "https://strivesync.ai/#website",
+          "@type": "WebSite",
+          "alternateName": "Strivesync UAE",
+          "description": "AI-Native Systems",
+          "inLanguage": "en-US",
+          "name": "Strivesync - AI Powered Marketing & Sales Systems",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueName": "search_term_string",
+                "valueRequired": true
+              },
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://strivesync.ai/?s={search_term_string}"
+              }
+            }
+          ],
+          "publisher": {
+            "@id": "https://strivesync.ai/#organization"
+          },
+          "url": "https://strivesync.ai/"
+        },
+        {
+          "@id": "https://strivesync.ai/#organization",
+          "@type": [
+            "Organization",
+            "Place"
+          ],
+          "actionableFeedbackPolicy": "https://strivesync.ai/privacy-policy/",
+          "alternateName": "Strivesync UAE",
+          "areaServed": "United Arab Emirates",
+          "description": "Strivesync AI is a Dubai-based agency building AI-powered marketing and sales systems for ambitious companies. We implement custom AI agents, automate CRM and lead workflows, and run performance and content marketing — so growth scales without the headcount.",
+          "email": "hello@strivesync.ai",
+          "foundingDate": "2026-05-23",
+          "image": {
+            "@id": "https://strivesync.ai/services/website-development/#local-main-organization-logo"
+          },
+          "legalName": "STRIVESYNC DIGITAL SOLUTIONS - FZCO",
+          "logo": {
+            "@id": "https://strivesync.ai/services/website-development/#local-main-organization-logo"
+          },
+          "name": "Strivesync Digital Solutions FZCO",
+          "numberOfEmployees": {
+            "@type": "QuantitativeValue",
+            "maxValue": "10",
+            "minValue": "1"
+          },
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "closes": "17:00",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday"
+              ],
+              "opens": "09:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "closes": "00:00",
+              "dayOfWeek": [
+                "Saturday",
+                "Sunday"
+              ],
+              "opens": "00:00"
+            }
+          ],
+          "ownershipFundingInfo": "https://strivesync.ai/about-strivesync/",
+          "sameAs": [
+            "https://www.facebook.com/profile.php?id=61576383355831",
+            "https://www.instagram.com/strivesync.ai",
+            "https://www.linkedin.com/company/strivesync/",
+            "https://www.youtube.com/@Strivesync-ai"
+          ],
+          "telephone": [
+            "+971 541727842"
+          ],
+          "url": "https://strivesync.ai/"
+        },
+        {
+          "@id": "https://strivesync.ai/#/schema/person/603cc8da17aa90fbb410a11030b63615",
+          "@type": "Person",
+          "image": {
+            "@id": "https://secure.gravatar.com/avatar/02d86002d8e6f017a99429de1155b7e15458658b71b7d44b8ae88d73a3b66568?s=96&d=mm&r=g",
+            "@type": "ImageObject",
+            "caption": "Strivesync",
+            "contentUrl": "https://secure.gravatar.com/avatar/02d86002d8e6f017a99429de1155b7e15458658b71b7d44b8ae88d73a3b66568?s=96&d=mm&r=g",
+            "inLanguage": "en-US",
+            "url": "https://secure.gravatar.com/avatar/02d86002d8e6f017a99429de1155b7e15458658b71b7d44b8ae88d73a3b66568?s=96&d=mm&r=g"
+          },
+          "name": "Strivesync",
+          "sameAs": [
+            "https://strivesync.ai"
+          ],
+          "url": "https://strivesync.ai/author/admin_t8vyprfv/"
+        },
+        {
+          "@id": "https://strivesync.ai/blog/#local-main-organization-logo",
+          "@type": "ImageObject",
+          "caption": "Strivesync Digital Solutions FZCO",
+          "contentUrl": "https://strivesync.ai/wp-content/uploads/2026/05/strivesync-Logo-Square.png",
+          "height": 1080,
+          "inLanguage": "en-US",
+          "url": "https://strivesync.ai/wp-content/uploads/2026/05/strivesync-Logo-Square.png",
+          "width": 1080
+        }
+      ]
+    },
+    "title": "Blog - Strivesync | AI-Native Marketing &amp; Sales Systems",
+    "twitter_card": "summary_large_image",
+    "twitter_misc": {
+      "Est. reading time": "3 minutes"
+    }
+  }
+}

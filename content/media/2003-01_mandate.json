@@ -1,0 +1,239 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=2003"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/2003",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/2003"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/2003"
+      }
+    ],
+    "wp:attached-to": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/posts/1996",
+        "id": 1996,
+        "post_type": "post"
+      }
+    ]
+  },
+  "alt_text": "",
+  "author": 1,
+  "caption": {
+    "raw": "",
+    "rendered": ""
+  },
+  "class_list": [
+    "post-2003",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "",
+  "date": "2026-09-16T15:47:51",
+  "date_gmt": "2026-09-16T15:47:51",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2026/09/01_mandate.png'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"300\" src=\"https://strivesync.ai/wp-content/uploads/2026/09/01_mandate-300x300.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://strivesync.ai/wp-content/uploads/2026/09/01_mandate-300x300.png 300w, https://strivesync.ai/wp-content/uploads/2026/09/01_mandate-150x150.png 150w, https://strivesync.ai/wp-content/uploads/2026/09/01_mandate-768x768.png 768w, https://strivesync.ai/wp-content/uploads/2026/09/01_mandate-1024x1024.png 1024w, https://strivesync.ai/wp-content/uploads/2026/09/01_mandate-1536x1536.png 1536w, https://strivesync.ai/wp-content/uploads/2026/09/01_mandate-140x140.png 140w, https://strivesync.ai/wp-content/uploads/2026/09/01_mandate-100x100.png 100w, https://strivesync.ai/wp-content/uploads/2026/09/01_mandate-350x350.png 350w, https://strivesync.ai/wp-content/uploads/2026/09/01_mandate-800x800.png 800w, https://strivesync.ai/wp-content/uploads/2026/09/01_mandate.png 1781w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "01_mandate.png",
+  "filesize": 218854,
+  "generated_slug": "01_mandate",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2026/09/01_mandate.png",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2026/09/01_mandate.png"
+  },
+  "id": 2003,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 82,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/artificial-intelligence/agentic-marketing-systems-why-dubai-is-becoming-the-global-capital-of-ai-driven-marketing/attachment/01_mandate/",
+  "media_details": {
+    "file": "2026/09/01_mandate.png",
+    "filesize": 218854,
+    "height": 1781,
+    "image_meta": {
+      "alt": "",
+      "aperture": "0",
+      "camera": "",
+      "caption": "",
+      "copyright": "",
+      "created_timestamp": "0",
+      "credit": "",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [],
+      "orientation": "0",
+      "shutter_speed": "0",
+      "title": ""
+    },
+    "sizes": {
+      "1536x1536": {
+        "file": "01_mandate-1536x1536.png",
+        "filesize": 315212,
+        "height": 1536,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/09/01_mandate-1536x1536.png",
+        "width": 1536
+      },
+      "full": {
+        "file": "01_mandate.png",
+        "height": 1781,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/09/01_mandate.png",
+        "width": 1781
+      },
+      "large": {
+        "file": "01_mandate-1024x1024.png",
+        "filesize": 174987,
+        "height": 1024,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/09/01_mandate-1024x1024.png",
+        "width": 1024
+      },
+      "large_featured": {
+        "file": "01_mandate-1781x770.png",
+        "filesize": 80533,
+        "height": 770,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/09/01_mandate-1781x770.png",
+        "width": 1781
+      },
+      "medium": {
+        "file": "01_mandate-300x300.png",
+        "filesize": 31643,
+        "height": 300,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/09/01_mandate-300x300.png",
+        "width": 300
+      },
+      "medium_featured": {
+        "file": "01_mandate-800x800.png",
+        "filesize": 122547,
+        "height": 800,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/09/01_mandate-800x800.png",
+        "width": 800
+      },
+      "medium_large": {
+        "file": "01_mandate-768x768.png",
+        "filesize": 116818,
+        "height": 768,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/09/01_mandate-768x768.png",
+        "width": 768
+      },
+      "nectar_small_square": {
+        "file": "01_mandate-140x140.png",
+        "filesize": 11206,
+        "height": 140,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/09/01_mandate-140x140.png",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "01_mandate-600x403.png",
+        "filesize": 53787,
+        "height": 403,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/09/01_mandate-600x403.png",
+        "width": 600
+      },
+      "portfolio-widget": {
+        "file": "01_mandate-100x100.png",
+        "filesize": 6984,
+        "height": 100,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/09/01_mandate-100x100.png",
+        "width": 100
+      },
+      "regular_small": {
+        "file": "01_mandate-350x350.png",
+        "filesize": 39467,
+        "height": 350,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/09/01_mandate-350x350.png",
+        "width": 350
+      },
+      "thumbnail": {
+        "file": "01_mandate-150x150.png",
+        "filesize": 12177,
+        "height": 150,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/09/01_mandate-150x150.png",
+        "width": 150
+      }
+    },
+    "width": 1781
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/png",
+  "missing_image_sizes": [],
+  "modified": "2026-09-16T15:47:51",
+  "modified_gmt": "2026-09-16T15:47:51",
+  "permalink_template": "https://strivesync.ai/artificial-intelligence/agentic-marketing-systems-why-dubai-is-becoming-the-global-capital-of-ai-driven-marketing/%postname%/",
+  "ping_status": "closed",
+  "post": 1996,
+  "slug": "01_mandate",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2026/09/01_mandate.png",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "01_mandate",
+    "rendered": "01_mandate"
+  },
+  "type": "attachment"
+}

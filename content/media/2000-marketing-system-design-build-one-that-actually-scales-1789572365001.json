@@ -1,0 +1,223 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=2000"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/2000",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/2000"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/2000"
+      }
+    ]
+  },
+  "alt_text": "",
+  "author": 1,
+  "caption": {
+    "raw": "",
+    "rendered": ""
+  },
+  "class_list": [
+    "post-2000",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "",
+  "date": "2026-09-16T15:27:39",
+  "date_gmt": "2026-09-16T15:27:39",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2026/09/marketing-system-design-build-one-that-actually-scales-1789572365001.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"200\" src=\"https://strivesync.ai/wp-content/uploads/2026/09/marketing-system-design-build-one-that-actually-scales-1789572365001-300x200.jpg\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://strivesync.ai/wp-content/uploads/2026/09/marketing-system-design-build-one-that-actually-scales-1789572365001-300x200.jpg 300w, https://strivesync.ai/wp-content/uploads/2026/09/marketing-system-design-build-one-that-actually-scales-1789572365001-1024x683.jpg 1024w, https://strivesync.ai/wp-content/uploads/2026/09/marketing-system-design-build-one-that-actually-scales-1789572365001-768x512.jpg 768w, https://strivesync.ai/wp-content/uploads/2026/09/marketing-system-design-build-one-that-actually-scales-1789572365001.jpg 1536w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "marketing-system-design-build-one-that-actually-scales-1789572365001.jpg",
+  "filesize": 184935,
+  "generated_slug": "marketing-system-design-build-one-that-actually-scales-1789572365001",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2026/09/marketing-system-design-build-one-that-actually-scales-1789572365001.jpg",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2026/09/marketing-system-design-build-one-that-actually-scales-1789572365001.jpg"
+  },
+  "id": 2000,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 82,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/marketing-system-design-build-one-that-actually-scales-1789572365001/",
+  "media_details": {
+    "file": "2026/09/marketing-system-design-build-one-that-actually-scales-1789572365001.jpg",
+    "filesize": 184935,
+    "height": 1024,
+    "image_meta": {
+      "alt": "",
+      "aperture": "0",
+      "camera": "",
+      "caption": "",
+      "copyright": "",
+      "created_timestamp": "0",
+      "credit": "",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [],
+      "orientation": "0",
+      "shutter_speed": "0",
+      "title": ""
+    },
+    "sizes": {
+      "full": {
+        "file": "marketing-system-design-build-one-that-actually-scales-1789572365001.jpg",
+        "height": 1024,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/09/marketing-system-design-build-one-that-actually-scales-1789572365001.jpg",
+        "width": 1536
+      },
+      "large": {
+        "file": "marketing-system-design-build-one-that-actually-scales-1789572365001-1024x683.jpg",
+        "filesize": 102868,
+        "height": 683,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/09/marketing-system-design-build-one-that-actually-scales-1789572365001-1024x683.jpg",
+        "width": 1024
+      },
+      "large_featured": {
+        "file": "marketing-system-design-build-one-that-actually-scales-1789572365001-1536x770.jpg",
+        "filesize": 162075,
+        "height": 770,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/09/marketing-system-design-build-one-that-actually-scales-1789572365001-1536x770.jpg",
+        "width": 1536
+      },
+      "medium": {
+        "file": "marketing-system-design-build-one-that-actually-scales-1789572365001-300x200.jpg",
+        "filesize": 15448,
+        "height": 200,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/09/marketing-system-design-build-one-that-actually-scales-1789572365001-300x200.jpg",
+        "width": 300
+      },
+      "medium_featured": {
+        "file": "marketing-system-design-build-one-that-actually-scales-1789572365001-800x800.jpg",
+        "filesize": 90546,
+        "height": 800,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/09/marketing-system-design-build-one-that-actually-scales-1789572365001-800x800.jpg",
+        "width": 800
+      },
+      "medium_large": {
+        "file": "marketing-system-design-build-one-that-actually-scales-1789572365001-768x512.jpg",
+        "filesize": 68206,
+        "height": 512,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/09/marketing-system-design-build-one-that-actually-scales-1789572365001-768x512.jpg",
+        "width": 768
+      },
+      "nectar_small_square": {
+        "file": "marketing-system-design-build-one-that-actually-scales-1789572365001-140x140.jpg",
+        "filesize": 6485,
+        "height": 140,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/09/marketing-system-design-build-one-that-actually-scales-1789572365001-140x140.jpg",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "marketing-system-design-build-one-that-actually-scales-1789572365001-600x403.jpg",
+        "filesize": 45565,
+        "height": 403,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/09/marketing-system-design-build-one-that-actually-scales-1789572365001-600x403.jpg",
+        "width": 600
+      },
+      "portfolio-widget": {
+        "file": "marketing-system-design-build-one-that-actually-scales-1789572365001-100x100.jpg",
+        "filesize": 4069,
+        "height": 100,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/09/marketing-system-design-build-one-that-actually-scales-1789572365001-100x100.jpg",
+        "width": 100
+      },
+      "regular_small": {
+        "file": "marketing-system-design-build-one-that-actually-scales-1789572365001-350x350.jpg",
+        "filesize": 26015,
+        "height": 350,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/09/marketing-system-design-build-one-that-actually-scales-1789572365001-350x350.jpg",
+        "width": 350
+      },
+      "thumbnail": {
+        "file": "marketing-system-design-build-one-that-actually-scales-1789572365001-150x150.jpg",
+        "filesize": 7112,
+        "height": 150,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/09/marketing-system-design-build-one-that-actually-scales-1789572365001-150x150.jpg",
+        "width": 150
+      }
+    },
+    "width": 1536
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/jpeg",
+  "missing_image_sizes": [],
+  "modified": "2026-09-16T15:27:39",
+  "modified_gmt": "2026-09-16T15:27:39",
+  "permalink_template": "https://strivesync.ai/?attachment_id=2000",
+  "ping_status": "closed",
+  "post": null,
+  "slug": "marketing-system-design-build-one-that-actually-scales-1789572365001",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2026/09/marketing-system-design-build-one-that-actually-scales-1789572365001.jpg",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "marketing-system-design-build-one-that-actually-scales-1789572365001",
+    "rendered": "marketing-system-design-build-one-that-actually-scales-1789572365001"
+  },
+  "type": "attachment"
+}

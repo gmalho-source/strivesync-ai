@@ -1,0 +1,138 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1635"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1635",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1635"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1635"
+      }
+    ],
+    "wp:attached-to": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/pages/1597",
+        "id": 1597,
+        "post_type": "page"
+      }
+    ]
+  },
+  "alt_text": "",
+  "author": 1,
+  "caption": {
+    "raw": "",
+    "rendered": "<p>https://strivesync.ai/wp-content/uploads/2026/04/Dubai-Skyline-1a.mp4</p>\n"
+  },
+  "class_list": [
+    "post-1635",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "open",
+  "date": "2026-04-11T11:50:27",
+  "date_gmt": "2026-04-11T11:50:27",
+  "description": {
+    "raw": "",
+    "rendered": "<div style=\"width: 1080px;\" class=\"wp-video\"><video class=\"wp-video-shortcode\" id=\"video-1635-1\" width=\"1080\" height=\"608\" preload=\"metadata\" controls=\"controls\"><source type=\"video/mp4\" src=\"https://strivesync.ai/wp-content/uploads/2026/04/Dubai-Skyline-1a.mp4?_=1\" /><a href=\"https://strivesync.ai/wp-content/uploads/2026/04/Dubai-Skyline-1a.mp4\">https://strivesync.ai/wp-content/uploads/2026/04/Dubai-Skyline-1a.mp4</a></video></div>\n"
+  },
+  "featured_media": 0,
+  "filename": "Dubai-Skyline-1a.mp4",
+  "filesize": 24072336,
+  "generated_slug": "dubai-skyline-1a",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2026/04/Dubai-Skyline-1a.mp4",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2026/04/Dubai-Skyline-1a.mp4"
+  },
+  "id": 1635,
+  "link": "https://strivesync.ai/services/artificial-intelligence-for-business/attachment/dubai-skyline-1a/",
+  "media_details": {
+    "audio": {
+      "bitrate": 32001,
+      "bits_per_sample": 16,
+      "channelmode": "mono",
+      "channels": 1,
+      "codec": "ISO/IEC 14496-3 AAC",
+      "compression_ratio": 0.045352891156462585,
+      "dataformat": "mp4",
+      "lossless": false,
+      "sample_rate": 44100
+    },
+    "bitrate": 4706638,
+    "created_timestamp": -2082844800,
+    "dataformat": "quicktime",
+    "fileformat": "mp4",
+    "filesize": 24072336,
+    "height": 1440,
+    "length": 41,
+    "length_formatted": "0:41",
+    "mime_type": "video/mp4",
+    "sizes": {},
+    "width": 2560
+  },
+  "media_type": "file",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "video/mp4",
+  "missing_image_sizes": [],
+  "modified": "2026-04-11T11:50:27",
+  "modified_gmt": "2026-04-11T11:50:27",
+  "permalink_template": "https://strivesync.ai/services/artificial-intelligence-for-business/%postname%/",
+  "ping_status": "closed",
+  "post": 1597,
+  "slug": "dubai-skyline-1a",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/Dubai-Skyline-1a.mp4",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "Dubai Skyline 1a",
+    "rendered": "Dubai Skyline 1a"
+  },
+  "type": "attachment"
+}

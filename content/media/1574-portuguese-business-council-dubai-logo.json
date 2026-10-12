@@ -1,0 +1,238 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1574"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1574",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1574"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1574"
+      }
+    ]
+  },
+  "alt_text": "Logo Portuguese Business Council Dubai",
+  "author": 1,
+  "caption": {
+    "raw": "Logo Portuguese Business Council Dubai",
+    "rendered": "<p>Logo Portuguese Business Council Dubai</p>\n"
+  },
+  "class_list": [
+    "post-1574",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "open",
+  "date": "2026-03-31T18:52:42",
+  "date_gmt": "2026-03-31T18:52:42",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2026/03/Portuguese-Business-Council-Dubai-logo.png'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"114\" src=\"https://strivesync.ai/wp-content/uploads/2026/03/Portuguese-Business-Council-Dubai-logo-300x114.png\" class=\"attachment-medium size-medium\" alt=\"Logo Portuguese Business Council Dubai\" srcset=\"https://strivesync.ai/wp-content/uploads/2026/03/Portuguese-Business-Council-Dubai-logo-300x114.png 300w, https://strivesync.ai/wp-content/uploads/2026/03/Portuguese-Business-Council-Dubai-logo-1024x390.png 1024w, https://strivesync.ai/wp-content/uploads/2026/03/Portuguese-Business-Council-Dubai-logo-768x292.png 768w, https://strivesync.ai/wp-content/uploads/2026/03/Portuguese-Business-Council-Dubai-logo-1536x585.png 1536w, https://strivesync.ai/wp-content/uploads/2026/03/Portuguese-Business-Council-Dubai-logo-2048x779.png 2048w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "Portuguese-Business-Council-Dubai-logo.png",
+  "filesize": 31811,
+  "generated_slug": "portuguese-business-council-dubai-logo",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2026/03/Portuguese-Business-Council-Dubai-logo.png",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2026/03/Portuguese-Business-Council-Dubai-logo.png"
+  },
+  "id": 1574,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 82,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/portuguese-business-council-dubai-logo/",
+  "media_details": {
+    "file": "2026/03/Portuguese-Business-Council-Dubai-logo.png",
+    "filesize": 31811,
+    "height": 803,
+    "image_meta": {
+      "aperture": "0",
+      "camera": "",
+      "caption": "",
+      "copyright": "",
+      "created_timestamp": "0",
+      "credit": "",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [],
+      "orientation": "0",
+      "shutter_speed": "0",
+      "title": ""
+    },
+    "sizes": {
+      "1536x1536": {
+        "file": "Portuguese-Business-Council-Dubai-logo-1536x585.png",
+        "filesize": 54110,
+        "height": 585,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Portuguese-Business-Council-Dubai-logo-1536x585.png",
+        "width": 1536
+      },
+      "2048x2048": {
+        "file": "Portuguese-Business-Council-Dubai-logo-2048x779.png",
+        "filesize": 76523,
+        "height": 779,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Portuguese-Business-Council-Dubai-logo-2048x779.png",
+        "width": 2048
+      },
+      "full": {
+        "file": "Portuguese-Business-Council-Dubai-logo.png",
+        "height": 803,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Portuguese-Business-Council-Dubai-logo.png",
+        "width": 2110
+      },
+      "large": {
+        "file": "Portuguese-Business-Council-Dubai-logo-1024x390.png",
+        "filesize": 33533,
+        "height": 390,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Portuguese-Business-Council-Dubai-logo-1024x390.png",
+        "width": 1024
+      },
+      "large_featured": {
+        "file": "Portuguese-Business-Council-Dubai-logo-1870x770.png",
+        "filesize": 72136,
+        "height": 770,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Portuguese-Business-Council-Dubai-logo-1870x770.png",
+        "width": 1870
+      },
+      "medium": {
+        "file": "Portuguese-Business-Council-Dubai-logo-300x114.png",
+        "filesize": 8618,
+        "height": 114,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Portuguese-Business-Council-Dubai-logo-300x114.png",
+        "width": 300
+      },
+      "medium_featured": {
+        "file": "Portuguese-Business-Council-Dubai-logo-800x800.png",
+        "filesize": 38142,
+        "height": 800,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Portuguese-Business-Council-Dubai-logo-800x800.png",
+        "width": 800
+      },
+      "medium_large": {
+        "file": "Portuguese-Business-Council-Dubai-logo-768x292.png",
+        "filesize": 23865,
+        "height": 292,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Portuguese-Business-Council-Dubai-logo-768x292.png",
+        "width": 768
+      },
+      "nectar_small_square": {
+        "file": "Portuguese-Business-Council-Dubai-logo-140x140.png",
+        "filesize": 5309,
+        "height": 140,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Portuguese-Business-Council-Dubai-logo-140x140.png",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "Portuguese-Business-Council-Dubai-logo-600x403.png",
+        "filesize": 23735,
+        "height": 403,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Portuguese-Business-Council-Dubai-logo-600x403.png",
+        "width": 600
+      },
+      "portfolio-widget": {
+        "file": "Portuguese-Business-Council-Dubai-logo-100x100.png",
+        "filesize": 3761,
+        "height": 100,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Portuguese-Business-Council-Dubai-logo-100x100.png",
+        "width": 100
+      },
+      "regular_small": {
+        "file": "Portuguese-Business-Council-Dubai-logo-350x350.png",
+        "filesize": 14340,
+        "height": 350,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Portuguese-Business-Council-Dubai-logo-350x350.png",
+        "width": 350
+      },
+      "thumbnail": {
+        "file": "Portuguese-Business-Council-Dubai-logo-150x150.png",
+        "filesize": 5859,
+        "height": 150,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Portuguese-Business-Council-Dubai-logo-150x150.png",
+        "width": 150
+      }
+    },
+    "width": 2110
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/png",
+  "missing_image_sizes": [],
+  "modified": "2026-03-31T18:53:03",
+  "modified_gmt": "2026-03-31T18:53:03",
+  "permalink_template": "https://strivesync.ai/?attachment_id=1574",
+  "ping_status": "closed",
+  "post": null,
+  "slug": "portuguese-business-council-dubai-logo",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2026/03/Portuguese-Business-Council-Dubai-logo.png",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "Portuguese Business Council Dubai logo",
+    "rendered": "Portuguese Business Council Dubai logo"
+  },
+  "type": "attachment"
+}

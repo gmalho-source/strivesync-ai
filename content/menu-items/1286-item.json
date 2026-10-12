@@ -1,0 +1,96 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/nav_menu_item"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/menu-items"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/menu-items/1286",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-menus": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/menu-items/1286"
+      }
+    ],
+    "wp:action-create-menus": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/menu-items/1286"
+      }
+    ],
+    "wp:action-publish": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/menu-items/1286"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/menu-items/1286"
+      }
+    ],
+    "wp:menu-item-object": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/pages/1258",
+        "post_type": "page"
+      }
+    ],
+    "wp:term": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/menus?post=1286",
+        "taxonomy": "nav_menu"
+      }
+    ]
+  },
+  "attr_title": "",
+  "classes": [
+    ""
+  ],
+  "description": "",
+  "id": 1286,
+  "invalid": false,
+  "menu_order": 4,
+  "menus": 2,
+  "meta": {
+    "inline_featured_image": false
+  },
+  "object": "page",
+  "object_id": 1258,
+  "parent": 0,
+  "status": "publish",
+  "target": "",
+  "title": {
+    "raw": "Contact Us",
+    "rendered": "Contact Us"
+  },
+  "type": "post_type",
+  "type_label": "Page",
+  "url": "https://strivesync.ai/contact/",
+  "xfn": [
+    ""
+  ]
+}

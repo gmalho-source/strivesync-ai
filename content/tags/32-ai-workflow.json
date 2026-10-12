@@ -1,0 +1,206 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/taxonomies/post_tag"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/tags"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/tags/32",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:post_type": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/posts?tags=32"
+      }
+    ]
+  },
+  "count": 0,
+  "description": "",
+  "id": 32,
+  "link": "https://strivesync.ai/tag/ai-workflow/",
+  "meta": [],
+  "name": "AI workflow",
+  "slug": "ai-workflow",
+  "taxonomy": "post_tag",
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO Premium plugin v28.6 (Yoast SEO v28.6) - https://yoast.com/product/yoast-seo-premium-wordpress/ -->\n<title>AI workflow Archives - Strivesync | AI-Native Marketing &amp; Sales Systems</title>\n<!-- Admin only notice: this page does not show a meta description because it does not have one, either write it for this page specifically or go into the [Yoast SEO - Settings] menu and set up a template. -->\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://strivesync.ai/tag/ai-workflow/\" class=\"yoast-seo-meta-tag\" />\n<meta property=\"og:locale\" content=\"en_US\" class=\"yoast-seo-meta-tag\" />\n<meta property=\"og:type\" content=\"article\" class=\"yoast-seo-meta-tag\" />\n<meta property=\"og:title\" content=\"AI workflow Archives\" class=\"yoast-seo-meta-tag\" />\n<meta property=\"og:url\" content=\"https://strivesync.ai/tag/ai-workflow/\" class=\"yoast-seo-meta-tag\" />\n<meta property=\"og:site_name\" content=\"Strivesync | AI-Native Marketing &amp; Sales Systems\" class=\"yoast-seo-meta-tag\" />\n<meta property=\"og:image\" content=\"https://strivesync.ai/wp-content/uploads/2026/04/Marketing-Automation-artice-cover-ad-Strivesync-AI-web.jpg\" class=\"yoast-seo-meta-tag\" />\n\t<meta property=\"og:image:width\" content=\"2000\" class=\"yoast-seo-meta-tag\" />\n\t<meta property=\"og:image:height\" content=\"1000\" class=\"yoast-seo-meta-tag\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" class=\"yoast-seo-meta-tag\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" class=\"yoast-seo-meta-tag\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/strivesync.ai\\/tag\\/ai-workflow\\/\",\"url\":\"https:\\/\\/strivesync.ai\\/tag\\/ai-workflow\\/\",\"name\":\"AI workflow Archives - Strivesync | AI-Native Marketing &amp; Sales Systems\",\"isPartOf\":{\"@id\":\"https:\\/\\/strivesync.ai\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/strivesync.ai\\/tag\\/ai-workflow\\/#breadcrumb\"},\"inLanguage\":\"en-US\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/strivesync.ai\\/tag\\/ai-workflow\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/strivesync.ai\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"AI workflow\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/strivesync.ai\\/#website\",\"url\":\"https:\\/\\/strivesync.ai\\/\",\"name\":\"Strivesync - AI Powered Marketing & Sales Systems\",\"description\":\"AI-Native Systems\",\"publisher\":{\"@id\":\"https:\\/\\/strivesync.ai\\/#organization\"},\"alternateName\":\"Strivesync UAE\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/strivesync.ai\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":[\"Organization\",\"Place\"],\"@id\":\"https:\\/\\/strivesync.ai\\/#organization\",\"name\":\"Strivesync Digital Solutions FZCO\",\"alternateName\":\"Strivesync UAE\",\"url\":\"https:\\/\\/strivesync.ai\\/\",\"logo\":{\"@id\":\"https:\\/\\/strivesync.ai\\/tag\\/2026-seo-trends\\/#local-main-organization-logo\"},\"image\":{\"@id\":\"https:\\/\\/strivesync.ai\\/tag\\/2026-seo-trends\\/#local-main-organization-logo\"},\"sameAs\":[\"https:\\/\\/www.facebook.com\\/profile.php?id=61576383355831\",\"https:\\/\\/www.instagram.com\\/strivesync.ai\",\"https:\\/\\/www.linkedin.com\\/company\\/strivesync\\/\",\"https:\\/\\/www.youtube.com\\/@Strivesync-ai\"],\"description\":\"Strivesync AI is a Dubai-based agency building AI-powered marketing and sales systems for ambitious companies. We implement custom AI agents, automate CRM and lead workflows, and run performance and content marketing — so growth scales without the headcount.\",\"legalName\":\"STRIVESYNC DIGITAL SOLUTIONS - FZCO\",\"foundingDate\":\"2026-05-23\",\"numberOfEmployees\":{\"@type\":\"QuantitativeValue\",\"minValue\":\"1\",\"maxValue\":\"10\"},\"ownershipFundingInfo\":\"https:\\/\\/strivesync.ai\\/about-strivesync\\/\",\"actionableFeedbackPolicy\":\"https:\\/\\/strivesync.ai\\/privacy-policy\\/\",\"telephone\":[\"+971 541727842\"],\"openingHoursSpecification\":[{\"@type\":\"OpeningHoursSpecification\",\"dayOfWeek\":[\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\"],\"opens\":\"09:00\",\"closes\":\"17:00\"},{\"@type\":\"OpeningHoursSpecification\",\"dayOfWeek\":[\"Saturday\",\"Sunday\"],\"opens\":\"00:00\",\"closes\":\"00:00\"}],\"email\":\"hello@strivesync.ai\",\"areaServed\":\"United Arab Emirates\"},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\\/\\/strivesync.ai\\/tag\\/ai-workflow\\/#local-main-organization-logo\",\"url\":\"https:\\/\\/strivesync.ai\\/wp-content\\/uploads\\/2026\\/05\\/strivesync-Logo-Square.png\",\"contentUrl\":\"https:\\/\\/strivesync.ai\\/wp-content\\/uploads\\/2026\\/05\\/strivesync-Logo-Square.png\",\"width\":1080,\"height\":1080,\"caption\":\"Strivesync Digital Solutions FZCO\"}]}</script>\n<meta name=\"geo.placename\" content=\"Dubai\" class=\"yoast-seo-meta-tag\" />\n<!-- / Yoast SEO Premium plugin. -->",
+  "yoast_head_json": {
+    "canonical": "https://strivesync.ai/tag/ai-workflow/",
+    "geo.placename": "Dubai",
+    "og_image": [
+      {
+        "height": 1000,
+        "type": "image/jpeg",
+        "url": "https://strivesync.ai/wp-content/uploads/2026/04/Marketing-Automation-artice-cover-ad-Strivesync-AI-web.jpg",
+        "width": 2000
+      }
+    ],
+    "og_locale": "en_US",
+    "og_site_name": "Strivesync | AI-Native Marketing &amp; Sales Systems",
+    "og_title": "AI workflow Archives",
+    "og_type": "article",
+    "og_url": "https://strivesync.ai/tag/ai-workflow/",
+    "robots": {
+      "follow": "follow",
+      "index": "index",
+      "max-image-preview": "max-image-preview:large",
+      "max-snippet": "max-snippet:-1",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@id": "https://strivesync.ai/tag/ai-workflow/",
+          "@type": "CollectionPage",
+          "breadcrumb": {
+            "@id": "https://strivesync.ai/tag/ai-workflow/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "isPartOf": {
+            "@id": "https://strivesync.ai/#website"
+          },
+          "name": "AI workflow Archives - Strivesync | AI-Native Marketing &amp; Sales Systems",
+          "url": "https://strivesync.ai/tag/ai-workflow/"
+        },
+        {
+          "@id": "https://strivesync.ai/tag/ai-workflow/#breadcrumb",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "item": "https://strivesync.ai/",
+              "name": "Home",
+              "position": 1
+            },
+            {
+              "@type": "ListItem",
+              "name": "AI workflow",
+              "position": 2
+            }
+          ]
+        },
+        {
+          "@id": "https://strivesync.ai/#website",
+          "@type": "WebSite",
+          "alternateName": "Strivesync UAE",
+          "description": "AI-Native Systems",
+          "inLanguage": "en-US",
+          "name": "Strivesync - AI Powered Marketing & Sales Systems",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueName": "search_term_string",
+                "valueRequired": true
+              },
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://strivesync.ai/?s={search_term_string}"
+              }
+            }
+          ],
+          "publisher": {
+            "@id": "https://strivesync.ai/#organization"
+          },
+          "url": "https://strivesync.ai/"
+        },
+        {
+          "@id": "https://strivesync.ai/#organization",
+          "@type": [
+            "Organization",
+            "Place"
+          ],
+          "actionableFeedbackPolicy": "https://strivesync.ai/privacy-policy/",
+          "alternateName": "Strivesync UAE",
+          "areaServed": "United Arab Emirates",
+          "description": "Strivesync AI is a Dubai-based agency building AI-powered marketing and sales systems for ambitious companies. We implement custom AI agents, automate CRM and lead workflows, and run performance and content marketing — so growth scales without the headcount.",
+          "email": "hello@strivesync.ai",
+          "foundingDate": "2026-05-23",
+          "image": {
+            "@id": "https://strivesync.ai/tag/2026-seo-trends/#local-main-organization-logo"
+          },
+          "legalName": "STRIVESYNC DIGITAL SOLUTIONS - FZCO",
+          "logo": {
+            "@id": "https://strivesync.ai/tag/2026-seo-trends/#local-main-organization-logo"
+          },
+          "name": "Strivesync Digital Solutions FZCO",
+          "numberOfEmployees": {
+            "@type": "QuantitativeValue",
+            "maxValue": "10",
+            "minValue": "1"
+          },
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "closes": "17:00",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday"
+              ],
+              "opens": "09:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "closes": "00:00",
+              "dayOfWeek": [
+                "Saturday",
+                "Sunday"
+              ],
+              "opens": "00:00"
+            }
+          ],
+          "ownershipFundingInfo": "https://strivesync.ai/about-strivesync/",
+          "sameAs": [
+            "https://www.facebook.com/profile.php?id=61576383355831",
+            "https://www.instagram.com/strivesync.ai",
+            "https://www.linkedin.com/company/strivesync/",
+            "https://www.youtube.com/@Strivesync-ai"
+          ],
+          "telephone": [
+            "+971 541727842"
+          ],
+          "url": "https://strivesync.ai/"
+        },
+        {
+          "@id": "https://strivesync.ai/tag/ai-workflow/#local-main-organization-logo",
+          "@type": "ImageObject",
+          "caption": "Strivesync Digital Solutions FZCO",
+          "contentUrl": "https://strivesync.ai/wp-content/uploads/2026/05/strivesync-Logo-Square.png",
+          "height": 1080,
+          "inLanguage": "en-US",
+          "url": "https://strivesync.ai/wp-content/uploads/2026/05/strivesync-Logo-Square.png",
+          "width": 1080
+        }
+      ]
+    },
+    "title": "AI workflow Archives - Strivesync | AI-Native Marketing &amp; Sales Systems",
+    "twitter_card": "summary_large_image"
+  }
+}

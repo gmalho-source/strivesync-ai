@@ -1,0 +1,238 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1846"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1846",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1846"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1846"
+      }
+    ],
+    "wp:attached-to": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/posts/1844",
+        "id": 1844,
+        "post_type": "post"
+      }
+    ]
+  },
+  "alt_text": "Article Cover people working on AI workflows",
+  "author": 1,
+  "caption": {
+    "raw": "",
+    "rendered": ""
+  },
+  "class_list": [
+    "post-1846",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "closed",
+  "date": "2026-05-07T20:02:24",
+  "date_gmt": "2026-05-07T20:02:24",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2026/05/Strivesync-UAE-blog-cover-Top-AI-Workflow-Automation-Strategies-for-Small-and-Mid-Size-Businesses.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"169\" src=\"https://strivesync.ai/wp-content/uploads/2026/05/Strivesync-UAE-blog-cover-Top-AI-Workflow-Automation-Strategies-for-Small-and-Mid-Size-Businesses-300x169.jpg\" class=\"attachment-medium size-medium\" alt=\"Article Cover people working on AI workflows\" srcset=\"https://strivesync.ai/wp-content/uploads/2026/05/Strivesync-UAE-blog-cover-Top-AI-Workflow-Automation-Strategies-for-Small-and-Mid-Size-Businesses-300x169.jpg 300w, https://strivesync.ai/wp-content/uploads/2026/05/Strivesync-UAE-blog-cover-Top-AI-Workflow-Automation-Strategies-for-Small-and-Mid-Size-Businesses-1024x576.jpg 1024w, https://strivesync.ai/wp-content/uploads/2026/05/Strivesync-UAE-blog-cover-Top-AI-Workflow-Automation-Strategies-for-Small-and-Mid-Size-Businesses-768x432.jpg 768w, https://strivesync.ai/wp-content/uploads/2026/05/Strivesync-UAE-blog-cover-Top-AI-Workflow-Automation-Strategies-for-Small-and-Mid-Size-Businesses-1536x864.jpg 1536w, https://strivesync.ai/wp-content/uploads/2026/05/Strivesync-UAE-blog-cover-Top-AI-Workflow-Automation-Strategies-for-Small-and-Mid-Size-Businesses.jpg 1672w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "Strivesync-UAE-blog-cover-Top-AI-Workflow-Automation-Strategies-for-Small-and-Mid-Size-Businesses.jpg",
+  "filesize": 527620,
+  "generated_slug": "strivesync-uae-blog-cover-top-ai-workflow-automation-strategies-for-small-and-mid-size-businesses",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2026/05/Strivesync-UAE-blog-cover-Top-AI-Workflow-Automation-Strategies-for-Small-and-Mid-Size-Businesses.jpg",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2026/05/Strivesync-UAE-blog-cover-Top-AI-Workflow-Automation-Strategies-for-Small-and-Mid-Size-Businesses.jpg"
+  },
+  "id": 1846,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 82,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/artificial-intelligence/ai-workflow-automation/attachment/strivesync-uae-blog-cover-top-ai-workflow-automation-strategies-for-small-and-mid-size-businesses/",
+  "media_details": {
+    "file": "2026/05/Strivesync-UAE-blog-cover-Top-AI-Workflow-Automation-Strategies-for-Small-and-Mid-Size-Businesses.jpg",
+    "filesize": 527620,
+    "height": 941,
+    "image_meta": {
+      "aperture": "0",
+      "camera": "",
+      "caption": "",
+      "copyright": "",
+      "created_timestamp": "0",
+      "credit": "",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [],
+      "orientation": "0",
+      "shutter_speed": "0",
+      "title": ""
+    },
+    "sizes": {
+      "1536x1536": {
+        "file": "Strivesync-UAE-blog-cover-Top-AI-Workflow-Automation-Strategies-for-Small-and-Mid-Size-Businesses-1536x864.jpg",
+        "filesize": 192666,
+        "height": 864,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/Strivesync-UAE-blog-cover-Top-AI-Workflow-Automation-Strategies-for-Small-and-Mid-Size-Businesses-1536x864.jpg",
+        "width": 1536
+      },
+      "full": {
+        "file": "Strivesync-UAE-blog-cover-Top-AI-Workflow-Automation-Strategies-for-Small-and-Mid-Size-Businesses.jpg",
+        "height": 941,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/Strivesync-UAE-blog-cover-Top-AI-Workflow-Automation-Strategies-for-Small-and-Mid-Size-Businesses.jpg",
+        "width": 1672
+      },
+      "large": {
+        "file": "Strivesync-UAE-blog-cover-Top-AI-Workflow-Automation-Strategies-for-Small-and-Mid-Size-Businesses-1024x576.jpg",
+        "filesize": 107063,
+        "height": 576,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/Strivesync-UAE-blog-cover-Top-AI-Workflow-Automation-Strategies-for-Small-and-Mid-Size-Businesses-1024x576.jpg",
+        "width": 1024
+      },
+      "large_featured": {
+        "file": "Strivesync-UAE-blog-cover-Top-AI-Workflow-Automation-Strategies-for-Small-and-Mid-Size-Businesses-1672x770.jpg",
+        "filesize": 207645,
+        "height": 770,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/Strivesync-UAE-blog-cover-Top-AI-Workflow-Automation-Strategies-for-Small-and-Mid-Size-Businesses-1672x770.jpg",
+        "width": 1672
+      },
+      "medium": {
+        "file": "Strivesync-UAE-blog-cover-Top-AI-Workflow-Automation-Strategies-for-Small-and-Mid-Size-Businesses-300x169.jpg",
+        "filesize": 16481,
+        "height": 169,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/Strivesync-UAE-blog-cover-Top-AI-Workflow-Automation-Strategies-for-Small-and-Mid-Size-Businesses-300x169.jpg",
+        "width": 300
+      },
+      "medium_featured": {
+        "file": "Strivesync-UAE-blog-cover-Top-AI-Workflow-Automation-Strategies-for-Small-and-Mid-Size-Businesses-800x800.jpg",
+        "filesize": 113888,
+        "height": 800,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/Strivesync-UAE-blog-cover-Top-AI-Workflow-Automation-Strategies-for-Small-and-Mid-Size-Businesses-800x800.jpg",
+        "width": 800
+      },
+      "medium_large": {
+        "file": "Strivesync-UAE-blog-cover-Top-AI-Workflow-Automation-Strategies-for-Small-and-Mid-Size-Businesses-768x432.jpg",
+        "filesize": 69926,
+        "height": 432,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/Strivesync-UAE-blog-cover-Top-AI-Workflow-Automation-Strategies-for-Small-and-Mid-Size-Businesses-768x432.jpg",
+        "width": 768
+      },
+      "nectar_small_square": {
+        "file": "Strivesync-UAE-blog-cover-Top-AI-Workflow-Automation-Strategies-for-Small-and-Mid-Size-Businesses-140x140.jpg",
+        "filesize": 8184,
+        "height": 140,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/Strivesync-UAE-blog-cover-Top-AI-Workflow-Automation-Strategies-for-Small-and-Mid-Size-Businesses-140x140.jpg",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "Strivesync-UAE-blog-cover-Top-AI-Workflow-Automation-Strategies-for-Small-and-Mid-Size-Businesses-600x403.jpg",
+        "filesize": 56933,
+        "height": 403,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/Strivesync-UAE-blog-cover-Top-AI-Workflow-Automation-Strategies-for-Small-and-Mid-Size-Businesses-600x403.jpg",
+        "width": 600
+      },
+      "portfolio-widget": {
+        "file": "Strivesync-UAE-blog-cover-Top-AI-Workflow-Automation-Strategies-for-Small-and-Mid-Size-Businesses-100x100.jpg",
+        "filesize": 4892,
+        "height": 100,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/Strivesync-UAE-blog-cover-Top-AI-Workflow-Automation-Strategies-for-Small-and-Mid-Size-Businesses-100x100.jpg",
+        "width": 100
+      },
+      "regular_small": {
+        "file": "Strivesync-UAE-blog-cover-Top-AI-Workflow-Automation-Strategies-for-Small-and-Mid-Size-Businesses-350x350.jpg",
+        "filesize": 33024,
+        "height": 350,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/Strivesync-UAE-blog-cover-Top-AI-Workflow-Automation-Strategies-for-Small-and-Mid-Size-Businesses-350x350.jpg",
+        "width": 350
+      },
+      "thumbnail": {
+        "file": "Strivesync-UAE-blog-cover-Top-AI-Workflow-Automation-Strategies-for-Small-and-Mid-Size-Businesses-150x150.jpg",
+        "filesize": 8931,
+        "height": 150,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/Strivesync-UAE-blog-cover-Top-AI-Workflow-Automation-Strategies-for-Small-and-Mid-Size-Businesses-150x150.jpg",
+        "width": 150
+      }
+    },
+    "width": 1672
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/jpeg",
+  "missing_image_sizes": [],
+  "modified": "2026-05-07T20:03:00",
+  "modified_gmt": "2026-05-07T20:03:00",
+  "permalink_template": "https://strivesync.ai/artificial-intelligence/ai-workflow-automation/%postname%/",
+  "ping_status": "closed",
+  "post": 1844,
+  "slug": "strivesync-uae-blog-cover-top-ai-workflow-automation-strategies-for-small-and-mid-size-businesses",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2026/05/Strivesync-UAE-blog-cover-Top-AI-Workflow-Automation-Strategies-for-Small-and-Mid-Size-Businesses.jpg",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "Strivesync UAE blog cover - Top AI Workflow Automation Strategies for Small and Mid-Size Businesses",
+    "rendered": "Strivesync UAE blog cover &#8211; Top AI Workflow Automation Strategies for Small and Mid-Size Businesses"
+  },
+  "type": "attachment"
+}

@@ -1,0 +1,166 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1617"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1617",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1617"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1617"
+      }
+    ]
+  },
+  "alt_text": "",
+  "author": 1,
+  "caption": {
+    "raw": "",
+    "rendered": ""
+  },
+  "class_list": [
+    "post-1617",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "open",
+  "date": "2026-04-09T09:11:10",
+  "date_gmt": "2026-04-09T09:11:10",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2026/04/Goncalo-Malho-Rodrigues-Profile-Pic.png'><img loading=\"lazy\" decoding=\"async\" width=\"250\" height=\"250\" src=\"https://strivesync.ai/wp-content/uploads/2026/04/Goncalo-Malho-Rodrigues-Profile-Pic.png\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://strivesync.ai/wp-content/uploads/2026/04/Goncalo-Malho-Rodrigues-Profile-Pic.png 250w, https://strivesync.ai/wp-content/uploads/2026/04/Goncalo-Malho-Rodrigues-Profile-Pic-150x150.png 150w, https://strivesync.ai/wp-content/uploads/2026/04/Goncalo-Malho-Rodrigues-Profile-Pic-140x140.png 140w, https://strivesync.ai/wp-content/uploads/2026/04/Goncalo-Malho-Rodrigues-Profile-Pic-100x100.png 100w\" sizes=\"auto, (max-width: 250px) 100vw, 250px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "Goncalo-Malho-Rodrigues-Profile-Pic.png",
+  "filesize": 41734,
+  "generated_slug": "goncalo-malho-rodrigues-profile-pic",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2026/04/Goncalo-Malho-Rodrigues-Profile-Pic.png",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2026/04/Goncalo-Malho-Rodrigues-Profile-Pic.png"
+  },
+  "id": 1617,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 82,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/goncalo-malho-rodrigues-profile-pic/",
+  "media_details": {
+    "file": "2026/04/Goncalo-Malho-Rodrigues-Profile-Pic.png",
+    "filesize": 41734,
+    "height": 250,
+    "image_meta": {
+      "aperture": "0",
+      "camera": "",
+      "caption": "",
+      "copyright": "",
+      "created_timestamp": "0",
+      "credit": "",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [],
+      "orientation": "0",
+      "shutter_speed": "0",
+      "title": ""
+    },
+    "sizes": {
+      "full": {
+        "file": "Goncalo-Malho-Rodrigues-Profile-Pic.png",
+        "height": 250,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/Goncalo-Malho-Rodrigues-Profile-Pic.png",
+        "width": 250
+      },
+      "nectar_small_square": {
+        "file": "Goncalo-Malho-Rodrigues-Profile-Pic-140x140.png",
+        "filesize": 18569,
+        "height": 140,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/Goncalo-Malho-Rodrigues-Profile-Pic-140x140.png",
+        "width": 140
+      },
+      "portfolio-widget": {
+        "file": "Goncalo-Malho-Rodrigues-Profile-Pic-100x100.png",
+        "filesize": 11191,
+        "height": 100,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/Goncalo-Malho-Rodrigues-Profile-Pic-100x100.png",
+        "width": 100
+      },
+      "thumbnail": {
+        "file": "Goncalo-Malho-Rodrigues-Profile-Pic-150x150.png",
+        "filesize": 20538,
+        "height": 150,
+        "mime_type": "image/png",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/Goncalo-Malho-Rodrigues-Profile-Pic-150x150.png",
+        "width": 150
+      }
+    },
+    "width": 250
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/png",
+  "missing_image_sizes": [],
+  "modified": "2026-04-09T09:11:10",
+  "modified_gmt": "2026-04-09T09:11:10",
+  "permalink_template": "https://strivesync.ai/?attachment_id=1617",
+  "ping_status": "closed",
+  "post": null,
+  "slug": "goncalo-malho-rodrigues-profile-pic",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/Goncalo-Malho-Rodrigues-Profile-Pic.png",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "Goncalo Malho Rodrigues Profile Pic",
+    "rendered": "Goncalo Malho Rodrigues Profile Pic"
+  },
+  "type": "attachment"
+}

@@ -1,0 +1,247 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1737"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1737",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1737"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1737"
+      }
+    ],
+    "wp:attached-to": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/posts/1592",
+        "id": 1592,
+        "post_type": "post"
+      }
+    ]
+  },
+  "alt_text": "Pratical AI guide",
+  "author": 1,
+  "caption": {
+    "raw": "",
+    "rendered": ""
+  },
+  "class_list": [
+    "post-1737",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "open",
+  "date": "2026-04-12T15:49:54",
+  "date_gmt": "2026-04-12T15:49:54",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2026/04/A-Pratical-Guide-for-AI-implementation-on-companies-scaled.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"164\" src=\"https://strivesync.ai/wp-content/uploads/2026/04/A-Pratical-Guide-for-AI-implementation-on-companies-300x164.jpg\" class=\"attachment-medium size-medium\" alt=\"Pratical AI guide\" srcset=\"https://strivesync.ai/wp-content/uploads/2026/04/A-Pratical-Guide-for-AI-implementation-on-companies-300x164.jpg 300w, https://strivesync.ai/wp-content/uploads/2026/04/A-Pratical-Guide-for-AI-implementation-on-companies-1024x559.jpg 1024w, https://strivesync.ai/wp-content/uploads/2026/04/A-Pratical-Guide-for-AI-implementation-on-companies-768x419.jpg 768w, https://strivesync.ai/wp-content/uploads/2026/04/A-Pratical-Guide-for-AI-implementation-on-companies-1536x838.jpg 1536w, https://strivesync.ai/wp-content/uploads/2026/04/A-Pratical-Guide-for-AI-implementation-on-companies-2048x1117.jpg 2048w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "A-Pratical-Guide-for-AI-implementation-on-companies.jpg",
+  "filesize": 398521,
+  "generated_slug": "a-pratical-guide-for-ai-implementation-on-companies",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2026/04/A-Pratical-Guide-for-AI-implementation-on-companies.jpg",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2026/04/A-Pratical-Guide-for-AI-implementation-on-companies.jpg"
+  },
+  "id": 1737,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 82,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/artificial-intelligence/artificial-intelligence-for-business/attachment/a-pratical-guide-for-ai-implementation-on-companies/",
+  "media_details": {
+    "file": "2026/04/A-Pratical-Guide-for-AI-implementation-on-companies-scaled.jpg",
+    "filesize": 398521,
+    "height": 1396,
+    "image_meta": {
+      "aperture": "0",
+      "camera": "",
+      "caption": "",
+      "copyright": "",
+      "created_timestamp": "0",
+      "credit": "",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [],
+      "orientation": "1",
+      "shutter_speed": "0",
+      "title": ""
+    },
+    "original_image": "A-Pratical-Guide-for-AI-implementation-on-companies.jpg",
+    "sizes": {
+      "1536x1536": {
+        "file": "A-Pratical-Guide-for-AI-implementation-on-companies-1536x838.jpg",
+        "filesize": 178435,
+        "height": 838,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/A-Pratical-Guide-for-AI-implementation-on-companies-1536x838.jpg",
+        "width": 1536
+      },
+      "2048x2048": {
+        "file": "A-Pratical-Guide-for-AI-implementation-on-companies-2048x1117.jpg",
+        "filesize": 278182,
+        "height": 1117,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/A-Pratical-Guide-for-AI-implementation-on-companies-2048x1117.jpg",
+        "width": 2048
+      },
+      "full": {
+        "file": "A-Pratical-Guide-for-AI-implementation-on-companies-scaled.jpg",
+        "height": 1396,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/A-Pratical-Guide-for-AI-implementation-on-companies-scaled.jpg",
+        "width": 2560
+      },
+      "large": {
+        "file": "A-Pratical-Guide-for-AI-implementation-on-companies-1024x559.jpg",
+        "filesize": 95535,
+        "height": 559,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/A-Pratical-Guide-for-AI-implementation-on-companies-1024x559.jpg",
+        "width": 1024
+      },
+      "large_featured": {
+        "file": "A-Pratical-Guide-for-AI-implementation-on-companies-1870x770.jpg",
+        "filesize": 197354,
+        "height": 770,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/A-Pratical-Guide-for-AI-implementation-on-companies-1870x770.jpg",
+        "width": 1870
+      },
+      "medium": {
+        "file": "A-Pratical-Guide-for-AI-implementation-on-companies-300x164.jpg",
+        "filesize": 14103,
+        "height": 164,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/A-Pratical-Guide-for-AI-implementation-on-companies-300x164.jpg",
+        "width": 300
+      },
+      "medium_featured": {
+        "file": "A-Pratical-Guide-for-AI-implementation-on-companies-800x800.jpg",
+        "filesize": 110220,
+        "height": 800,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/A-Pratical-Guide-for-AI-implementation-on-companies-800x800.jpg",
+        "width": 800
+      },
+      "medium_large": {
+        "file": "A-Pratical-Guide-for-AI-implementation-on-companies-768x419.jpg",
+        "filesize": 61248,
+        "height": 419,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/A-Pratical-Guide-for-AI-implementation-on-companies-768x419.jpg",
+        "width": 768
+      },
+      "nectar_small_square": {
+        "file": "A-Pratical-Guide-for-AI-implementation-on-companies-140x140.jpg",
+        "filesize": 7243,
+        "height": 140,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/A-Pratical-Guide-for-AI-implementation-on-companies-140x140.jpg",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "A-Pratical-Guide-for-AI-implementation-on-companies-600x403.jpg",
+        "filesize": 51317,
+        "height": 403,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/A-Pratical-Guide-for-AI-implementation-on-companies-600x403.jpg",
+        "width": 600
+      },
+      "portfolio-widget": {
+        "file": "A-Pratical-Guide-for-AI-implementation-on-companies-100x100.jpg",
+        "filesize": 4481,
+        "height": 100,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/A-Pratical-Guide-for-AI-implementation-on-companies-100x100.jpg",
+        "width": 100
+      },
+      "regular_small": {
+        "file": "A-Pratical-Guide-for-AI-implementation-on-companies-350x350.jpg",
+        "filesize": 30625,
+        "height": 350,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/A-Pratical-Guide-for-AI-implementation-on-companies-350x350.jpg",
+        "width": 350
+      },
+      "thumbnail": {
+        "file": "A-Pratical-Guide-for-AI-implementation-on-companies-150x150.jpg",
+        "filesize": 8013,
+        "height": 150,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/A-Pratical-Guide-for-AI-implementation-on-companies-150x150.jpg",
+        "width": 150
+      }
+    },
+    "width": 2560
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/jpeg",
+  "missing_image_sizes": [],
+  "modified": "2026-04-12T15:50:07",
+  "modified_gmt": "2026-04-12T15:50:07",
+  "permalink_template": "https://strivesync.ai/artificial-intelligence/artificial-intelligence-for-business/%postname%/",
+  "ping_status": "closed",
+  "post": 1592,
+  "slug": "a-pratical-guide-for-ai-implementation-on-companies",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/A-Pratical-Guide-for-AI-implementation-on-companies-scaled.jpg",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "A Pratical Guide for AI implementation on companies",
+    "rendered": "A Pratical Guide for AI implementation on companies"
+  },
+  "type": "attachment"
+}

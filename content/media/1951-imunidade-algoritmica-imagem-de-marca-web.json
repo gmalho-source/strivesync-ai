@@ -1,0 +1,239 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1951"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1951",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1951"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1951"
+      }
+    ],
+    "wp:attached-to": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/posts/1949",
+        "id": 1949,
+        "post_type": "post"
+      }
+    ]
+  },
+  "alt_text": "Cupula protetora com código e algoritmos a correr à volta",
+  "author": 1,
+  "caption": {
+    "raw": "",
+    "rendered": ""
+  },
+  "class_list": [
+    "post-1951",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "closed",
+  "date": "2026-07-10T12:58:48",
+  "date_gmt": "2026-07-10T12:58:48",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-imagem-de-marca-web.jpg'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"169\" src=\"https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-imagem-de-marca-web-300x169.jpg\" class=\"attachment-medium size-medium\" alt=\"Cupula protetora com código e algoritmos a correr à volta\" srcset=\"https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-imagem-de-marca-web-300x169.jpg 300w, https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-imagem-de-marca-web-1024x576.jpg 1024w, https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-imagem-de-marca-web-768x432.jpg 768w, https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-imagem-de-marca-web-1536x864.jpg 1536w, https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-imagem-de-marca-web.jpg 1920w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "Imunidade-Algoritmica-imagem-de-marca-web.jpg",
+  "filesize": 416981,
+  "generated_slug": "imunidade-algoritmica-imagem-de-marca-web",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-imagem-de-marca-web.jpg",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-imagem-de-marca-web.jpg"
+  },
+  "id": 1951,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 82,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/brand-strategy/algorithmic-immunity-why-ai-recommends-brands-that-earned-it/attachment/imunidade-algoritmica-imagem-de-marca-web/",
+  "media_details": {
+    "file": "2026/07/Imunidade-Algoritmica-imagem-de-marca-web.jpg",
+    "filesize": 416981,
+    "height": 1080,
+    "image_meta": {
+      "alt": "",
+      "aperture": "0",
+      "camera": "",
+      "caption": "",
+      "copyright": "",
+      "created_timestamp": "0",
+      "credit": "",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [],
+      "orientation": "0",
+      "shutter_speed": "0",
+      "title": ""
+    },
+    "sizes": {
+      "1536x1536": {
+        "file": "Imunidade-Algoritmica-imagem-de-marca-web-1536x864.jpg",
+        "filesize": 148917,
+        "height": 864,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-imagem-de-marca-web-1536x864.jpg",
+        "width": 1536
+      },
+      "full": {
+        "file": "Imunidade-Algoritmica-imagem-de-marca-web.jpg",
+        "height": 1080,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-imagem-de-marca-web.jpg",
+        "width": 1920
+      },
+      "large": {
+        "file": "Imunidade-Algoritmica-imagem-de-marca-web-1024x576.jpg",
+        "filesize": 79949,
+        "height": 576,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-imagem-de-marca-web-1024x576.jpg",
+        "width": 1024
+      },
+      "large_featured": {
+        "file": "Imunidade-Algoritmica-imagem-de-marca-web-1870x770.jpg",
+        "filesize": 166359,
+        "height": 770,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-imagem-de-marca-web-1870x770.jpg",
+        "width": 1870
+      },
+      "medium": {
+        "file": "Imunidade-Algoritmica-imagem-de-marca-web-300x169.jpg",
+        "filesize": 13237,
+        "height": 169,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-imagem-de-marca-web-300x169.jpg",
+        "width": 300
+      },
+      "medium_featured": {
+        "file": "Imunidade-Algoritmica-imagem-de-marca-web-800x800.jpg",
+        "filesize": 87869,
+        "height": 800,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-imagem-de-marca-web-800x800.jpg",
+        "width": 800
+      },
+      "medium_large": {
+        "file": "Imunidade-Algoritmica-imagem-de-marca-web-768x432.jpg",
+        "filesize": 51722,
+        "height": 432,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-imagem-de-marca-web-768x432.jpg",
+        "width": 768
+      },
+      "nectar_small_square": {
+        "file": "Imunidade-Algoritmica-imagem-de-marca-web-140x140.jpg",
+        "filesize": 6776,
+        "height": 140,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-imagem-de-marca-web-140x140.jpg",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "Imunidade-Algoritmica-imagem-de-marca-web-600x403.jpg",
+        "filesize": 43319,
+        "height": 403,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-imagem-de-marca-web-600x403.jpg",
+        "width": 600
+      },
+      "portfolio-widget": {
+        "file": "Imunidade-Algoritmica-imagem-de-marca-web-100x100.jpg",
+        "filesize": 4391,
+        "height": 100,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-imagem-de-marca-web-100x100.jpg",
+        "width": 100
+      },
+      "regular_small": {
+        "file": "Imunidade-Algoritmica-imagem-de-marca-web-350x350.jpg",
+        "filesize": 25158,
+        "height": 350,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-imagem-de-marca-web-350x350.jpg",
+        "width": 350
+      },
+      "thumbnail": {
+        "file": "Imunidade-Algoritmica-imagem-de-marca-web-150x150.jpg",
+        "filesize": 7369,
+        "height": 150,
+        "mime_type": "image/jpeg",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-imagem-de-marca-web-150x150.jpg",
+        "width": 150
+      }
+    },
+    "width": 1920
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/jpeg",
+  "missing_image_sizes": [],
+  "modified": "2026-07-10T12:59:21",
+  "modified_gmt": "2026-07-10T12:59:21",
+  "permalink_template": "https://strivesync.ai/brand-strategy/algorithmic-immunity-why-ai-recommends-brands-that-earned-it/%postname%/",
+  "ping_status": "closed",
+  "post": 1949,
+  "slug": "imunidade-algoritmica-imagem-de-marca-web",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2026/07/Imunidade-Algoritmica-imagem-de-marca-web.jpg",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "Imunidade Algoritmica - imagem de marca web",
+    "rendered": "Imunidade Algoritmica &#8211; imagem de marca web"
+  },
+  "type": "attachment"
+}

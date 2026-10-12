@@ -1,0 +1,222 @@
+{
+  "_links": {
+    "about": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/types/attachment"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/users/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media"
+      }
+    ],
+    "curies": [
+      {
+        "href": "https://api.w.org/{rel}",
+        "name": "wp",
+        "templated": true
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://strivesync.ai/wp-json/wp/v2/comments?post=1585"
+      }
+    ],
+    "self": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1585",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "wp:action-assign-author": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1585"
+      }
+    ],
+    "wp:action-unfiltered-html": [
+      {
+        "href": "https://strivesync.ai/wp-json/wp/v2/media/1585"
+      }
+    ]
+  },
+  "alt_text": "",
+  "author": 1,
+  "caption": {
+    "raw": "",
+    "rendered": ""
+  },
+  "class_list": [
+    "post-1585",
+    "attachment",
+    "type-attachment",
+    "status-inherit"
+  ],
+  "comment_status": "open",
+  "date": "2026-04-03T19:08:50",
+  "date_gmt": "2026-04-03T19:08:50",
+  "description": {
+    "raw": "",
+    "rendered": "<p class=\"attachment\"><a href='https://strivesync.ai/wp-content/uploads/2026/04/artificial-intelligence-for-business-the-complete-guide.webp'><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"200\" src=\"https://strivesync.ai/wp-content/uploads/2026/04/artificial-intelligence-for-business-the-complete-guide-300x200.webp\" class=\"attachment-medium size-medium\" alt=\"\" srcset=\"https://strivesync.ai/wp-content/uploads/2026/04/artificial-intelligence-for-business-the-complete-guide-300x200.webp 300w, https://strivesync.ai/wp-content/uploads/2026/04/artificial-intelligence-for-business-the-complete-guide-1024x683.webp 1024w, https://strivesync.ai/wp-content/uploads/2026/04/artificial-intelligence-for-business-the-complete-guide-768x512.webp 768w, https://strivesync.ai/wp-content/uploads/2026/04/artificial-intelligence-for-business-the-complete-guide.webp 1536w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></a></p>\n"
+  },
+  "exif_orientation": 1,
+  "featured_media": 0,
+  "filename": "artificial-intelligence-for-business-the-complete-guide.webp",
+  "filesize": 219730,
+  "generated_slug": "artificial-intelligence-for-business-the-complete-guide",
+  "guid": {
+    "raw": "https://strivesync.ai/wp-content/uploads/2026/04/artificial-intelligence-for-business-the-complete-guide.webp",
+    "rendered": "https://strivesync.ai/wp-content/uploads/2026/04/artificial-intelligence-for-business-the-complete-guide.webp"
+  },
+  "id": 1585,
+  "image_output_format": null,
+  "image_quality": {
+    "default": 86,
+    "sizes": []
+  },
+  "image_save_progressive": false,
+  "link": "https://strivesync.ai/artificial-intelligence-for-business-the-complete-guide/",
+  "media_details": {
+    "file": "2026/04/artificial-intelligence-for-business-the-complete-guide.webp",
+    "filesize": 219730,
+    "height": 1024,
+    "image_meta": {
+      "aperture": "0",
+      "camera": "",
+      "caption": "",
+      "copyright": "",
+      "created_timestamp": "0",
+      "credit": "",
+      "focal_length": "0",
+      "iso": "0",
+      "keywords": [],
+      "orientation": "0",
+      "shutter_speed": "0",
+      "title": ""
+    },
+    "sizes": {
+      "full": {
+        "file": "artificial-intelligence-for-business-the-complete-guide.webp",
+        "height": 1024,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/artificial-intelligence-for-business-the-complete-guide.webp",
+        "width": 1536
+      },
+      "large": {
+        "file": "artificial-intelligence-for-business-the-complete-guide-1024x683.webp",
+        "filesize": 87884,
+        "height": 683,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/artificial-intelligence-for-business-the-complete-guide-1024x683.webp",
+        "width": 1024
+      },
+      "large_featured": {
+        "file": "artificial-intelligence-for-business-the-complete-guide-1536x770.webp",
+        "filesize": 148292,
+        "height": 770,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/artificial-intelligence-for-business-the-complete-guide-1536x770.webp",
+        "width": 1536
+      },
+      "medium": {
+        "file": "artificial-intelligence-for-business-the-complete-guide-300x200.webp",
+        "filesize": 16778,
+        "height": 200,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/artificial-intelligence-for-business-the-complete-guide-300x200.webp",
+        "width": 300
+      },
+      "medium_featured": {
+        "file": "artificial-intelligence-for-business-the-complete-guide-800x800.webp",
+        "filesize": 89738,
+        "height": 800,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/artificial-intelligence-for-business-the-complete-guide-800x800.webp",
+        "width": 800
+      },
+      "medium_large": {
+        "file": "artificial-intelligence-for-business-the-complete-guide-768x512.webp",
+        "filesize": 64276,
+        "height": 512,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/artificial-intelligence-for-business-the-complete-guide-768x512.webp",
+        "width": 768
+      },
+      "nectar_small_square": {
+        "file": "artificial-intelligence-for-business-the-complete-guide-140x140.webp",
+        "filesize": 8208,
+        "height": 140,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/artificial-intelligence-for-business-the-complete-guide-140x140.webp",
+        "width": 140
+      },
+      "portfolio-thumb": {
+        "file": "artificial-intelligence-for-business-the-complete-guide-600x403.webp",
+        "filesize": 45210,
+        "height": 403,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/artificial-intelligence-for-business-the-complete-guide-600x403.webp",
+        "width": 600
+      },
+      "portfolio-widget": {
+        "file": "artificial-intelligence-for-business-the-complete-guide-100x100.webp",
+        "filesize": 4720,
+        "height": 100,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/artificial-intelligence-for-business-the-complete-guide-100x100.webp",
+        "width": 100
+      },
+      "regular_small": {
+        "file": "artificial-intelligence-for-business-the-complete-guide-350x350.webp",
+        "filesize": 31230,
+        "height": 350,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/artificial-intelligence-for-business-the-complete-guide-350x350.webp",
+        "width": 350
+      },
+      "thumbnail": {
+        "file": "artificial-intelligence-for-business-the-complete-guide-150x150.webp",
+        "filesize": 9014,
+        "height": 150,
+        "mime_type": "image/webp",
+        "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/artificial-intelligence-for-business-the-complete-guide-150x150.webp",
+        "width": 150
+      }
+    },
+    "width": 1536
+  },
+  "media_type": "image",
+  "meta": {
+    "inline_featured_image": false
+  },
+  "mime_type": "image/webp",
+  "missing_image_sizes": [],
+  "modified": "2026-04-03T19:08:50",
+  "modified_gmt": "2026-04-03T19:08:50",
+  "permalink_template": "https://strivesync.ai/?attachment_id=1585",
+  "ping_status": "closed",
+  "post": null,
+  "slug": "artificial-intelligence-for-business-the-complete-guide",
+  "source_url": "https://strivesync.ai/wp-content/uploads/2026/04/artificial-intelligence-for-business-the-complete-guide.webp",
+  "status": "inherit",
+  "template": "",
+  "title": {
+    "raw": "artificial-intelligence-for-business-the-complete-guide",
+    "rendered": "artificial-intelligence-for-business-the-complete-guide"
+  },
+  "type": "attachment"
+}
