@@ -2,17 +2,17 @@
   {
     "plugin": "ai-provider-for-anthropic/plugin",
     "status": "active",
-    "version": "1.0.4"
+    "version": "1.0.5"
   },
   {
     "plugin": "ai-provider-for-google/plugin",
     "status": "active",
-    "version": "1.1.1"
+    "version": "1.2.0"
   },
   {
     "plugin": "ai-provider-for-openai/plugin",
     "status": "active",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "plugin": "ai/ai",
@@ -21,6 +21,11 @@
   },
   {
     "plugin": "ajax-search-lite/ajax-search-lite",
+    "status": "active",
+    "version": "4.14.7"
+  },
+  {
+    "plugin": "cloudflare/cloudflare",
     "status": "active",
     "version": "4.14.5"
   },
@@ -32,7 +37,7 @@
   {
     "plugin": "fluentform/fluentform",
     "status": "active",
-    "version": "6.2.15"
+    "version": "6.2.16"
   },
   {
     "plugin": "fluentformpro/fluentformpro",
@@ -42,12 +47,7 @@
   {
     "plugin": "google-site-kit/google-site-kit",
     "status": "active",
-    "version": "1.189.0"
-  },
-  {
-    "plugin": "health-check/health-check",
-    "status": "inactive",
-    "version": "1.7.1"
+    "version": "1.190.0"
   },
   {
     "plugin": "js_composer_salient/js_composer",
@@ -56,13 +56,13 @@
   },
   {
     "plugin": "patchstack/patchstack",
-    "status": "inactive",
+    "status": "active",
     "version": "2.3.7"
   },
   {
     "plugin": "pixelyoursite/facebook-pixel-master",
     "status": "active",
-    "version": "11.4.2.1"
+    "version": "11.4.4"
   },
   {
     "plugin": "readivo/readivo",
@@ -78,21 +78,6 @@
     "plugin": "salient-custom-branding/plugin",
     "status": "active",
     "version": "1.0.0"
-  },
-  {
-    "plugin": "salient-demo-importer/plugin",
-    "status": "inactive",
-    "version": "1.8"
-  },
-  {
-    "plugin": "salient-home-slider/plugin",
-    "status": "inactive",
-    "version": "1.4.1"
-  },
-  {
-    "plugin": "salient-nectar-slider/plugin",
-    "status": "inactive",
-    "version": "1.7.8"
   },
   {
     "plugin": "salient-portfolio/plugin",
@@ -122,17 +107,17 @@
   {
     "plugin": "weglot/weglot",
     "status": "active",
-    "version": "6.4.2"
+    "version": "6.4.3"
   },
   {
     "plugin": "wordpress-seo-premium/wp-seo-premium",
     "status": "active",
-    "version": "28.6"
+    "version": "28.7"
   },
   {
     "plugin": "wordpress-seo/wp-seo",
     "status": "active",
-    "version": "28.6"
+    "version": "28.7"
   },
   {
     "plugin": "wp-health/wp-health",
